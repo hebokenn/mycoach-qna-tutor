@@ -1,6 +1,6 @@
 # 安装与使用
 
-当前GitHub发布版为v1.0.1：[安装包与校验值](https://github.com/hebokenn/mycoach-qna-tutor/releases/tag/v1.0.1)、[完整使用示例与实测截图](https://github.com/hebokenn/mycoach-qna-tutor)。仓库含内部资料，为私有；下载需要对应GitHub访问权限。
+当前GitHub发布版为v1.0.2：[安装包与校验值](https://github.com/hebokenn/mycoach-qna-tutor/releases/tag/v1.0.2)、[完整使用示例与实测截图](https://github.com/hebokenn/mycoach-qna-tutor)。仓库与安装包已按资料所有者授权公开，下载无需额外申请仓库权限。
 
 解压后保留整个`mycoach-qna-tutor`文件夹，SKILL.md、references、scripts和assets一起移动。仅粘贴SKILL.md会丢失题库、人设、原量尺和案例。
 

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "frozenOn": "2026-10-22",
   "timezone": "Asia/Shanghai",
   "historicalSnapshotAt": "2026-10-21T04:07:53.228Z",
@@ -71,5 +71,5 @@
   "redaction": "Removed participant names present in source roster, email addresses, phone numbers and original links; no source videos, signed playback URLs, credentials, databases or user IDs are included.",
   "reviewLimit": "Reuses the existing reviewed personas and historical examiner comments. No new complete video review was conducted for this package.",
   "releasePreparedOn": "2026-10-23",
-  "revisionNote": "Additional usage documentation, portable verification and role-consistent handling of unknown persona details."
+  "revisionNote": "公开发布：更新仓库访问与安装说明；教学行为、人设和量尺保持v1.0.1。"
 }

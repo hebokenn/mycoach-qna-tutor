@@ -2,7 +2,7 @@
 name: mycoach-qna-tutor
 description: 私教答疑考试备考与陪练：依据现有20题攻略、真实顾客人设、历史考官评语和原始16项量尺，回答考试与学习问题，扮顾客或Coach进行文字/宿主语音对练，并对用户提交的对练记录逐项评分。产品原理和操作引用Apple官方资料。
 metadata:
-  version: 1.0.1
+  version: 1.0.2
 ---
 
 # 私教答疑

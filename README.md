@@ -1,6 +1,6 @@
 # 私教答疑 Skill
 
-把现有考试资料变成可随时问、陪你练、根据记录评价的私教教练。支持 **Codex / WorkBuddy**；本仓库为私有，包含供授权内部学习使用的脱敏历史资料。
+把现有考试资料变成可随时问、陪你练、根据记录评价的私教教练。支持 **Codex / WorkBuddy**。仓库已按资料所有者授权公开，包含脱敏后的历史学习资料。
 
 | 你想做什么 | 可以直接这样说 |
 | --- | --- |
@@ -11,12 +11,12 @@
 
 ## 下载与安装
 
-**[下载 v1.0.1 安装包](https://github.com/hebokenn/mycoach-qna-tutor/releases/tag/v1.0.1)**，或进入[所有版本](https://github.com/hebokenn/mycoach-qna-tutor/releases)。私有仓库和安装包需要拥有仓库访问权限的GitHub账号。
+**[下载 v1.0.2 安装包](https://github.com/hebokenn/mycoach-qna-tutor/releases/tag/v1.0.2)**，或进入[所有版本](https://github.com/hebokenn/mycoach-qna-tutor/releases)。源码、使用说明和安装包均可公开访问，无需额外申请仓库权限。
 
 | 文件 | 用途 |
 | --- | --- |
-| `mycoach-qna-tutor-v1.0.1.zip` | Codex及支持标准SKILL.md目录的AI |
-| `mycoach-qna-tutor-workbuddy-v1.0.1.zip` | WorkBuddy上传入口，含其所需描述与版本元数据 |
+| `mycoach-qna-tutor-v1.0.2.zip` | Codex及支持标准SKILL.md目录的AI |
+| `mycoach-qna-tutor-workbuddy-v1.0.2.zip` | WorkBuddy上传入口，含其所需描述与版本元数据 |
 | `SHA256SUMS` | 下载校验值 |
 
 ### Codex

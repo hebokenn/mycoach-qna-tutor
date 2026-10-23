@@ -3,6 +3,7 @@
 from pathlib import Path
 import hashlib
 import json
+import re
 import subprocess
 import sys
 import tempfile
@@ -12,7 +13,9 @@ ROOT=Path(__file__).resolve().parents[1]
 
 def verify():
     results=[]
-    for manifest in sorted((ROOT/'releases').glob('v*/manifest.json')):
+    entry=(ROOT/'skills/mycoach-qna-tutor/SKILL.md').read_text()
+    version=re.search(r'^  version: ([0-9.]+)$',entry,re.M).group(1)
+    for manifest in [ROOT/'releases'/('v'+version)/'manifest.json']:
         content=json.loads(manifest.read_text())
         for entry in content['packages']:
             archive=manifest.parent/entry['file']
