@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "sourceCommit": "3f7c5216349ffdd63bd7b8be681073efd0d3ccb4",
+  "release": "https://github.com/hebokenn/mycoach-qna-tutor/releases/tag/v1.2.0",
+  "anonymousDownloads": [
+    {
+      "file": "mycoach-qna-tutor-v1.2.0.zip",
+      "bytes": 6034434,
+      "sha256": "ddbe6c9947f12df93a9d6b6f94648ae2ecc64c7f4918552c0b7038114b28f630",
+      "verifiedFiles": 2654,
+      "crc": "ok"
+    },
+    {
+      "file": "mycoach-qna-tutor-workbuddy-v1.2.0.zip",
+      "bytes": 6034592,
+      "sha256": "372839eddf98e1fc0a0cd2b9c9499b94a125122586856860d899f95d13504da3",
+      "verifiedFiles": 2654,
+      "crc": "ok"
+    }
+  ],
+  "ci": [
+    {
+      "conclusion": "success",
+      "databaseId": 39902128032,
+      "headSha": "3f7c5216349ffdd63bd7b8be681073efd0d3ccb4",
+      "status": "completed",
+      "workflowName": "Verify skill and packages"
+    },
+    {
+      "conclusion": "success",
+      "databaseId": 39902004902,
+      "headSha": "3f7c5216349ffdd63bd7b8be681073efd0d3ccb4",
+      "status": "completed",
+      "workflowName": "Verify skill and packages"
+    }
+  ],
+  "website": {
+    "url": "https://www.kgxc.cloud/dashboard/qna-guide",
+    "version": "8.0.62",
+    "deployedAt": "2026-10-23T12:52:41+0800",
+    "topics": 19,
+    "units": 77,
+    "actualBrowserChecks": 1196,
+    "readOnlyApiChecks": 267,
+    "pdfVisualReview": "Both map formats downloaded and rendered; logo, watermark, flow and original script verified."
+  },
+  "learningEvidence": "Author walkthrough, not a real learner experiment. See learner-review-v1.2.0.md."
+}
