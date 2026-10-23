@@ -97,6 +97,9 @@ class SkillTests(unittest.TestCase):
         self.assertEqual(transcript['paragraphs'],rows)
         self.assertIn({'paragraph':16,'text':'4、'},rows)
         self.assertEqual(transcript['sourceSha256'],flow['source']['sha256'])
+        paragraphs=flow['qualityBranch']['exampleSource']['paragraphs']
+        spoken=''.join(row['text'].strip() for row in rows if row['paragraph'] in paragraphs).removeprefix('质量问题（售后诊断）话术：')
+        self.assertEqual(flow['qualityBranch']['example'],spoken)
     def test_flow_lookup_and_rubric_mapping(self):
         flow=json.loads(subprocess.check_output([sys.executable,str(BASE/'scripts/tutor.py'),'flow']))
         self.assertEqual(flow['source']['trainingMinutes'],15)

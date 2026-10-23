@@ -2,14 +2,14 @@
 
 把现有考试资料整理成一个能答疑、陪练、评价对练记录的私教教练。支持Codex、WorkBuddy及能够加载完整Skill目录的AI。仓库已按资料所有者授权公开。
 
-新版参考过去考试中的真实对话，用门店里说得出口的短句交流。完整流程保留，话术可以根据顾客的回答自然调整。
+新版售后诊断话术直接使用《私教答疑流程话术》原话，供学员照着练习；其他交流方式继续参考过去考试记录。完整流程保留。
 
 ## 下载与安装
 
-**[下载最新v1.1.1安装包](https://github.com/hebokenn/mycoach-qna-tutor/releases/tag/v1.1.1)**
+**[下载最新v1.1.2安装包](https://github.com/hebokenn/mycoach-qna-tutor/releases/tag/v1.1.2)**
 
-- `mycoach-qna-tutor-v1.1.1.zip`：Codex及支持标准Skill目录的AI。
-- `mycoach-qna-tutor-workbuddy-v1.1.1.zip`：WorkBuddy上传用。
+- `mycoach-qna-tutor-v1.1.2.zip`：Codex及支持标准Skill目录的AI。
+- `mycoach-qna-tutor-workbuddy-v1.1.2.zip`：WorkBuddy上传用。
 - `SHA256SUMS`：下载校验值。
 
 Codex：解压完整文件夹，放入个人`~/.agents/skills/`或项目的`.agents/skills/`。在新对话里输入`$mycoach-qna-tutor`。也可以从源码安装：
@@ -45,13 +45,17 @@ WorkBuddy：在“专家·技能·连接器 → 技能 → 添加技能 → 上�
 
 每题都核对型号、系统、发生时间和条件，以及顾客已经试过什么。每项操作前说清目的并征求同意。处理后问其他问题，安排企微反馈、支持App、评价与按意愿交接，最后道别。15分钟来自用户提供的训练文件，正式考务仍看当期通知。
 
+售后诊断这一段按资料原话展示，学员可直接照着练习；使用说明收在折叠项内。
+
+![售后诊断资料原话](docs/images/after-sales-original-desktop.png)
+
 [查看流程与原稿](skills/mycoach-qna-tutor/references/service-flow.md) · [口头表达参考](skills/mycoach-qna-tutor/references/conversation-style.md)
 
 ![学习攻略中的完整流程，使用隔离假账号](docs/images/service-flow-desktop.png)
 
 ## 实际使用示例
 
-下面的截图展示加载新版Skill后的实际文字回复。它们是对话记录的浏览器展示，宿主语音及真实设备操作另需实际验证。
+下面两份文字试用与截图来自v1.1.1，反映当时回复；v1.1.2的售后诊断示范以本次补入的资料原话为准。它们是对话记录的浏览器展示，宿主语音及真实设备操作另需实际验证。
 
 ### 顾客仍担心质量时，怎么接着聊
 

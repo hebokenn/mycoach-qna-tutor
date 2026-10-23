@@ -12,7 +12,7 @@
     }
   },
   "sha256": {
-    "service-flow-desktop.png": "d89c7e1ebb5b4939bafeb2b60ba5c84b0a3bff44432144c07155ed765dfbc0c5",
+    "service-flow-desktop.png": "e7f445966a903edbfe89c86f1ce7310ef5ec572d8332413d2581634bece0c3c1",
     "service-flow-mobile-top.png": "9452146b1e6790abd821e41becbbb464c7ff3c313d1fd8cc26bd9c272d4c89ce"
   },
   "scenarioImages": {
@@ -29,7 +29,7 @@
       "surface": "rendered actual text trial; not native host UI"
     }
   },
-  "skillVersion": "1.1.1",
+  "skillVersion": "1.1.2",
   "currentScenarios": {
     "natural-service": {
       "imageSha256": "2a64603523460f809d7d7b7182dc78856c1ce29929bb18ba0c5eb7bc90504225",
@@ -46,6 +46,20 @@
     "sha256": {
       "complete-guide-desktop.png": "546f56f732b2546bca7b72b79cb9dbef33b92bf691d1ac4664d588f5380653e3",
       "complete-guide-mobile.png": "d8f170dc10bb769edb1f302c10f62fa29945f3a88e7b0130f4220da356b86052"
+    }
+  },
+  "originalAfterSalesQuote": {
+    "source": "私教答疑流程话术.docx",
+    "paragraphs": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "surface": "isolated preview, fake learner",
+    "images": {
+      "after-sales-original-desktop.png": "3e3cb0309de3ff931ce336a42aa6a558a98617bffac0fa520622533f99a60e1b",
+      "after-sales-original-mobile.png": "5061d1065d1fbf3b35ec6133214f05e3676d2d390f6c7209835ab79f95a61071"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "frozenOn": "2026-10-22",
   "timezone": "Asia/Shanghai",
   "historicalSnapshotAt": "2026-10-21T04:07:53.228Z",
@@ -111,5 +111,15 @@
     ],
     "excerpts": 9,
     "reviewLimit": "读取已有转写和考官评语，未重新全程听审。"
+  },
+  "originalAfterSalesQuote": {
+    "sourceSha256": "34277fc58091de40bcc396fa8eaed80bd9233731a9c8e45b298392fa13fe5498",
+    "paragraphs": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "change": "按用户指定改为资料原话，仅合并换行；其他例句不受此要求影响。"
   }
 }
