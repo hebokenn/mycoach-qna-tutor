@@ -1,0 +1,13 @@
+{
+  "id": "477",
+  "topicKey": "storage-full",
+  "question": "手机提示内存不够",
+  "date": "2024-01-24 11:00:00",
+  "score": 0,
+  "result": "未通过",
+  "comment": "学员上线无画面和声音，线上多次提醒检查考试链接和浏览器权限均无果，无法判断是否为系统原因，请审核酌情考量是否算作一次考试成绩",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

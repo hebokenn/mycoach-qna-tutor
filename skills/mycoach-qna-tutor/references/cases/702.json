@@ -1,0 +1,13 @@
+{
+  "id": "702",
+  "topicKey": "battery-quality",
+  "question": "手机电池质量问题",
+  "date": "2024-03-22 15:30:00",
+  "score": 80,
+  "result": "通过",
+  "comment": "考题：手机电池质量问题\n1、缺少复述和确认问题；\n2、实施解释不够有说服力（如：告诉客户晚上边充边用会影响第二天的使用；之后告诉客户是会产生损耗影响续航，但又不检查电池健康）",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

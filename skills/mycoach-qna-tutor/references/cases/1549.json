@@ -1,0 +1,13 @@
+{
+  "id": "1549",
+  "topicKey": "contacts-deleted",
+  "question": "手机通讯录被删",
+  "date": "2024-07-17 11:30:00",
+  "score": 80,
+  "result": "通过",
+  "comment": "手机通讯录被删\n1.开场自然，安抚话术相对单一。2.问题定位准确，提供较为合理的解决方案（讲师带客户检查iCloud存储空间有存储数据-去 iCloud网页进行数据恢复-无通讯录数据恢复-又重新检查通讯录同步开关）。但解决问题过程中信服力不够强（未第一时间检查到通讯录同步是否开启），专业知识不够扎实，个别表述有误（如：讲师告知客户iCloud有进度条显示，就代表iCloud开启）。建议加强专业知识储备，梳理iCloud存储/备份/同步三者关系。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "B1",
+  "title": "同一真实电池顾客的多轮披露与未知边界",
+  "mode": "customer_roleplay",
+  "sourceFiles": [
+    "SKILL.md",
+    "references/roleplay.md",
+    "references/personas/battery-quality/battery-quality-5887.json"
+  ],
+  "turns": [
+    {
+      "role": "user",
+      "content": "你当顾客，我当Coach，练电池质量题，不要先给答案。"
+    },
+    {
+      "role": "assistant",
+      "content": "我来扮顾客，你当Coach。说“暂停”可要提示，说“结束”可复盘。\n\n我这手机上周才买的，充了很长时间还是充不满，电池是不是有问题呀？"
+    },
+    {
+      "role": "user",
+      "content": "为了帮您判断，我先确认：是充不满还是充满后用得快？通常停在多少电量？"
+    },
+    {
+      "role": "assistant",
+      "content": "我说的是充不满，不是用得快。充到80%就停在那儿了，电量不再往上涨。"
+    },
+    {
+      "role": "user",
+      "content": "您多大、做什么工作的？设置改完现在是不是已经正常了？"
+    },
+    {
+      "role": "assistant",
+      "content": "我主要想先弄清楚为什么充不满。咱们还没改设置呢，也没验证后面能不能继续充上去，现在还不能说正常了。"
+    }
+  ],
+  "checks": [
+    {
+      "name": "同一真实来源人设连续三轮",
+      "passed": true,
+      "evidence": "三轮均使用同一电池质量人设，主诉、80%停止与未知结果一致。"
+    },
+    {
+      "name": "开场不泄露答案",
+      "passed": true,
+      "evidence": "首轮只说新购、长时间充不满及质量顾虑；未透露设置、配件、解法或分数。"
+    },
+    {
+      "name": "按当轮问题披露",
+      "passed": true,
+      "evidence": "第二轮只区分充不满与用得快、说明80%停止；未提前给隐藏滑杆设置或其他背景。"
+    },
+    {
+      "name": "未知年龄和职业不编造",
+      "passed": true,
+      "evidence": "第三轮自然转回充不满的主诉，没有生成年龄、职业、性别或人口特征。"
+    },
+    {
+      "name": "自然保持顾客角色",
+      "passed": true,
+      "evidence": "第三轮只以顾客口吻回应，没有说明资料库、原回放、历史记录或技能来源。"
+    },
+    {
+      "name": "不把用户预设当操作成功",
+      "passed": true,
+      "evidence": "第三轮明确当前还没改设置、没验证后续充电，没有宣称恢复。"
+    }
+  ],
+  "limitations": [
+    "仅复测指定三轮；没有测试后续修改设置、提示切换或充电验证。",
+    "年龄与职业保持未知，通过自然回到主诉处理该提问，没有新增顾客背景。"
+  ],
+  "evidenceFiles": [
+    "evidence-B1-persona-excerpt.json",
+    "source-manifest-B1-v1.0.1.json"
+  ],
+  "skillVersion": "1.0.1",
+  "testedSkillVersion": "1.0.1"
+}

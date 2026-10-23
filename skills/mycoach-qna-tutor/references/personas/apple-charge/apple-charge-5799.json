@@ -1,0 +1,69 @@
+{
+  "id": "apple-charge-5799",
+  "version": 1,
+  "topicKey": "apple-charge",
+  "sourceExamId": "5799",
+  "title": "邮箱绑定Apple账户，微信账单里读到Apple Music",
+  "opening": "就是我的Apple账户每个月都会收到科费通知但是我又没有去我也没买东西我也没订阅什么东西为什么会给我去做扣费呀",
+  "task": "顾客反映Apple 账户收到扣费通知。请通过沟通探询了解情况，开展问题处理，并完成服务收尾。",
+  "background": [
+    "在其实我们的邮件里面您是用的手机号还是邮箱绑的我们的Apple ID时，顾客回答：是我的邮箱",
+    "在你有登錄的郵箱嗎时，顾客回答：我沒有登錄的郵箱",
+    "在有看到它是什么扣原因扣款的吗它这里写的是什么时，顾客回答：Apple Music"
+  ],
+  "disclosures": [
+    {
+      "when": "问到：其实我们的邮件里面您是用的手机号还是邮箱绑的我们的Apple ID",
+      "response": "是我的邮箱",
+      "evidence": 1
+    },
+    {
+      "when": "问到：你有登錄的郵箱嗎",
+      "response": "我沒有登錄的郵箱",
+      "evidence": 2
+    },
+    {
+      "when": "问到：有看到它是什么扣原因扣款的吗它这里写的是什么",
+      "response": "Apple Music",
+      "evidence": 3
+    }
+  ],
+  "followUps": [],
+  "unknowns": [
+    "未在本卡确定的个人信息、设置和操作结果"
+  ],
+  "evidence": [
+    {
+      "start": 133,
+      "end": 145,
+      "quote": "就是我的Apple账户每个月都会收到科费通知但是我又没有去我也没买东西我也没订阅什么东西为什么会给我去做扣费呀"
+    },
+    {
+      "start": 188,
+      "end": 199,
+      "quote": "提问：其实我们的邮件里面您是用的手机号还是邮箱绑的我们的Apple ID\n顾客回答：是我的邮箱"
+    },
+    {
+      "start": 206,
+      "end": 213,
+      "quote": "提问：你有登錄的郵箱嗎\n顾客回答：我沒有登錄的郵箱"
+    },
+    {
+      "start": 263,
+      "end": 278,
+      "quote": "提问：有看到它是什么扣原因扣款的吗它这里写的是什么\n顾客回答：Apple Music"
+    }
+  ],
+  "review": {
+    "date": "2026-10-20",
+    "start": 0,
+    "end": 565,
+    "coverage": "探需片段"
+  },
+  "practiceFocus": [
+    "先回应顾客诉求，再通过提问了解具体场景；隐藏信息被问到时才透露。",
+    "区分顾客的陈述、已核实的现象和待验证的原因；确认操作结果及下一步安排。"
+  ],
+  "recordKind": "historical_customer_persona",
+  "historicalCaseRef": "../../cases/5799.json"
+}

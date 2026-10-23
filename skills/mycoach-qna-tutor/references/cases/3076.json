@@ -1,0 +1,13 @@
+{
+  "id": "3076",
+  "topicKey": "storage-full",
+  "question": "手机提示内存不够",
+  "date": "2025-03-29 13:30:00",
+  "score": 80,
+  "result": "通过",
+  "comment": "手机提示内存不够\n1.内容：排查合理，但解释说明不及时不够清楚，引导操作缺乏原因说明；提供合适的解决方案，但流畅度不足。\n2.服务技巧：安抚单一，表达不流畅；探询不全面（如：未问询客户手机的使用情况）。\n3.流程：流程完整。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "1095",
+  "topicKey": "contacts-deleted",
+  "question": "手机通讯录被删",
+  "date": "2024-05-28 10:00:00",
+  "score": 81,
+  "result": "通过",
+  "comment": "手机通讯录被删\n1、错误解答（iCloud 同步开关，讲师解释为是iCloud 云盘，可以帮助我们存储在云盘中）2、操作步骤说明不够清楚。建议熟悉iCloud （备份/同步/云盘/钥匙串）多实操多演练。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

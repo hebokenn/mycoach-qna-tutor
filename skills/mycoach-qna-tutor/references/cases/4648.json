@@ -1,0 +1,13 @@
+{
+  "id": "4648",
+  "topicKey": "contacts-deleted",
+  "question": "手机通讯录被删",
+  "date": "2026-02-11 13:30:00",
+  "score": 81,
+  "result": "通过",
+  "comment": "手机通讯录被删 \n1.内容：问题定位准确，提供合适解决方案。但在带领顾客关闭再开启 iCloud 通讯录同步开关时，没有及时解释说明，顾客不理解操作缘由。建议实施方案前适当对问题进行预期（开启 iCloud 同步开关或未开启两种状态下应当如何处理），并拓展 iCloud 同步的作用。\n2.服务技巧：及时安抚。探询不全面，如：未了解顾客是否使用iCloud 同步/是否有其他设备。\n3.流程：流程完整。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

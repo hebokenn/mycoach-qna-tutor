@@ -1,0 +1,4 @@
+interface:
+  display_name: "私教答疑"
+  short_description: "覆盖二十题考试答疑、顾客与Coach双向对练及依据原量尺的记录评分"
+  default_prompt: "使用 $mycoach-qna-tutor 帮我准备私教答疑考试，或开始一轮顾客对练。"

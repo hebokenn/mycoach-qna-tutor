@@ -1,0 +1,85 @@
+{
+  "id": "A2",
+  "title": "黑屏朗读恢复画面后继续处理旁白手势",
+  "mode": "功能与故障答疑，连续两轮",
+  "sourceFiles": [
+    "SKILL.md",
+    "references/topics/index.md",
+    "references/topics/black-screen-sound.md",
+    "references/apple-sources.md"
+  ],
+  "turns": [
+    {
+      "role": "user",
+      "content": "iPhone屏幕全黑但碰哪里会读出按钮名称，手机不烫也没摔过，可能是什么，先教我一步。"
+    },
+    {
+      "role": "assistant",
+      "content": "‘碰到哪里就读出按钮名称’符合旁白开启的表现，黑屏还可能是同时打开了幕帘屏。幕帘屏像把画面遮住，手机和朗读仍能工作；目前还不能只凭描述排除所有显示问题。\n\n先试一个手势恢复画面：用三根手指同时、快速轻点屏幕三下。如果您明确知道同时开着‘缩放’，这一步改为三指轻点四下；不确定就先试三下。做完先停住，告诉我屏幕有没有亮；如果仍黑但朗读停了，也请告诉我。\n\n这是按[Apple幕帘屏说明](https://support.apple.com/zh-cn/111797)进行的第一步。"
+    },
+    {
+      "role": "user",
+      "content": "画面亮了，但我点设置它只念设置，打不开。"
+    },
+    {
+      "role": "assistant",
+      "content": "现在画面已恢复，您说的‘只念设置’符合旁白仍在工作的操作方式：点一下是选中并朗读，快速点两下才是打开。[Apple旁白手势](https://support.apple.com/zh-cn/guide/iphone/iph3e2e2281/ios)\n\n您刚听到‘设置’后，请用一根手指在屏幕上快速轻点两下。先只试打开这一项，告诉我有没有进入设置。进去后，我们再按您的需要决定保留还是关闭朗读。"
+    }
+  ],
+  "officialSources": [
+    {
+      "title": "将幕帘屏与旁白搭配使用",
+      "url": "https://support.apple.com/zh-cn/111797",
+      "verifiedAt": "2026-10-23",
+      "evidence": "正文说明设备和旁白在幕帘屏下仍工作；iPhone三指轻点三下，同时开启缩放时四下。"
+    },
+    {
+      "title": "在iPhone上使用旁白手势",
+      "url": "https://support.apple.com/zh-cn/guide/iphone/iph3e2e2281/ios",
+      "verifiedAt": "2026-10-23",
+      "evidence": "正文说明轻点选择并朗读，轻点两下激活所选项目。"
+    }
+  ],
+  "checks": [
+    {
+      "name": "依据症状提出假设",
+      "passed": true,
+      "evidence": "将朗读按钮名称与旁白对应、黑屏与幕帘屏对应，同时保留未排除其他显示问题的事实边界。"
+    },
+    {
+      "name": "三下与四下条件准确",
+      "passed": true,
+      "evidence": "三指三下与同时开启缩放时三指四下，均与Apple官方111797正文一致。"
+    },
+    {
+      "name": "遵守先教一步",
+      "passed": true,
+      "evidence": "第一轮只给幕帘屏切换手势和条件分支，没有堆叠重启、设置关闭或恢复设备的动作。"
+    },
+    {
+      "name": "先说明机制与预期再操作",
+      "passed": true,
+      "evidence": "先解释遮住画面但设备仍工作的机制，再说明恢复画面的手势。"
+    },
+    {
+      "name": "恢复显示后继续跟进旁白",
+      "passed": true,
+      "evidence": "第二轮没有以屏幕亮了结束，而是解释单点选择、双点激活，并引导只打开设置。"
+    },
+    {
+      "name": "等待用户反馈，不伪造成功",
+      "passed": true,
+      "evidence": "画面亮来自用户第二轮陈述；是否已进入设置仍以询问结束，未声称旁白已关闭或所有问题已解决。"
+    },
+    {
+      "name": "按需求保留辅助功能",
+      "passed": true,
+      "evidence": "第二轮说按用户需要决定保留还是关闭朗读，没有默认关闭所有辅助功能。"
+    }
+  ],
+  "limitations": [
+    "未取得机型、iOS版本、缩放状态和实机画面；第一步属于低影响的假设检验，不能证明硬件状态。",
+    "第二轮之后没有用户反馈，尚未验证能否进入设置、关闭旁白或避免后续误触。"
+  ],
+  "testedSkillVersion": "1.0.0"
+}

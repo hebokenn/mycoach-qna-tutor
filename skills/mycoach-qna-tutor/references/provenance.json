@@ -1,0 +1,75 @@
+{
+  "version": "1.0.1",
+  "frozenOn": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "historicalSnapshotAt": "2026-10-21T04:07:53.228Z",
+  "counts": {
+    "topics": 20,
+    "personas": 1267,
+    "historicalCases": 1281,
+    "sourceExceptions": 14,
+    "exercises": 201,
+    "rubricItems": 16,
+    "officialReferenceEntries": 50,
+    "uniqueOfficialURLs": 48
+  },
+  "sourceHashes": [
+    {
+      "path": "mycoach-progress/src/lib/apple-exam-current-questions.ts",
+      "sha256": "b8c4d605dc59b9db2a8e8db939f492e5feed01a00886689415e9ba1cf19e06fc"
+    },
+    {
+      "path": "mycoach-progress/src/lib/rubric-data.ts",
+      "sha256": "1e1f9980d54afa0bfb5e7f3771243bcd3c8fbad470f1ddffcb5aaa97fddfef54"
+    },
+    {
+      "path": "mycoach-progress/src/lib/certification-standards.ts",
+      "sha256": "c9e086a4edc06bf2691b528e6b9ad0b0215aab0d8b89d099ceaa055056fb196b"
+    },
+    {
+      "path": "mycoach-progress/src/lib/rubric-scoring.ts",
+      "sha256": "831e80b1a64d868d161eebc13de0904b372863898f66a05a813d47e3036859b0"
+    },
+    {
+      "path": "mycoach-progress/src/lib/qna-topic-data.ts",
+      "sha256": "af6e9b6cf5cd532c47c1da389cc97e9d165943c40e5ca0d9f87433f8e7a6527d"
+    },
+    {
+      "path": "mycoach-progress/src/lib/qna-topic-references.ts",
+      "sha256": "79388485ee42f4f2ea746d60969ac5514c2d3f35c23d7c976753986ff88e69cf"
+    },
+    {
+      "path": "mycoach-progress/src/lib/qna-topic-exercises.ts",
+      "sha256": "4c2f2254b1f9b851b28228f852329e140395bcbf65f362ba8f6194c589abfa71"
+    },
+    {
+      "path": "mycoach-progress/src/lib/qna-guide-data.ts",
+      "sha256": "ee45d6069a9a5c1812d7b46f07a7df9fb5b1cd9784756c2d4c9af9890909bd61"
+    },
+    {
+      "path": "mycoach-progress/src/lib/qna-guide-standards-data.ts",
+      "sha256": "a7af71ea86c647df72a610131274e50e6fa4ebbf71d7987b89304e73ee160452"
+    },
+    {
+      "path": "mycoach-progress/src/lib/qna-guide-battery-learning.ts",
+      "sha256": "780806cac33847255320fc92b26716d304cd6d3a1bf49c45dd0819b416710303"
+    },
+    {
+      "path": "mycoach-progress/src/lib/qna-guide-battery-exercises.ts",
+      "sha256": "3c723ded0d0e8f530bc96ad4313c0bd5e1f847d7d354efa4428d0366502b5196"
+    },
+    {
+      "path": "mycoach-progress/src/lib/practice-persona-data.ts",
+      "sha256": "247a50ec42bac7d0bb4d9b1e397bf3d301c4d9b465024c1359febeb7d78edcf2"
+    },
+    {
+      "path": "outputs/persona-full-qna-20261021/source/inventory-current20.json",
+      "sha256": "e2fbbce858000fbd23583e2efebf787558857d0b6080a4d44b42bca40dfaeac0"
+    }
+  ],
+  "originalXlsxSha256": "de75eaa5ec321b795f8d1a10175c8b109f6f97410342853c6cc593bb2ecf3ba8",
+  "redaction": "Removed participant names present in source roster, email addresses, phone numbers and original links; no source videos, signed playback URLs, credentials, databases or user IDs are included.",
+  "reviewLimit": "Reuses the existing reviewed personas and historical examiner comments. No new complete video review was conducted for this package.",
+  "releasePreparedOn": "2026-10-23",
+  "revisionNote": "Additional usage documentation, portable verification and role-consistent handling of unknown persona details."
+}

@@ -1,0 +1,34 @@
+{
+  "sourceFile": "references/personas/battery-quality/battery-quality-5887.json",
+  "selection": "manual source selection; no random-sampling claim",
+  "id": "battery-quality-5887",
+  "opening": "我上周才买的手机总是充不满，充很久都不行，是不是电池有问题？",
+  "disclosures": [
+    {
+      "when": "问到是续航短还是充不满",
+      "response": "不是续航的问题，是电池充不满，不能把我的问题改成掉电快。",
+      "evidence": 0
+    },
+    {
+      "when": "问到停在多少电量",
+      "response": "到 80% 就充不进去了。",
+      "evidence": 1
+    },
+    {
+      "when": "问到充电配件、平时软件使用",
+      "response": "使用其他品牌充电头，因为原装较贵；常用微信和短视频，也会玩游戏、拍视频。",
+      "evidence": 2
+    },
+    {
+      "when": "问到是否查看过充电设置，再引导查看滑杆",
+      "response": "以前没有注意过；按引导找到充电上限后，发现自己的滑杆在 80%。",
+      "evidence": 4
+    }
+  ],
+  "unknowns": [
+    "年龄与职业",
+    "第三方充电头的具体型号与认证情况",
+    "完整回放后续的设置结果"
+  ],
+  "dataHandling": "Only fields needed for the three turns are retained; no raw historical names, contact details or credentials."
+}

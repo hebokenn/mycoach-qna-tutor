@@ -1,0 +1,85 @@
+# 12. Apple 账户收到扣费通知：人设索引
+
+共81份可练真实来源人设。标题可能揭示原因，作为顾客对练时不要向学员展示。各JSON保存原背景、条件披露、未知信息、依据时间码及历史审阅范围，不混合不同场次。
+
+- [apple-charge-6068](apple-charge/apple-charge-6068.json)：连续三个月被扣 12 元，找不到对应消费；探需片段，03:14–10:00。
+- [apple-charge-5467](apple-charge/apple-charge-5467.json)：连续两个月收到扣费，表示只用免费应用；探需片段，00:00–10:00。
+- [apple-charge-5345](apple-charge/apple-charge-5345.json)：隔一段时间查邮件，发现多条不明订阅扣费；探需片段，00:00–06:00。
+- [apple-charge-5478](apple-charge/apple-charge-5478.json)：前两天从邮件发现支付宝扣款，不清楚周期；探需片段，00:00–06:01。
+- [apple-charge-5534](apple-charge/apple-charge-5534.json)：微信每月收到扣费，仅有一部iPhone 17；探需片段，00:00–06:00。
+- [apple-charge-5555](apple-charge/apple-charge-5555.json)：知道QQ音乐扣8元，但近两月又扣11元和12元；探需片段，00:00–06:00。
+- [apple-charge-5591](apple-charge/apple-charge-5591.json)：邮件里发现Apple Music订阅，认为苹果乱扣费；探需片段，00:00–06:00。
+- [apple-charge-5621](apple-charge/apple-charge-5621.json)：微信里看到Apple扣费，自述未开通包月应用；探需片段，00:00–06:01。
+- [apple-charge-5736](apple-charge/apple-charge-5736.json)：连续三个月微信扣费，没印象开过会员；探需片段，00:00–06:00。
+- [apple-charge-5796](apple-charge/apple-charge-5796.json)：昨天在微信发现12元扣款，没有查看账单详情；探需片段，00:00–05:59。
+- [apple-charge-5831](apple-charge/apple-charge-5831.json)：昨天才在微信发现扣费，以前有没有扣过不确定；探需片段，00:00–05:59。
+- [apple-charge-5957](apple-charge/apple-charge-5957.json)：七月起每月扣12元，微信客服让来找Apple；探需片段，00:00–05:59。
+- [apple-charge-6038](apple-charge/apple-charge-6038.json)：七八九月连续扣费，Apple账户一直自己用；探需片段，00:00–06:00。
+- [apple-charge-5327](apple-charge/apple-charge-5327.json)：iPhone 17用了三月，邮件每月扣款但表示只用免费应用；探需片段，00:00–17:27。
+- [apple-charge-5799](apple-charge/apple-charge-5799.json)：邮箱绑定Apple账户，微信账单里读到Apple Music；探需片段，00:00–09:25。
+- [apple-charge-5377](apple-charge/apple-charge-5377.json)：17用半年多，邮件两三次通知约11元，不确定起扣时间；探需片段，00:00–16:00。
+- [apple-charge-5438](apple-charge/apple-charge-5438.json)：知道QQ音乐和喜马拉雅会员，却不清楚Apple每月11元；探需片段，00:00–16:01。
+- [apple-charge-5880](apple-charge/apple-charge-5880.json)：知道QQ音乐会员扣费，另有一笔不明Apple扣费；探需片段，00:00–06:00。
+- [apple-charge-6110](apple-charge/apple-charge-6110.json)：微信连续四五个月出现Apple扣费，账户没有借给别人；探需片段，00:00–06:01。
+- [apple-charge-5257](apple-charge/apple-charge-5257.json)：知道QQ音乐每月8元，另外连续两月被扣10元不明费用；探需片段，00:00–06:01。
+- [apple-charge-522](apple-charge/apple-charge-522.json)：以为免费试用不用付费，每月出现音乐订阅扣款；探需片段，00:00–20:24。
+- [apple-charge-1164](apple-charge/apple-charge-1164.json)：15ProMax邮件11元连续两月3日，收信日与实扣日分开，已取消不需猜QQ关联；探需片段，00:00–23:45。
+- [apple-charge-1211](apple-charge/apple-charge-1211.json)：免费Music试用后每月通知，订阅页自报11元并已取消，需要补讲当期权益和以后自查；探需片段，00:00–24:24。
+- [apple-charge-1286](apple-charge/apple-charge-1286.json)：15Pro免费Music后早已有月扣，先要解释原因，再确认取消并学支持资源；探需片段，00:00–12:53。
+- [apple-charge-1342](apple-charge/apple-charge-1342.json)：近期数月固定Music邮件，账单与订阅页相符，已有支持App，取消完成仍待确认；探需片段，00:00–26:01。
+- [apple-charge-1355](apple-charge/apple-charge-1355.json)：Music固定日期邮件加支付宝提示，订阅金额日期相符，已学习取消与未来自查；探需片段，00:00–09:20。
+- [apple-charge-576](apple-charge/apple-charge-576.json)：每月19元、邮件写AppleMusic，买机时免费试用后忘管，关心取消后还能否用；探需片段，00:00–26:01。
+- [apple-charge-595](apple-charge/apple-charge-595.json)：15Pro京东领两月试用、账单15元，想停续费并了解能否退款；探需片段，00:00–17:10。
+- [apple-charge-767](apple-charge/apple-charge-767.json)：自己Mac与手机同号、支付宝月扣AppleMusic，确认已取消但扣费起始未知；探需片段，00:00–16:57。
+- [apple-charge-770](apple-charge/apple-charge-770.json)：首台iPhone只用免费App，爱奇艺已关仍月扣15元，想起Music试用后不追退款；探需片段，00:00–16:56。
+- [apple-charge-921](apple-charge/apple-charge-921.json)：月扣15元、邮件及银行卡短信双通知，注重账号安全，已按指引取消Music；探需片段，00:00–22:46。
+- [apple-charge-1429](apple-charge/apple-charge-1429.json)：三个月前发现支付宝月扣，Music11元与通知相符，只接受免费使用；探需片段，00:00–18:21。
+- [apple-charge-1434](apple-charge/apple-charge-1434.json)：15Pro用近一年，最近两月Music邮件扣款，以为免费，取消仍需确认；探需片段，00:00–07:20。
+- [apple-charge-1442](apple-charge/apple-charge-1442.json)：15Pro支付宝仅显示Apple扣费，订阅页才找到Music11元，已有支持App；探需片段，00:00–26:01。
+- [apple-charge-1603](apple-charge/apple-charge-1603.json)：15Pro每月12日Music邮件，以为买机赠送就不用管，需要把取消确认做完；探需片段，00:00–09:13。
+- [apple-charge-1703](apple-charge/apple-charge-1703.json)：14Pro使用时长更正约半年，Music扣五六元想退费，选择联系官方支持；探需片段，00:00–15:22。
+- [apple-charge-1772](apple-charge/apple-charge-1772.json)：13与iOS16、用两年后才发现Music长扣，先否认后想起三月试用推送；探需片段，00:00–17:22。
+- [apple-charge-1951](apple-charge/apple-charge-1951.json)：自己账号、最近才发现长期Music扣费，认为免费试用应自动结束，取消未核实；探需片段，00:00–11:41。
+- [apple-charge-2144](apple-charge/apple-charge-2144.json)：近期发现Music月扣、邮件太多，记得免费推送但没留意条款，需说明取消和退款边界；探需片段，00:00–14:26。
+- [apple-charge-2154](apple-charge/apple-charge-2154.json)：只自己一台iPhone、两月Music扣费，想追回两笔，已跟到退款申请步骤但审核待查；探需片段，00:00–16:35。
+- [apple-charge-2241](apple-charge/apple-charge-2241.json)：11Pro自己账号、少看邮件才发现Music，取消后关心剩余权益并确认已取消；探需片段，00:00–15:10。
+- [apple-charge-2351](apple-charge/apple-charge-2351.json)：近期才翻出多封Music邮件，怀疑自动续费，想追回不用月份的钱并问人工途径；探需片段，00:00–15:21。
+- [apple-charge-2365](apple-charge/apple-charge-2365.json)：多次明确无家人共享，订阅页见Music但不记得开通，想取消并咨询退费；探需片段，00:00–16:52。
+- [apple-charge-2495](apple-charge/apple-charge-2495.json)：Music十来元月扣、有些试用印象，回应取消完成但到期日未读出；探需片段，00:00–19:20。
+- [apple-charge-2542](apple-charge/apple-charge-2542.json)：11换14Pro几个月，自己同号无别设备，微信支付宝都绑，通知主要看邮件；探需片段，00:00–16:08。
+- [apple-charge-2614](apple-charge/apple-charge-2614.json)：14Pro领取免费Music、称没有收费提醒，确认取消后仍需听懂为什么扣款；探需片段，00:00–26:01。
+- [apple-charge-2677](apple-charge/apple-charge-2677.json)：Music邮件、偏爱自己音乐App拒绝推销，补查邮件仅Music并询问其他支付渠道；探需片段，00:00–13:31。
+- [apple-charge-2723](apple-charge/apple-charge-2723.json)：用机一年、买过买断App，Music续费不明，过去账单筛选不符且希望人工退款；探需片段，00:00–22:23。
+- [apple-charge-2777](apple-charge/apple-charge-2777.json)：家人全安卓、仅一账号，Music约11元，习惯QQ音乐且担心取消后仍扣；探需片段，00:00–12:27。
+- [apple-charge-2780](apple-charge/apple-charge-2780.json)：15用约年、自己账号，Music从未用的记忆，已取消但微信旧扣款想申请退；探需片段，00:00–15:32。
+- [apple-charge-2812](apple-charge/apple-charge-2812.json)：14Pro知道Music每月收费后暂不取消，只学习以后两种取消入口；探需片段，00:00–11:59。
+- [apple-charge-3024](apple-charge/apple-charge-3024.json)：13加新平板前就扣Music，自估近一年，已取消但多年退款需审核与简易路径；探需片段，00:00–21:17。
+- [apple-charge-3069](apple-charge/apple-charge-3069.json)：15邮件月扣Music，第三方页面没查见续费，要求退旧款却被绝对否定；探需片段，00:00–26:01。
+- [apple-charge-3087](apple-charge/apple-charge-3087.json)：邮件发现Music月扣，免费使用者现场取消，旧款退款仍待处理；探需片段，00:00–17:53。
+- [apple-charge-3091](apple-charge/apple-charge-3091.json)：近几个月收通知但记不清日期，Music取消页需要解释和确认；探需片段，00:00–16:07。
+- [apple-charge-3093](apple-charge/apple-charge-3093.json)：15用了半年，微信每月11元扣三个月Music，要求退费并问能否保证；探需片段，00:00–17:25。
+- [apple-charge-3148](apple-charge/apple-charge-3148.json)：购机店员称Music免费并代操作，月扣邮件后现场取消；探需片段，00:00–17:06。
+- [apple-charge-3235](apple-charge/apple-charge-3235.json)：去年九月首批新机，支付宝Music扣费，现场取消后需教以后自查；探需片段，00:00–16:50。
+- [apple-charge-3283](apple-charge/apple-charge-3283.json)：支付宝Music月扣已取消，顾客仍追问免费为何变收费；探需片段，00:00–19:38。
+- [apple-charge-3334](apple-charge/apple-charge-3334.json)：15半年邮件Music同额，支持App学会求助，开通原因尚未查明；探需片段，00:00–19:43。
+- [apple-charge-3416](apple-charge/apple-charge-3416.json)：16Pro半年多微信月扣十元，Music已取消，约下月观察；探需片段，00:00–15:25。
+- [apple-charge-3446](apple-charge/apple-charge-3446.json)：微信月扣十元第三个月，旧邮件已删，Music取消后待下月验证；探需片段，00:00–11:41。
+- [apple-charge-3654](apple-charge/apple-charge-3654.json)：购机称Music免费而订用，半年后月月通知，知道取消但进度未实核；探需片段，00:00–17:26。
+- [apple-charge-3657](apple-charge/apple-charge-3657.json)：14Pro用一年多，半年Music十多元月扣，已取消却未解释免费转收费；探需片段，00:00–23:43。
+- [apple-charge-3683](apple-charge/apple-charge-3683.json)：14Pro三月起月扣11元Music，已取消，退款拓展不想继续；探需片段，00:00–26:01。
+- [apple-charge-3751](apple-charge/apple-charge-3751.json)：15只有一台且未共享，Music未用求退旧款，取消未明确确认；探需片段，00:00–20:31。
+- [apple-charge-3815](apple-charge/apple-charge-3815.json)：邮件月扣Music，解释反复绕到扫脸，后回忆可能点过免费试用；探需片段，00:00–17:24。
+- [apple-charge-4042](apple-charge/apple-charge-4042.json)：15近两月邮件Music扣费，隐约记得免费试用，退款准备有空再做；探需片段，00:00–12:22。
+- [apple-charge-4043](apple-charge/apple-charge-4043.json)：16Pro三月邮件Music，自称免费，取消指导后仍问收费缘由；探需片段，00:00–17:39。
+- [apple-charge-4070](apple-charge/apple-charge-4070.json)：Music账单先说13后改11，早已同额仍绕路核对，想听扣费原因；探需片段，00:00–19:45。
+- [apple-charge-4386](apple-charge/apple-charge-4386.json)：支付宝连续Music账单核到本人账号，取消指导后需确认真实结果；探需片段，00:00–18:09。
+- [apple-charge-4456](apple-charge/apple-charge-4456.json)：五六号Music十多元已取消，讲师主动提退款后顾客拒绝继续演示；探需片段，00:00–15:32。
+- [apple-charge-4560](apple-charge/apple-charge-4560.json)：14Pro换17Pro一周，旧Music月扣延续，明确现场取消；探需片段，00:00–20:00。
+- [apple-charge-4565](apple-charge/apple-charge-4565.json)：17Pro去年九月购机，知道Music收费后决定继续用，学习以后取消；探需片段，00:00–16:55。
+- [apple-charge-4913](apple-charge/apple-charge-4913.json)：Music17元家庭方案，iPad账号记不清，停止共享建议未核根因；探需片段，00:00–16:34。
+- [apple-charge-4938](apple-charge/apple-charge-4938.json)：Music17元与六月续期，家庭设备账号未清，否认试用记忆；探需片段，00:00–26:01。
+- [apple-charge-5053](apple-charge/apple-charge-5053.json)：17微信十元Music，已删App仍扣费，明确取消后退款待办；探需片段，00:00–17:34。
+- [apple-charge-5085](apple-charge/apple-charge-5085.json)：17微信扣款曾问微信，Music删除仍订阅，现场取消后求退旧款；探需片段，00:00–19:46。
+- [apple-charge-5251](apple-charge/apple-charge-5251.json)：17Pro微信约十元Music，App已删，八月到期但仍不知为何开通；探需片段，00:00–13:09。
+- [apple-charge-5271](apple-charge/apple-charge-5271.json)：16ProMax三月邮件扣费，Music已取消却仍未讲清试用授权；探需片段，00:00–16:29。
+- [apple-charge-5275](apple-charge/apple-charge-5275.json)：17Pro微信固定十元，QQ邮箱同ID，Music已删，退款路径已学待观察；探需片段，00:00–25:30。

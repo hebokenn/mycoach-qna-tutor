@@ -1,0 +1,26 @@
+{
+  "verifiedAt": "2026-10-23T01:19:38.013817+00:00",
+  "skillVersion": "1.0.1",
+  "sourceFiles": [
+    {
+      "path": "SKILL.md",
+      "sha256": "f64cf23c9001ca9d451bb091d7dc03de3e4eccdb0dbfd0d6c887d98a62fa951c"
+    },
+    {
+      "path": "references/scoring.md",
+      "sha256": "b3ea11cde5eff02b6f03f8143d6cd15756d8b69070ec7d0300d3eb51b785ca13"
+    },
+    {
+      "path": "references/exam-standard.md",
+      "sha256": "8f3f5398be968915251e50c9d96a0ba212352aae0294edaf365a7fbc954b847c"
+    },
+    {
+      "path": "references/exam-standard.json",
+      "sha256": "7e1691b0f3075c0f7dd6ad88b67fc16d17a162c1773392456c4038b26e648b78"
+    },
+    {
+      "path": "scripts/score_record.py",
+      "sha256": "f0e782abc35d34945135646282842403e115f5881d1cdeaa59b229ceb8892106"
+    }
+  ]
+}

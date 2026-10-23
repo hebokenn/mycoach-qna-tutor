@@ -1,0 +1,13 @@
+{
+  "id": "703",
+  "topicKey": "storage-full",
+  "question": "手机提示空间不足",
+  "date": "2024-03-23 15:30:00",
+  "score": 82,
+  "result": "通过",
+  "comment": "手机提示空间不足\n1、提醒不足（如：取消 iCloud 同步的开关，未提醒顾客，如果关闭后，手机上未备份的部分删后再也找不回来）2、建议不足（如：讲师优先建议顾客关闭备份，缺乏优先推荐顾客购买空间，拓展服务）3、邀评尴尬（如：讲师咨询顾客，您可以给我一个好评吗？）建议加强知识储备，深入了解 iCloud ，提升授课技巧。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

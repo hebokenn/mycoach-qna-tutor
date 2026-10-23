@@ -1,0 +1,13 @@
+{
+  "id": "2898",
+  "topicKey": "battery-quality",
+  "question": "手机电池质量问题",
+  "date": "2025-02-28 16:30:00",
+  "score": 82,
+  "result": "通过",
+  "comment": "手机电池质量问题\n1.内容：排查合理，提供方案不全面，如仅提供后台app刷新/自动锁定，未建议打开电池优化充电。\n2.服务技巧：及时安抚。探询思路相对清晰。\n3.流程：流程完整。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

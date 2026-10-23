@@ -1,0 +1,13 @@
+{
+  "id": "605",
+  "topicKey": "ipad-verification-password",
+  "question": "iPad 提示输入验证密码",
+  "date": "2024-03-02 13:00:00",
+  "score": 76,
+  "result": "未通过",
+  "comment": "1、排查问题思路比较局限（如：客户一直强调自己密码是正确的不愿意重新登陆，讲师不由及时调整探寻方向一直纠结在密码输入不正确上）\n2、不能准确定位客户问题并有效解释问题存在的原因。\n3、实施过程比较说服力（如：客户已经明显表现出不愿意重新登陆，讲师依然还是让客户采取此方案）",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

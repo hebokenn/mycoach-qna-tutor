@@ -1,0 +1,77 @@
+{
+  "id": "storage-full-5484",
+  "version": 1,
+  "topicKey": "storage-full",
+  "sourceExamId": "5484",
+  "title": "手机空间不足，同时iCloud的5GB空间也满了",
+  "opening": "我的手机经常提示内存不足，一共128G，系统数据就占了100多G，为什么这么大？",
+  "task": "顾客反映手机提示内存不够。请通过沟通探询了解情况，开展问题处理，并完成服务收尾。",
+  "background": [
+    "在我想问一下您这边有开通咱们的iCloud服务吗时，顾客回答：没有开通过iCloud付费服务。",
+    "在您那边是显示的是多少GB的内存是50吗还是说有更大的空间时，顾客回答：只有5GB，已经满了，显示红色。"
+  ],
+  "disclosures": [
+    {
+      "when": "问到：我想问一下您这边有开通咱们的iCloud服务吗",
+      "response": "没有开通过iCloud付费服务。",
+      "evidence": 1
+    },
+    {
+      "when": "问到：您那边是显示的是多少GB的内存是50吗还是说有更大的空间",
+      "response": "只有5GB，已经满了，显示红色。",
+      "evidence": 2
+    }
+  ],
+  "followUps": [
+    {
+      "question": "您从哪里点进去的？",
+      "evidence": 3
+    },
+    {
+      "question": "照您的方法删除，释放的是手机空间还是iCloud空间？",
+      "evidence": 4
+    }
+  ],
+  "unknowns": [
+    "未在本卡确定的个人信息、设置和操作结果"
+  ],
+  "evidence": [
+    {
+      "start": 33,
+      "end": 44,
+      "quote": "就我的手机经常提示内存不足一共128G的内存系统数据就占了100多个节为什么会这么大呢"
+    },
+    {
+      "start": 224,
+      "end": 232,
+      "quote": "提问：我想问一下您这边有开通咱们的iCloud服务吗\n顾客回答：没有开通过iCloud付费服务。"
+    },
+    {
+      "start": 252,
+      "end": 267,
+      "quote": "提问：您那边是显示的是多少GB的内存是50吗还是说有更大的空间\n顾客回答：只有5GB，已经满了，显示红色。"
+    },
+    {
+      "start": 125,
+      "end": 131,
+      "quote": "你从哪里点进去的"
+    },
+    {
+      "start": 338,
+      "end": 353,
+      "quote": "跟那个没有关系哪个账号下的软件我必须要删除什么iCloud的空间按照你的方法如果从哪里删掉这个释放的是什么空间"
+    }
+  ],
+  "review": {
+    "date": "2026-10-20",
+    "start": 0,
+    "end": 360,
+    "coverage": "探需片段"
+  },
+  "practiceFocus": [
+    "先回应顾客诉求，再通过提问了解具体场景；隐藏信息被问到时才透露。",
+    "区分顾客的陈述、已核实的现象和待验证的原因；确认操作结果及下一步安排。"
+  ],
+  "recordKind": "historical_customer_persona",
+  "historicalCaseRef": "../../cases/5484.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "761",
+  "topicKey": "storage-full",
+  "question": "手机提示内存不够",
+  "date": "2024-04-03 14:30:00",
+  "score": 76,
+  "result": "未通过",
+  "comment": "考题：手机提示内存不够\n1、专业知识较差，提供了错误信息（如：告诉客户关闭同步开关就会删除 iCloud 里的数据）\n2、实施过程不够不够专业（如：告诉客户的操作时不能准确告诉客户对应选项，在选项中来回跳跃；出现长时间冷场）",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

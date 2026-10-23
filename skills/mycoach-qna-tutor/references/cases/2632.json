@@ -1,0 +1,13 @@
+{
+  "id": "2632",
+  "topicKey": "contacts-deleted",
+  "question": "手机通讯录被删",
+  "date": "2024-12-24 11:30:00",
+  "score": 80,
+  "result": "通过",
+  "comment": "手机通讯录被删\n1.内容：问题定位准确，但解释说明不及时，iCloud解释不简洁不全面（如：讲师仅说，打开iCloud同步开关，可以同步到云端，没有展开说明其他的使用注意事项）。\n2.服务技巧：及时安抚，探询缺乏技巧，提问比较散，探询不全面，未询问客户通讯录是个别联系人还是整个都没了。\n3.流程：提问缺乏征求顾客同意。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

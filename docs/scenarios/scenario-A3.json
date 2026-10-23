@@ -1,0 +1,77 @@
+{
+  "id": "A3",
+  "title": "非本人异地Apple账户登录验证",
+  "mode": "账户安全答疑",
+  "sourceFiles": [
+    "SKILL.md",
+    "references/topics/index.md",
+    "references/topics/unknown-account.md",
+    "references/apple-sources.md"
+  ],
+  "turns": [
+    {
+      "role": "user",
+      "content": "收到Apple账户异地登录验证弹窗，不是我操作，弹窗地图在外省，应该怎么办？"
+    },
+    {
+      "role": "assistant",
+      "content": "既然不是您发起的登录，先在设备的这条系统通知里选‘不允许’，不要把验证码、设备密码或账户密码给任何人。\n\n地图显示的是IP地址或所用网络的大致位置，并不等于那台设备的精确位置，所以不能只因‘外省’就断定账户已经被盗；但非本人登录请求仍要拒绝。[Apple：拒绝未知登录尝试](https://support.apple.com/zh-cn/guide/personal-safety/ipsf8e72746b/web)\n\n接着从您自己的设备设置进入Apple账户，尽快更改为独一无二的强密码，由您本人输入；再检查账户的设备列表和安全信息有没有陌生内容。若发现不认识的设备，先核实是不是自己的旧设备，再按官方安全流程处理。无法登录或重设密码时，手动打开Apple的账户恢复入口，不通过陌生短信或邮件链接进入。[Apple：如果认为账户被盗](https://support.apple.com/zh-cn/102560)\n\n您刚才有没有点过‘允许’或把验证码提供给别人？现在还能正常登录自己的账户吗？只需说情况，不用发账号、密码或验证码。"
+    }
+  ],
+  "officialSources": [
+    {
+      "title": "拒绝未知登录尝试",
+      "url": "https://support.apple.com/zh-cn/guide/personal-safety/ipsf8e72746b/web",
+      "verifiedAt": "2026-10-23",
+      "evidence": "正文说明地图基于IP或网络大致位置；不认识的新设备登录通知应选择不允许。"
+    },
+    {
+      "title": "如果你认为自己的Apple账户被盗",
+      "url": "https://support.apple.com/zh-cn/102560",
+      "verifiedAt": "2026-10-23",
+      "evidence": "正文说明更改强密码、检查陌生安全信息和设备；无法登录或重设时通过Apple账户恢复处理。"
+    }
+  ],
+  "checks": [
+    {
+      "name": "紧急动作优先且准确",
+      "passed": true,
+      "evidence": "第一句在已知非本人操作的前提下指导系统通知选择不允许，与Apple拒绝未知登录尝试正文一致。"
+    },
+    {
+      "name": "位置与盗号结论分开",
+      "passed": true,
+      "evidence": "明确地图是IP/网络大致位置，没有凭外省地图判定账户已被盗，也没有因此忽视非本人请求。"
+    },
+    {
+      "name": "后续安全措施有官方依据",
+      "passed": true,
+      "evidence": "更改强密码、检查设备与安全信息、无法访问时恢复账户均有Apple102560依据。"
+    },
+    {
+      "name": "不索取敏感凭据",
+      "passed": true,
+      "evidence": "强调密码由本人输入；只问是否提供过验证码等情况，没有索取账号、密码或验证码内容。"
+    },
+    {
+      "name": "识别可能已经批准的分支",
+      "passed": true,
+      "evidence": "追问是否点允许或提供验证码，以及当前能否控制账户，为下一轮分支留下必要信息。"
+    },
+    {
+      "name": "不虚构账户处理结果",
+      "passed": true,
+      "evidence": "未登录任何账户，未宣称已拒绝请求、改密、移除设备或恢复安全。"
+    },
+    {
+      "name": "当前官方来源核验完成",
+      "passed": true,
+      "evidence": "2026-10-23成功打开两份Apple支持正文，两个用户可点击链接均直接指向相应官方页面。"
+    }
+  ],
+  "limitations": [
+    "没有实机弹窗截图，系统双重认证通知与仿冒网页的区分仍基于用户描述。",
+    "未知用户是否已允许请求、泄露凭据或失去账户控制权；本轮仅提供处理指导，不能判定账户是否已安全。"
+  ],
+  "testedSkillVersion": "1.0.0"
+}

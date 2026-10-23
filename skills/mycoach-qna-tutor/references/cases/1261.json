@@ -1,0 +1,13 @@
+{
+  "id": "1261",
+  "topicKey": "storage-full",
+  "question": "手机提示空间不足",
+  "date": "2024-06-13 11:30:00",
+  "score": 80,
+  "result": "通过",
+  "comment": "手机提示空间不足\n1、有一定提问技巧2、排查方案准确3、解决方案不准确（如：建议顾客在iCloud 中将 iCloud 同步 App 开关，关闭）4、处理方案解答不完善（如：建议顾客在管理账户存储空间中删除，缺乏提醒顾客，删除内容后，未备份将无法找回）。建议熟悉 iCloud ，了解清楚备份与同步，解答内容需要更完善。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

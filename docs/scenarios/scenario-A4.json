@@ -1,0 +1,93 @@
+{
+  "id": "A4",
+  "title": "Coach示范区分iCloud与iPhone储存空间",
+  "mode": "AI扮Coach，用户扮顾客，连续两轮",
+  "sourceFiles": [
+    "SKILL.md",
+    "references/roleplay.md",
+    "references/topics/index.md",
+    "references/topics/storage-full.md",
+    "references/apple-sources.md"
+  ],
+  "turns": [
+    {
+      "role": "user",
+      "content": "你当Coach，我当顾客。手机提示空间不足，买了iCloud容量为什么还不行？"
+    },
+    {
+      "role": "assistant",
+      "content": "您好，我是今天陪您排查的Coach。买了容量却还提示不足，确实容易让人困惑。\n\niCloud容量和手机自己的储存空间是两个地方：像云端仓库和随身的柜子，扩了云端仓库，手机柜子本身不会变大。启用合适的同步与优化功能，才可能减少一部分本机占用。[Apple：两种储存空间的区别](https://support.apple.com/zh-cn/102670)\n\n为了选对处理方式，先请您读一下提示原文：写的是‘iPhone储存空间’还是‘iCloud储存空间’？另外请告诉我iPhone机型和iOS版本，方便对照您实际的菜单。"
+    },
+    {
+      "role": "user",
+      "content": "提示写的是iPhone储存空间，256GB用了255GB，照片占最多。"
+    },
+    {
+      "role": "assistant",
+      "content": "明白，按您读出的数字，256GB机身已经用了255GB，而且照片最多；这次要先处理手机本身的空间。照片优化可以把原片保存在iCloud，在手机保留较省空间的版本，但要先核对云端空间和照片同步情况，不能保证立刻腾出固定容量。[Apple：管理照片和视频储存空间](https://support.apple.com/zh-cn/105061)\n\n机型和系统版本还没核对，我们先只查看，不改设置：请打开‘设置→您的姓名→iCloud→照片’，告诉我‘同步此iPhone’是开还是关，以及页面有没有等待、暂停或空间不足的提示；如果菜单不同，就先告诉我iOS版本。\n\n先别用删除照片来测试。开启iCloud照片时，删除会同步影响同一图库的其他设备。[Apple：设置和使用iCloud照片](https://support.apple.com/zh-cn/108782) 看完当前状态，我们再决定下一步；现在还没有验证空间是否增加。"
+    }
+  ],
+  "officialSources": [
+    {
+      "title": "iCloud与设备储存空间有什么区别",
+      "url": "https://support.apple.com/zh-cn/102670",
+      "verifiedAt": "2026-10-23",
+      "evidence": "正文分别说明云端空间和设备空间，以及各自查看入口。"
+    },
+    {
+      "title": "管理照片和视频储存空间",
+      "url": "https://support.apple.com/zh-cn/105061",
+      "verifiedAt": "2026-10-23",
+      "evidence": "正文说明优化时云端保留全分辨率原片，设备按需要保留节省空间副本；iOS27多一层iPhone储存空间入口。"
+    },
+    {
+      "title": "设置和使用iCloud照片",
+      "url": "https://support.apple.com/zh-cn/108782",
+      "verifiedAt": "2026-10-23",
+      "evidence": "正文说明设置、姓名、iCloud、照片入口；同一图库删除同步到其他设备；优化和上传需要结合实际状态。"
+    }
+  ],
+  "checks": [
+    {
+      "name": "直接进入Coach角色",
+      "passed": true,
+      "evidence": "沿用用户指定角色，作Coach身份介绍、承接困惑，没有要求重新选择角色或替用户编出隐藏人设。"
+    },
+    {
+      "name": "云空间与机身容量解释准确",
+      "passed": true,
+      "evidence": "明确购买iCloud不会增加256GB机身容量，与Apple102670一致，没有引导再次购买。"
+    },
+    {
+      "name": "依据本轮用户信息确认焦点",
+      "passed": true,
+      "evidence": "第二轮仅将iPhone提示、256GB已用255GB、照片最多视为用户已报告事实，没有拼接历史案例。"
+    },
+    {
+      "name": "一次少量动作并等待反馈",
+      "passed": true,
+      "evidence": "第二轮只引导查看一个照片设置页面并报告状态，尚未要求打开同步、删除、退出账户或抹除。"
+    },
+    {
+      "name": "保留系统与同步前提",
+      "passed": true,
+      "evidence": "仍指出机型和系统未核对；先问同步开关和当前提示，没有假设已经上传完成或优化已开启。"
+    },
+    {
+      "name": "同步删除影响说明准确",
+      "passed": true,
+      "evidence": "提醒iCloud照片删除影响其他设备，Apple108782正文明确支持该影响。"
+    },
+    {
+      "name": "不编造实机操作成功",
+      "passed": true,
+      "evidence": "没有说同步已完成、空间已释放或照片安全已确认；末句明确尚未验证空间增加。"
+    }
+  ],
+  "limitations": [
+    "用户第二轮未提供机型或iOS版本，因此没有指导版本不同的优化选项入口。",
+    "未知iCloud剩余容量、是否开启照片同步、原片是否可访问和同步状态，尚不能确定应启用或调整哪项功能。",
+    "本场景只完成前两轮排查，未进行真实设备操作，也未验证最终空间与原提示变化。"
+  ],
+  "testedSkillVersion": "1.0.0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "933",
+  "topicKey": "ipad-verification-password",
+  "question": "iPad 提示输入验证密码",
+  "date": "2024-04-26 15:30:00",
+  "score": 75,
+  "result": "未通过",
+  "comment": "考题：iPad 提示输入验证密码\n1、探问题思路不够全面，不能有效排查出问题所在\n2、问题定位不准确（如：在客户表示密码没有的问题的情况下，仍一直认为客户是需要退出登陆重新验证）\n3、实施过程不够严谨专业，缺乏说服力（如：未提醒退出登陆的注意事项、在客户不太愿意退出登陆的情况下执意让客户重新登陆）",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

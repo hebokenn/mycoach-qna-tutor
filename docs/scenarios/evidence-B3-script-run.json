@@ -1,0 +1,11 @@
+{
+  "command": [
+    "python3",
+    "scripts/score_record.py",
+    "--input",
+    "evidence-B3-score-input.json"
+  ],
+  "executionContext": "installed skill directory; absolute local path omitted",
+  "exitCode": 0,
+  "stderr": ""
+}

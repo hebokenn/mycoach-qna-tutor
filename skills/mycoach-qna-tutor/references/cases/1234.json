@@ -1,0 +1,13 @@
+{
+  "id": "1234",
+  "topicKey": "battery-quality",
+  "question": "手机电池质量问题",
+  "date": "2024-06-07 15:00:00",
+  "score": 83,
+  "result": "通过",
+  "comment": "手机电池质量问题\n1、探询不足（缺乏提问技巧，咨询问题不容易回复）2、排查方式准确3、电池状态解答说明清楚4、引导顾客改善设置、操作方式。建议提升提问技巧，多实操多演练，加强知识储备。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

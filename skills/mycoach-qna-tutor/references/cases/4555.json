@@ -1,0 +1,13 @@
+{
+  "id": "4555",
+  "topicKey": "unknown-account",
+  "question": "手机弹出陌生账号验证",
+  "date": "2026-01-21 11:30:00",
+  "score": 76,
+  "result": "未通过",
+  "comment": "手机弹出陌生账号验证  \n1.内容：问题定位不准确，未解决顾客问题，排查合理但未排查到关键点（讲师仅带领顾客检查设置中 ID 账号和 app store 的账号是否一致，未排查 Game Center ），最后讲师告知客户是：系统版本问题，手机需要重启解决 bug ，以及让顾客更改 ID 密码。建议梳理解决问题思路，思考顾客哪些地方需要登录 Apple ID （设置/ app store / Game Center 等），再一一排查以解决顾客问题。\n2.服务技巧：安抚话术比较单一。探询不全面，如：未询问顾客自己的账号是否正常/是否借给他人使用/设备是否登录过他人账号/手机是否借给别人使用。\n3.流程：流程完整。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

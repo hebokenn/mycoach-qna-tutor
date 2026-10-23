@@ -1,0 +1,13 @@
+{
+  "id": "1950",
+  "topicKey": "ipad-verification-password",
+  "question": "iPad 提示输入验证密码",
+  "date": "2024-08-23 15:30:00",
+  "score": 80,
+  "result": "通过",
+  "comment": "iPad 提示输入验证密码\n调试设备共享屏幕9分钟 1.开场自然。2.及时安抚，但安抚话术单一。3.探询问题逻辑不够强（如：未确认网络）。4.针对该问题有一定解决思路，但排查不够及时，解释说明不够清楚。建议梳理解决问题的思路，增加逻辑性，表述清楚。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

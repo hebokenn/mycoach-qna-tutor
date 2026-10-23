@@ -1,0 +1,13 @@
+{
+  "id": "4450",
+  "topicKey": "unknown-account",
+  "question": "手机弹出陌生账号验证",
+  "date": "2026-01-09 15:30:00",
+  "score": 81,
+  "result": "通过",
+  "comment": "手机弹出陌生账号验证 \n1.内容：排查合理，问题定位准确，提供合适解决方案，但排查中忽略实际情况，如：讲师反复让顾客查看 游戏 app 中的账号是否为自己的 Apple ID ，但实际此界面只能查看游戏账号的昵称，不能直接看到 ID ，故顾客不能凭此判断是否为自己的 ID 号，后续讲师才让顾客去【设置-  Game Center 】中检查。\n2.服务技巧：及时安抚。探询不全面，如：未了解顾客手机弹出的 ID 是否认识。\n3.流程：流程完整。",
+  "replayAvailable": false,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

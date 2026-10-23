@@ -1,0 +1,13 @@
+{
+  "id": "1708",
+  "topicKey": "storage-full",
+  "question": "手机提示空间不足",
+  "date": "2024-08-06 14:30:00",
+  "score": 75,
+  "result": "未通过",
+  "comment": "手机提示空间不足\n1.开场自然。2.及时安抚客户。3.探询问题不全面（未问客户iCloud使用情况）。4.问题定位准确，但方案不够合理（讲师仅让客户关闭使用iCloud的app，未告知如何清理iCloud空间）。5.专业知识不熟练，解释不够专业，缺乏信服力，提供错误回答（如：讲师告知客户关闭使用iCloud的app，iCloud的空间就能释放；且关于iCloud的解释不清楚）。建议加强iCloud部分的专业知识；提高探询问题技巧；梳理解决方案思路，提供完整的解决方案。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "4804",
+  "topicKey": "wechat-deleted",
+  "question": "微信被删了，无法安装回来",
+  "date": "2026-04-14 10:30:00",
+  "score": 82,
+  "result": "通过",
+  "comment": "微信被删了，无法安装回来  1.内容：问题定位准确，提供合适的解决方案，但引导顾客去网页端重设密码时，略有不足，如：讲师让顾客搜索“ iCloud.com ”，但重设密码应当输入“ iforgot.apple.com ”。后续交流反馈得知讲师想法是想通过登录 iCloud 去验证 Apple 账户是否被锁定（此想法合理，但在解决问题过程中缺乏解释说明，可能会给顾客造成误解，即可在 iCloud 网页中修改密码），实际顾客已经表示 Apple 账户已被锁定，建议直接让顾客搜索 iforgot.apple.com 修改密码或通过受信任设备修改密码。\n2.服务技巧：及时安抚，安抚真诚。探询合理，但眼神不够专注，讲师时不时看向屏幕左侧。\n3.流程：流程完整。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

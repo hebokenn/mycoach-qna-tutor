@@ -1,0 +1,13 @@
+{
+  "id": "5779",
+  "topicKey": "unknown-photos",
+  "question": "手机相册出现莫名其妙的照片",
+  "date": "2026-08-26 18:00:00",
+  "score": 78,
+  "result": "未通过",
+  "comment": "内容准确：1）关键信息确认不到位，判断依据不足，问题定位武断，讲师得知顾客的Apple ID 在其他设备上登录，未与顾客确认 iCloud 同步是否开启，直接告知是因为此原因导致；Apple ID 多设备登录≠一定开启 iCloud 同步，如果用户实际并未开启 iCloud 同步，会造成用户排查方向偏离，增加用户操作成本，降低专业可信度。\n2）知识掌握不足，讲师答非所问，顾客询问如何确定 iCloud 照片是否下载好了，讲师引导顾客去 iCloud.com.cn 中去对比哪些没有下载下来，若有不同步，单独从 iCloud 网页下载；实际应当在设置- Apple账户- iCloud 照片-页面查看同步下载状态。\n\n答疑服务技巧：及时安抚客户。探询不全面，未询问顾客是否了解和使用iCloud 。\n\n流程完整：流程完整。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

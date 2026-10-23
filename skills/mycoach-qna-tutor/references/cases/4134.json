@@ -1,0 +1,13 @@
+{
+  "id": "4134",
+  "topicKey": "unknown-account",
+  "question": "手机弹出陌生账号验证",
+  "date": "2025-09-17 14:00:00",
+  "score": 75,
+  "result": "未通过",
+  "comment": "手机弹出陌生账号验证\n讲师进入系统调试设备，刚开始能听见声音，但连接到手机就听不见声音，导致考试时间耽误了10分钟。\n1.内容：表达不果断，信服力不够强。排查不到位，未带领顾客排查 Game Center 是否登录了他人 ID ，导致问题定位不准确，未解决顾客问题。\n2.服务技巧：安抚不及时，讲师先复述问题。探询合理。\n3.流程：流程完整。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

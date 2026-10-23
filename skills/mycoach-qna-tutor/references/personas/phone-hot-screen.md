@@ -1,0 +1,72 @@
+# 4. 手机发热黑屏的疑问：人设索引
+
+共68份可练真实来源人设。标题可能揭示原因，作为顾客对练时不要向学员展示。各JSON保存原背景、条件披露、未知信息、依据时间码及历史审阅范围，不混合不同场次。
+
+- [phone-hot-screen-5826](phone-hot-screen/phone-hot-screen-5826.json)：太阳直晒时边充电边导航，黑屏后仍担心设备损伤；探需片段，00:25–10:00。
+- [phone-hot-screen-5556](phone-hot-screen/phone-hot-screen-5556.json)：17 Pro开车导航时有线充电，首次黑屏出现温度计图案；探需片段，00:00–06:01。
+- [phone-hot-screen-5541](phone-hot-screen/phone-hot-screen-5541.json)：开车给朋友出游导航时首次黑屏，和温度提示图相符；探需片段，00:00–06:00。
+- [phone-hot-screen-5323](phone-hot-screen/phone-hot-screen-5323.json)：17 Pro导航时首次黑屏显示温度计，担心是否损伤电池；探需片段，00:00–16:01。
+- [phone-hot-screen-5308](phone-hot-screen/phone-hot-screen-5308.json)：开车导航又连车载音乐并充电，途中黑屏，车内已开空调；探需片段，00:00–16:01。
+- [phone-hot-screen-508](phone-hot-screen/phone-hot-screen-508.json)：青藏公路自驾导航突然黑屏，显示温度计与冷却提示；探需片段，00:00–16:01。
+- [phone-hot-screen-528](phone-hot-screen/phone-hot-screen-528.json)：15 Pro Max购两周，自驾导航发烫黑屏，要求查批次并考虑换机；探需片段，00:00–16:01。
+- [phone-hot-screen-577](phone-hot-screen/phone-hot-screen-577.json)：返程导航约两小时出现温度警告，已停服务区借配偶手机咨询；探需片段，00:00–06:01。
+- [phone-hot-screen-1133](phone-hot-screen/phone-hot-screen-1133.json)：导航三四小时后首次遇温度提示，没开空调且尚未处理；探需片段，00:00–06:00。
+- [phone-hot-screen-1176](phone-hot-screen/phone-hot-screen-1176.json)：开车回老家三四小时后出现温度警告，接车内电源且有壳；探需片段，00:00–10:22。
+- [phone-hot-screen-1306](phone-hot-screen/phone-hot-screen-1306.json)：15 Pro小半年首次导航黑屏，有温度警告且当前无法操作；探需片段，00:00–06:00。
+- [phone-hot-screen-1343](phone-hot-screen/phone-hot-screen-1343.json)：15 Pro约半年，导航回家时发烫黑屏，日常视频应用不能代替当时任务；探需片段，00:00–06:01。
+- [phone-hot-screen-1532](phone-hot-screen/phone-hot-screen-1532.json)：15 Pro导航时温度警告，车窗开启未开空调，强制启动没反应；探需片段，00:00–06:01。
+- [phone-hot-screen-1711](phone-hot-screen/phone-hot-screen-1711.json)：iPhone 11系统17.6，导航中温度警告但没感受到烫；探需片段，00:00–06:00。
+- [phone-hot-screen-1918](phone-hot-screen/phone-hot-screen-1918.json)：11 Pro户外导航微信切换，温度警告、按键无反应，备份仅估计；探需片段，00:00–16:01。
+- [phone-hot-screen-607](phone-hot-screen/phone-hot-screen-607.json)：iPhone XS导航中出现温度计，未充电，按键没反应且不懂专业术语；探需片段，00:00–26:01。
+- [phone-hot-screen-729](phone-hot-screen/phone-hot-screen-729.json)：导航突然黑屏显示温度警告，已路边停车借配偶手机求助；探需片段，00:00–06:01。
+- [phone-hot-screen-1881](phone-hot-screen/phone-hot-screen-1881.json)：15 Pro前几天导航温度警告，已自行恢复，质疑关闭刷新和送检；探需片段，00:00–26:01。
+- [phone-hot-screen-1925](phone-hot-screen/phone-hot-screen-1925.json)：iPhone 15导航接车充，出现次数不多，有壳且只用导航；探需片段，00:00–06:00。
+- [phone-hot-screen-1972](phone-hot-screen/phone-hot-screen-1972.json)：15 Pro近一年首次导航温度警告，接着车充，质疑默认阳光直射；探需片段，00:00–16:01。
+- [phone-hot-screen-2011](phone-hot-screen/phone-hot-screen-2011.json)：iPhone 15半年首次导航温度警告，晴天行车三四小时，仍需导航；探需片段，00:00–06:01。
+- [phone-hot-screen-2093](phone-hot-screen/phone-hot-screen-2093.json)：iPhone 15上周末导航温度提示，当前没黑屏，复杂路口仅听语音不够；探需片段，00:00–16:01。
+- [phone-hot-screen-2251](phone-hot-screen/phone-hot-screen-2251.json)：11 Pro首次导航温度提示，未充电，按键尝试后反馈已回主屏；探需片段，00:00–16:01。
+- [phone-hot-screen-2309](phone-hot-screen/phone-hot-screen-2309.json)：11 Pro用一年以上，导航接电且有壳，随后反馈冷却后已能用；探需片段，00:00–06:00。
+- [phone-hot-screen-2482](phone-hot-screen/phone-hot-screen-2482.json)：返乡约五小时车程已行三小时，首次导航黑屏，接电且有普通壳；探需片段，00:00–06:01。
+- [phone-hot-screen-2778](phone-hot-screen/phone-hot-screen-2778.json)：设备在身边，导航时接电，当前温度计提示仍担心质量；探需片段，00:00–06:00。
+- [phone-hot-screen-2797](phone-hot-screen/phone-hot-screen-2797.json)：14 Pro导航黑屏，环境较热壳不厚，尚未放置不能确认恢复；探需片段，00:00–06:00。
+- [phone-hot-screen-2947](phone-hot-screen/phone-hot-screen-2947.json)：iPhone 15半年多只发生一次，等待后恢复，同行人手机接替导航；探需片段，00:00–06:01。
+- [phone-hot-screen-2969](phone-hot-screen/phone-hot-screen-2969.json)：车内开窗仍热，仅导航未充电，着急并确认先冷却再操作；探需片段，00:00–13:51。
+- [phone-hot-screen-3022](phone-hot-screen/phone-hot-screen-3022.json)：14 Pro导航三四小时未充电，亮度非最高，手机不在出风口；探需片段，00:00–06:00。
+- [phone-hot-screen-3052](phone-hot-screen/phone-hot-screen-3052.json)：16 Pro一个多月系统18.3.1，昨天导航黑屏，今天已恢复；探需片段，00:00–06:01。
+- [phone-hot-screen-3137](phone-hot-screen/phone-hot-screen-3137.json)：导航中屏幕有温度计和冷却提示，没其他操作，追问是否只能等待；探需片段，00:00–06:01。
+- [phone-hot-screen-3275](phone-hot-screen/phone-hot-screen-3275.json)：14 Pro未充电导航，30多度天气下车开三四小时后首次警告；探需片段，00:00–06:00。
+- [phone-hot-screen-3324](phone-hot-screen/phone-hot-screen-3324.json)：14 Pro一年，导航三四小时后温度警告，质疑过去也导航却没发生；探需片段，00:00–06:01。
+- [phone-hot-screen-3325](phone-hot-screen/phone-hot-screen-3325.json)：iPhone 16约半年，出风口支架接非家中原配线，半小时后已恢复；探需片段，00:00–16:01。
+- [phone-hot-screen-3475](phone-hot-screen/phone-hot-screen-3475.json)：14 Pro一年以上，首次导航警告未充电，主动纠正概括；探需片段，00:00–06:01。
+- [phone-hot-screen-3490](phone-hot-screen/phone-hot-screen-3490.json)：14 Pro两年多，导航有线原装充电温度警告，等待后可操作；探需片段，00:00–16:01。
+- [phone-hot-screen-3497](phone-hot-screen/phone-hot-screen-3497.json)：14 Pro晴晒40多度，车前直晒边充导航，有壳且不能退出导航；探需片段，00:00–06:00。
+- [phone-hot-screen-3522](phone-hot-screen/phone-hot-screen-3522.json)：14 Pro车内导航曾有温度提示，当前已经能操作；探需片段，00:00–06:01。
+- [phone-hot-screen-3597](phone-hot-screen/phone-hot-screen-3597.json)：14 Pro18.5，约两小时前车内导航警告，接电且壳不重；探需片段，00:00–06:00。
+- [phone-hot-screen-3738](phone-hot-screen/phone-hot-screen-3738.json)：14 Pro车内导航逐渐发烫，温度警告时仍在充电；探需片段，00:00–06:00。
+- [phone-hot-screen-3786](phone-hot-screen/phone-hot-screen-3786.json)：iPhone 13用两三年，首次导航警告，无无线充电，原装线偶补电；探需片段，00:00–06:00。
+- [phone-hot-screen-3840](phone-hot-screen/phone-hot-screen-3840.json)：16 Pro高温天气充电导航，恢复后急着出门且需要自动亮度；探需片段，00:00–16:01。
+- [phone-hot-screen-4129](phone-hot-screen/phone-hot-screen-4129.json)：13在35度晴天导航出现温度警告，靠同行手机继续高速导航；探需片段，00:00–16:01。
+- [phone-hot-screen-4165](phone-hot-screen/phone-hot-screen-4165.json)：长途自驾后半程接线充电，温度警告妨碍高速导航；探需片段，00:00–16:01。
+- [phone-hot-screen-4209](phone-hot-screen/phone-hot-screen-4209.json)：室内原装充电时打游戏，顾客两次强调温度警告未恢复；探需片段，00:00–06:00。
+- [phone-hot-screen-4221](phone-hot-screen/phone-hot-screen-4221.json)：14 Pro导航后仍显示温度警告，追问怎么冷却、要等多久；探需片段，00:00–06:00。
+- [phone-hot-screen-4240](phone-hot-screen/phone-hot-screen-4240.json)：新购17 Pro长途有线充电导航后黑屏，提示文字记不清；探需片段，00:00–16:01。
+- [phone-hot-screen-4259](phone-hot-screen/phone-hot-screen-4259.json)：前几天首次导航充电时黑屏，目前已恢复；探需片段，00:00–06:01。
+- [phone-hot-screen-4309](phone-hot-screen/phone-hot-screen-4309.json)：新17 Pro使用一个多月，十多度晴天有线充电导航后黑屏；探需片段，00:00–16:01。
+- [phone-hot-screen-4342](phone-hot-screen/phone-hot-screen-4342.json)：14 Pro导航三四小时边充边用，顾客主动补充温度计提示；探需片段，00:00–06:00。
+- [phone-hot-screen-4381](phone-hot-screen/phone-hot-screen-4381.json)：14 Pro百度导航时有线间歇补电，出风口未开空调，反复听不懂归因；探需片段，00:00–26:01。
+- [phone-hot-screen-4471](phone-hot-screen/phone-hot-screen-4471.json)：14 Pro返乡导航两小时多，出风口偏暖风，中途有线补电；探需片段，00:00–06:00。
+- [phone-hot-screen-4572](phone-hot-screen/phone-hot-screen-4572.json)：14 Pro昨日首次温度警告已恢复，最大容量80%，菜单与示范不同；探需片段，00:00–06:00。
+- [phone-hot-screen-4604](phone-hot-screen/phone-hot-screen-4604.json)：16 Pro车内出风口有线充电导航后温度警告，系统只知自动更新；探需片段，00:00–06:01。
+- [phone-hot-screen-4771](phone-hot-screen/phone-hot-screen-4771.json)：14 Pro容量80%且更新后曾正常导航，反问为何这次黑屏；探需片段，00:00–16:01。
+- [phone-hot-screen-4794](phone-hot-screen/phone-hot-screen-4794.json)：14 Pro首次导航黑屏，容量84%，顾客补充温度计并指出菜单差异；探需片段，00:00–16:01。
+- [phone-hot-screen-4904](phone-hot-screen/phone-hot-screen-4904.json)：16 Pro导航黑屏已恢复，系统只记得可能26.4，原装充电；探需片段，00:00–06:01。
+- [phone-hot-screen-4956](phone-hot-screen/phone-hot-screen-4956.json)：17 Pro Max本月两三次温度计黑屏，导航时偶有音乐和后台挂机；探需片段，00:00–06:00。
+- [phone-hot-screen-5040](phone-hot-screen/phone-hot-screen-5040.json)：17 Pro Max多次车内导航温度警告，早上五六成电再接线补电；探需片段，00:00–06:00。
+- [phone-hot-screen-5044](phone-hot-screen/phone-hot-screen-5044.json)：iPhone 17导航听车载音乐并连朋友热点，早上七八成电仍补电；探需片段，00:00–06:00。
+- [phone-hot-screen-5051](phone-hot-screen/phone-hot-screen-5051.json)：iPhone 17导航接车上线时首次出现示意界面，追问以前为何没有；探需片段，00:00–06:00。
+- [phone-hot-screen-5052](phone-hot-screen/phone-hot-screen-5052.json)：16 Pro车内冷气出风口仍被太阳照，听歌导航后主动关机已恢复；探需片段，00:00–16:01。
+- [phone-hot-screen-5121](phone-hot-screen/phone-hot-screen-5121.json)：14 Pro上午九点多温度计黑屏，接原装线和车载口且当前未恢复；探需片段，00:00–14:44。
+- [phone-hot-screen-5169](phone-hot-screen/phone-hot-screen-5169.json)：14 Pro用三年，导航约三四小时后温度提示，现稍恢复仍烫；探需片段，00:00–16:01。
+- [phone-hot-screen-5213](phone-hot-screen/phone-hot-screen-5213.json)：14 Pro昨日导航三小时温度警告，语音还在但看不到立交路线；探需片段，00:00–16:01。
+- [phone-hot-screen-5237](phone-hot-screen/phone-hot-screen-5237.json)：新手机首次充电导航后烫黑屏已恢复，具体型号尚未说清；探需片段，00:00–16:01。
+- [phone-hot-screen-5322](phone-hot-screen/phone-hot-screen-5322.json)：iPhone 17半年多，37至38度直晒时充电导航，担心新机质量；探需片段，00:00–06:00。

@@ -1,0 +1,13 @@
+{
+  "id": "504",
+  "topicKey": "weak-signal",
+  "question": "手机信号不好的抱怨",
+  "date": "2024-01-31 15:00:00",
+  "score": 64,
+  "result": "未通过",
+  "comment": "1、排查问题缺乏思路\n2、感同身受技巧不足，不能有效安抚客户情绪\n3、问题定位偏离的情况较为严重（一度将问题问题归结为系统问题，且表示 ios 17.2 系统存在信号不好的 bug）\n4、对应的产品知识不够熟练，实施方案和解释缺乏说服力",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

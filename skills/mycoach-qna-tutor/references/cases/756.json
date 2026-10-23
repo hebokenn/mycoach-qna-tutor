@@ -1,0 +1,13 @@
+{
+  "id": "756",
+  "topicKey": "storage-full",
+  "question": "手机提示空间不足",
+  "date": "2024-04-03 14:00:00",
+  "score": 80,
+  "result": "通过",
+  "comment": "考题：手机提示空间不足\n1、专业知识不够熟练，实施过程也不够仔细（如：无法有效向客户解释 iCloud+ 服务的好处；客户想删除 iCloud 云备份来腾出空间，讲师只说了如何关闭，没有说明如何删除）。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "2913",
+  "topicKey": "storage-full",
+  "question": "手机提示空间不足",
+  "date": "2025-03-06 16:30:00",
+  "score": 82,
+  "result": "通过",
+  "comment": "内容：问题定位准确，内容相对熟悉，提出的解决方案合理。\n答疑：有同理心回应，能及时安抚顾客情绪，也能应用提问来探询顾客的问题。但没能精准指出顾客遇到的问题是“icloud空间不足，而非手机内存空间不足”，如果先抛出这一观点，之后再引领顾客操作释放icloud内存会更顺。\n流程：缺少“复述+确认”的步骤，其他流程完整。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

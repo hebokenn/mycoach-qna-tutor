@@ -1,0 +1,52 @@
+# 6. 手机电池掉电快、续航短：人设索引
+
+共48份可练真实来源人设。标题可能揭示原因，作为顾客对练时不要向学员展示。各JSON保存原背景、条件披露、未知信息、依据时间码及历史审阅范围，不混合不同场次。
+
+- [battery-drain-5895](battery-drain/battery-drain-5895.json)：新购手机日常使用也要一天两充，担心买到问题机；探需片段，01:19–10:00。
+- [battery-drain-5529](battery-drain/battery-drain-5529.json)：新机用两周，充满能用大半天，担心质量；探需片段，00:00–06:00。
+- [battery-drain-5674](battery-drain/battery-drain-5674.json)：从iPhone 13换17一周，感觉比旧机掉电快；探需片段，00:00–06:01。
+- [battery-drain-5788](battery-drain/battery-drain-5788.json)：iPhone 17 Pro买四天，日常通话消息视频也掉电快；探需片段，00:00–06:00。
+- [battery-drain-5389](battery-drain/battery-drain-5389.json)：17 Pro第三天，一天两三充，闲置也掉电不如旧14；探需片段，00:00–17:38。
+- [battery-drain-5793](battery-drain/battery-drain-5793.json)：17刚买正常，近几天掉电快，充满只用大半天；探需片段，00:00–14:00。
+- [battery-drain-5319](battery-drain/battery-drain-5319.json)：13换17一月，仍感觉续航比旧机短；探需片段，00:00–16:01。
+- [battery-drain-5811](battery-drain/battery-drain-5811.json)：16 Pro用两年多，耗电增加，现场读出电池最大容量82%；探需片段，00:00–16:00。
+- [battery-drain-5863](battery-drain/battery-drain-5863.json)：17 Pro月末买来就续航短，当天迁移过资料，昨天更新系统；探需片段，00:00–16:01。
+- [battery-drain-5334](battery-drain/battery-drain-5334.json)：17 Pro第三天就一天两三充，基础微信短视频也耗电，不玩游戏导航；探需片段，00:00–16:00。
+- [battery-drain-5312](battery-drain/battery-drain-5312.json)：17用了两月，外出拍照一上午剩四五成电，但不只热天才掉电快；探需片段，00:00–16:01。
+- [battery-drain-596](battery-drain/battery-drain-596.json)：冲着大电量购买，外出拍照仍担心撑不完一天；探需片段，00:00–06:00。
+- [battery-drain-671](battery-drain/battery-drain-671.json)：学完摄影课后增加拍视频，午后电量只剩一半；探需片段，00:00–06:01。
+- [battery-drain-932](battery-drain/battery-drain-932.json)：新机两月午间余电约五六成，外出拍照不便补电；探需片段，00:00–06:01。
+- [battery-drain-1085](battery-drain/battery-drain-1085.json)：15 Pro 256GB两月多，午后约56%，无边充边用，旧11 Pro对照；探需片段，00:00–06:00。
+- [battery-drain-1102](battery-drain/battery-drain-1102.json)：14 Pro 256GB约一个月，旧11对比，午后不足60%，支持检查口述容量90；探需片段，00:00–06:01。
+- [battery-drain-1152](battery-drain/battery-drain-1152.json)：15 Pro Max约一月，满电拍摄午后约56%，支持提示正常，质疑无依据更新归因；探需片段，00:00–16:01。
+- [battery-drain-1263](battery-drain/battery-drain-1263.json)：15 Pro每日有线充电，容量91%，抖音相机王者用量前三，偶借充电宝；探需片段，00:00–06:01。
+- [battery-drain-1273](battery-drain/battery-drain-1273.json)：15 Pro街拍下午剩半电，健康页口述95%，会边充边用；探需片段，00:00–06:01。
+- [battery-drain-1353](battery-drain/battery-drain-1353.json)：15 Pro两月，满电街拍半电，循环先估200多后澄清约190，容量93%；探需片段，00:00–16:01。
+- [battery-drain-1489](battery-drain/battery-drain-1489.json)：15 Pro不足两月，平时一天够用，近两次午后56%，拍摄修片朋友圈较多；探需片段，00:00–06:00。
+- [battery-drain-1498](battery-drain/battery-drain-1498.json)：14 Pro 256GB两月，迁入大量旧照片，新旧街拍对比，午后约56%；探需片段，00:00–16:01。
+- [battery-drain-1588](battery-drain/battery-drain-1588.json)：15 Pro 256GB两月多，通常一天够，近期街拍午后56%，认为不必清后台；探需片段，00:00–16:01。
+- [battery-drain-674](battery-drain/battery-drain-674.json)：新15系列约三个月，街拍下午仍剩半电，前台2小时16分、后台2分；探需片段，00:00–16:01。
+- [battery-drain-821](battery-drain/battery-drain-821.json)：15 Pro两月多，电量低于70%就焦虑，容量100%，今日头条有后台活动；探需片段，00:00–16:01。
+- [battery-drain-1590](battery-drain/battery-drain-1590.json)：15 Pro快半年近期街拍掉电明显，想弄清自检与健康度的区别；探需片段，00:00–26:01。
+- [battery-drain-1633](battery-drain/battery-drain-1633.json)：新机周末拍照后下午剩一半，担心在外补电不便；探需片段，00:00–06:00。
+- [battery-drain-1740](battery-drain/battery-drain-1740.json)：顾客担心15 Pro质量，反复追问查看前后台与续航有什么关系；探需片段，00:00–26:01。
+- [battery-drain-1776](battery-drain/battery-drain-1776.json)：新15 Pro街拍后只剩五成电，想分清电池和使用方式；探需片段，00:00–16:01。
+- [battery-drain-1980](battery-drain/battery-drain-1980.json)：刚换15 Pro不到一月，夜间充电却觉得不如旧11 Pro；探需片段，00:00–06:00。
+- [battery-drain-2178](battery-drain/battery-drain-2178.json)：15 Pro满电外出约半天没电，顾客刚在当天更新过系统；探需片段，00:00–06:01。
+- [battery-drain-2225](battery-drain/battery-drain-2225.json)：新iPhone 16中午需补电，顾客质疑更新和旧数据迁移的解释；探需片段，00:00–06:01。
+- [battery-drain-2296](battery-drain/battery-drain-2296.json)：基础款iPhone 15两个月街拍剩半电，需避免套用Pro专属功能；探需片段，00:00–06:00。
+- [battery-drain-2457](battery-drain/battery-drain-2457.json)：14 Pro两个月每天一至两充，想知道相机时长短为何耗电排第一；探需片段，00:00–06:00。
+- [battery-drain-2520](battery-drain/battery-drain-2520.json)：14 Pro两次拍照后续航短，但故障日期已超出可看记录；探需片段，00:00–16:01。
+- [battery-drain-2569](battery-drain/battery-drain-2569.json)：新Pro不到一月街拍掉电，今天微信时长最多但非当日证据；探需片段，00:00–06:01。
+- [battery-drain-2586](battery-drain/battery-drain-2586.json)：为长焦从13换15 Pro，街拍日由一充变两充；探需片段，00:00–16:01。
+- [battery-drain-2899](battery-drain/battery-drain-2899.json)：基础款15两个月近期午后剩五成多，无法说清闲置还是使用掉电；探需片段，00:00–06:01。
+- [battery-drain-2944](battery-drain/battery-drain-2944.json)：15两个月多个周末拍照都剩半电，追问如何确认手机没问题；探需片段，00:00–16:01。
+- [battery-drain-2960](battery-drain/battery-drain-2960.json)：15 Pro两个月前完成迁移，顾客质疑用旧迁移解释近期掉电；探需片段，00:00–06:01。
+- [battery-drain-2961](battery-drain/battery-drain-2961.json)：15两个月无摔碰，平时一充但拍照日午后不足六成；探需片段，00:00–06:01。
+- [battery-drain-2972](battery-drain/battery-drain-2972.json)：14 Pro仅上周日拍摄续航短，页面百分比与活动时间未讲清；探需片段，00:00–16:01。
+- [battery-drain-4715](battery-drain/battery-drain-4715.json)：17 Pro买来第四天，iCloud资料尚未下载完且锁屏仍显示壁纸；探需片段，00:00–16:01。
+- [battery-drain-4763](battery-drain/battery-drain-4763.json)：17基础款第四五天仍在iCloud恢复，担心充太久而减少充电；探需片段，00:00–16:01。
+- [battery-drain-4838](battery-drain/battery-drain-4838.json)：17 Pro第四天每天掉电，设置占60%但iCloud恢复是否结束未问清；探需片段，00:00–06:00。
+- [battery-drain-4970](battery-drain/battery-drain-4970.json)：17基础款容量100循环2次，中午实余三成多而非真的没电；探需片段，00:00–06:00。
+- [battery-drain-5012](battery-drain/battery-drain-5012.json)：14 Pro用了数年由一天一充变两充，容量82%但性能提示正常；探需片段，00:00–16:01。
+- [battery-drain-5263](battery-drain/battery-drain-5263.json)：新机两天每天两至三充，顾客先要解释原因再学设置；探需片段，00:00–16:01。

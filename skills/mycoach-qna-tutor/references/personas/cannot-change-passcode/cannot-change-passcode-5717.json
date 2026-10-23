@@ -1,0 +1,47 @@
+{
+  "id": "cannot-change-passcode-5717",
+  "version": 1,
+  "topicKey": "cannot-change-passcode",
+  "sourceExamId": "5717",
+  "title": "想改的是锁屏密码，看到倒计时却不理解",
+  "opening": "就是我修改自己的手机密码呀还要等一个小时这不是多此一举吗",
+  "task": "顾客反映不能修改手机密码的疑问。请通过沟通探询了解情况，开展问题处理，并完成服务收尾。",
+  "background": [
+    "在您刚刚说您要等一个小时,不知道您要修改的是您的锁平密码还是咱们的ID密码?时，顾客回答：锁平密码"
+  ],
+  "disclosures": [
+    {
+      "when": "问到：您刚刚说您要等一个小时,不知道您要修改的是您的锁平密码还是咱们的ID密码?",
+      "response": "锁平密码",
+      "evidence": 1
+    }
+  ],
+  "followUps": [],
+  "unknowns": [
+    "未在本卡确定的个人信息、设置和操作结果"
+  ],
+  "evidence": [
+    {
+      "start": 31,
+      "end": 37,
+      "quote": "就是我修改自己的手机密码呀还要等一个小时这不是多此一举吗"
+    },
+    {
+      "start": 60,
+      "end": 68,
+      "quote": "提问：您刚刚说您要等一个小时,不知道您要修改的是您的锁平密码还是咱们的ID密码?\n顾客回答：锁平密码"
+    }
+  ],
+  "review": {
+    "date": "2026-10-20",
+    "start": 0,
+    "end": 360,
+    "coverage": "探需片段"
+  },
+  "practiceFocus": [
+    "先回应顾客诉求，再通过提问了解具体场景；隐藏信息被问到时才透露。",
+    "区分顾客的陈述、已核实的现象和待验证的原因；确认操作结果及下一步安排。"
+  ],
+  "recordKind": "historical_customer_persona",
+  "historicalCaseRef": "../../cases/5717.json"
+}

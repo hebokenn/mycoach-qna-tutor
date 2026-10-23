@@ -1,0 +1,13 @@
+{
+  "id": "2877",
+  "topicKey": "ipad-verification-password",
+  "question": "iPad 提示输入验证密码",
+  "date": "2025-02-22 15:00:00",
+  "score": 80,
+  "result": "通过",
+  "comment": "iPad 提示输入验证密码\n1.内容：提供方案合理，但问题定位不够及时，排查目的说明不清楚（如：Apple ID和AppStore账号ID是否一致；为什么要还原网络设置）。\n2.服务技巧：有一定亲和力，但安抚比较呆板（如：是的，使用中给你带来了困扰）。探询不全面。\n3.流程：流程完整，但邀约推荐资源过于冗长。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

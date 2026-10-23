@@ -1,0 +1,58 @@
+{
+  "id": "battery-quality-5437",
+  "version": 1,
+  "topicKey": "battery-quality",
+  "sourceExamId": "5437",
+  "title": "17 Pro买两周，认为充不满就是电池有问题",
+  "opening": "就是我新买的这个手机你们电池真的是有问题我的充不满电",
+  "task": "顾客反映手机电池质量问题。请通过沟通探询了解情况，开展问题处理，并完成服务收尾。",
+  "background": [
+    "在你刚才说的是新购买的那我们大概购买了多长时间呀时，顾客回答：购买了两周",
+    "在那是什么机型时，顾客回答：17 Pro"
+  ],
+  "disclosures": [
+    {
+      "when": "问到：你刚才说的是新购买的那我们大概购买了多长时间呀",
+      "response": "购买了两周",
+      "evidence": 1
+    },
+    {
+      "when": "问到：那是什么机型",
+      "response": "17 Pro",
+      "evidence": 2
+    }
+  ],
+  "followUps": [],
+  "unknowns": [
+    "未在本卡确定的个人信息、设置和操作结果"
+  ],
+  "evidence": [
+    {
+      "start": 277,
+      "end": 286,
+      "quote": "就是我新买的这个手机你们电池真的是有问题我的充不满电"
+    },
+    {
+      "start": 342,
+      "end": 350,
+      "quote": "提问：你刚才说的是新购买的那我们大概购买了多长时间呀\n顾客回答：购买了两周"
+    },
+    {
+      "start": 351,
+      "end": 356,
+      "quote": "提问：那是什么机型\n顾客回答：17 Pro"
+    }
+  ],
+  "review": {
+    "date": "2026-10-20",
+    "start": 0,
+    "end": 361,
+    "coverage": "探需片段"
+  },
+  "practiceFocus": [
+    "先回应顾客诉求，再通过提问了解具体场景；隐藏信息被问到时才透露。",
+    "区分顾客的陈述、已核实的现象和待验证的原因；确认操作结果及下一步安排。"
+  ],
+  "recordKind": "historical_customer_persona",
+  "historicalCaseRef": "../../cases/5437.json"
+}

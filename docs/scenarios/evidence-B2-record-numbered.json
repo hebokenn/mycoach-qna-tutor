@@ -1,0 +1,61 @@
+{
+  "inputNature": "User-provided complete behavior summary; no verbatim speech, sound or video was supplied.",
+  "record": [
+    {
+      "id": "T001",
+      "content": "A自我介绍Coach并承接顾虑；"
+    },
+    {
+      "id": "T002",
+      "content": "A说明要先确认现象；"
+    },
+    {
+      "id": "T003",
+      "content": "B说充到80停；"
+    },
+    {
+      "id": "T004",
+      "content": "A复述确认是充不满非续航；"
+    },
+    {
+      "id": "T005",
+      "content": "B确认；"
+    },
+    {
+      "id": "T006",
+      "content": "A问机型；"
+    },
+    {
+      "id": "T007",
+      "content": "B说iPhone15；"
+    },
+    {
+      "id": "T008",
+      "content": "A请本人打开设置电池充电并读选项、密码不用告诉别人；"
+    },
+    {
+      "id": "T009",
+      "content": "B说充电上限80%；"
+    },
+    {
+      "id": "T010",
+      "content": "A解释上限有助减少长时间高电量损耗，和最大容量不同，今天急用可按实机临时充100也可保留上限，两者区别让本人选择；"
+    },
+    {
+      "id": "T011",
+      "content": "B选临时；"
+    },
+    {
+      "id": "T012",
+      "content": "A说明按弹窗选择临时选项并等待反馈；"
+    },
+    {
+      "id": "T013",
+      "content": "B说已选但还没观察后续充电；"
+    },
+    {
+      "id": "T014",
+      "content": "A说明需继续连接电源看电量是否超过原上限，若没继续需反馈实际提示/配件与环境，给官方支持后续路径，回顾自查和预防、邀请评价并道别。"
+    }
+  ]
+}

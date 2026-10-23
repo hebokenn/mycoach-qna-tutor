@@ -1,0 +1,13 @@
+{
+  "id": "1066",
+  "topicKey": "ipad-verification-password",
+  "question": "iPad 提示输入验证密码",
+  "date": "2024-05-21 15:00:00",
+  "score": 84,
+  "result": "通过",
+  "comment": "iPad 提示输入验证密码\n1.开场热情，语调亲切\n2.个别探询问题缺少说明解释（如：讲师确认客户的应用商店时都登录同一个Apple ID，未说明为什么要检查这个）；探询问题不够系统化（如：讲师主要在确认客户的应用商店的账号和ID是否登录同一个，缺少探询客户网络连接情况）\n3.问题定位准确，提供方案正确，但不够完善（如：讲师带客户重新登录Apple ID/更换网络，未提到还原网络设置）\n4.建议探询问题系统化；加强专业知识储备",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

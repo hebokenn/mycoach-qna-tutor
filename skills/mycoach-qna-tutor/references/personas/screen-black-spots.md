@@ -1,0 +1,50 @@
+# 2. 手机屏幕上有黑点（一/二）：人设索引
+
+共46份可练真实来源人设。标题可能揭示原因，作为顾客对练时不要向学员展示。各JSON保存原背景、条件披露、未知信息、依据时间码及历史审阅范围，不混合不同场次。
+
+- [screen-black-spots-6108](screen-black-spots/screen-black-spots-6108.json)：新机四周黑点会变位置、大小，截图也能看到；探需片段，09:17–17:02。
+- [screen-black-spots-5450](screen-black-spots/screen-black-spots-5450.json)：新机两侧约八九个黑点，截图也能看到；探需片段，00:00–06:00。
+- [screen-black-spots-5428](screen-black-spots/screen-black-spots-5428.json)：17 Pro通勤路上出现黑点，截图也能看到；探需片段，00:00–06:01。
+- [screen-black-spots-5388](screen-black-spots/screen-black-spots-5388.json)：17 Pro买了三天，昨天今天间歇出现黑点；探需片段，00:00–06:00。
+- [screen-black-spots-5442](screen-black-spots/screen-black-spots-5442.json)：左右对称的小圆点时有时无，没留意是否随倾斜移动；探需片段，00:00–06:00。
+- [screen-black-spots-5501](screen-black-spots/screen-black-spots-5501.json)：17 Pro用一个月，第一周起就时不时出现黑点；探需片段，00:00–06:01。
+- [screen-black-spots-5743](screen-black-spots/screen-black-spots-5743.json)：买机一个月遇到四五次黑点，位置没有规律；探需片段，00:00–06:00。
+- [screen-black-spots-5905](screen-black-spots/screen-black-spots-5905.json)：17基础款黑点拖不动，重启只暂时改善；探需片段，00:00–06:00。
+- [screen-black-spots-5960](screen-black-spots/screen-black-spots-5960.json)：改过辅助功能又摔了手机，重启能亮但间歇出现黑点；探需片段，00:00–06:00。
+- [screen-black-spots-5951](screen-black-spots/screen-black-spots-5951.json)：iPhone 17用三个多月，四周黑点会随晃动变化；探需片段，00:00–06:00。
+- [screen-black-spots-5966](screen-black-spots/screen-black-spots-5966.json)：坐地铁公交时出现黑点，关闭后担心坐车又出现；探需片段，00:00–12:01。
+- [screen-black-spots-6116](screen-black-spots/screen-black-spots-6116.json)：规则小圆点时有时无，点了没有反应；探需片段，00:00–05:59。
+- [screen-black-spots-5795](screen-black-spots/screen-black-spots-5795.json)：新17 Pro黑点只在外面遇到，截图发给别人也存在；探需片段，00:00–16:01。
+- [screen-black-spots-5329](screen-black-spots/screen-black-spots-5329.json)：17 Pro黑点可被截图，位置大小会变，手动拖不动；探需片段，00:00–15:53。
+- [screen-black-spots-5250](screen-black-spots/screen-black-spots-5250.json)：16 Pro屏幕黑点时有时无，截图和坐车时都能遇到；探需片段，00:00–06:00。
+- [screen-black-spots-3279](screen-black-spots/screen-black-spots-3279.json)：从14 Pro换到16后出现小黑点，截图可见且位置变化；探需片段，00:00–06:01。
+- [screen-black-spots-3294](screen-black-spots/screen-black-spots-3294.json)：多处黑点持续可见，关闭车辆运动提示后消失；探需片段，00:00–16:01。
+- [screen-black-spots-3323](screen-black-spots/screen-black-spots-3323.json)：新机间歇黑点且称截图也有，自动运动提示当前未显示；探需片段，00:00–11:53。
+- [screen-black-spots-3350](screen-black-spots/screen-black-spots-3350.json)：16 Pro两侧出现多个黑点，截图也看得到；探需片段，00:00–06:01。
+- [screen-black-spots-3367](screen-black-spots/screen-black-spots-3367.json)：规则圆点围绕屏幕，关闭车辆运动提示后消失；探需片段，00:00–06:00。
+- [screen-black-spots-3407](screen-black-spots/screen-black-spots-3407.json)：户外偶发左右黑点，车辆运动提示设为自动；探需片段，00:00–06:01。
+- [screen-black-spots-3414](screen-black-spots/screen-black-spots-3414.json)：换机后偶发多个可移动黑点，怀疑烧屏；探需片段，00:00–16:01。
+- [screen-black-spots-3422](screen-black-spots/screen-black-spots-3422.json)：两种圆点排列，自动模式关闭后计划再观察；探需片段，00:00–06:01。
+- [screen-black-spots-3553](screen-black-spots/screen-black-spots-3553.json)：新iPhone16偶发大小不同黑点，当前屏幕没有；探需片段，00:00–06:00。
+- [screen-black-spots-3605](screen-black-spots/screen-black-spots-3605.json)：新16 Pro左右偶发黑点，担心烧屏且不熟悉系统版本；探需片段，00:00–06:00。
+- [screen-black-spots-3739](screen-black-spots/screen-black-spots-3739.json)：14 Pro用了近两年，系统更新后两侧经常出现黑点；探需片段，00:00–06:00。
+- [screen-black-spots-3851](screen-black-spots/screen-black-spots-3851.json)：新iPhone16换机后两侧偶发黑点，经历网络中断；探需片段，00:00–06:00。
+- [screen-black-spots-3973](screen-black-spots/screen-black-spots-3973.json)：新机回家第二天周围出现黑点，自动选项已关闭；探需片段，00:00–06:00。
+- [screen-black-spots-4023](screen-black-spots/screen-black-spots-4023.json)：新机边缘偶发圆点，要求把原理讲简单；探需片段，00:00–16:01。
+- [screen-black-spots-4119](screen-black-spots/screen-black-spots-4119.json)：新iPhone16截图和乘车时见黑点，自动选项已开启；探需片段，00:00–16:01。
+- [screen-black-spots-4181](screen-black-spots/screen-black-spots-4181.json)：14 Pro更新后两侧偶发黑点，有过轻微摔落但记不清日期；探需片段，00:00–06:00。
+- [screen-black-spots-4382](screen-black-spots/screen-black-spots-4382.json)：17 Pro买一周，规则边缘黑点，未记得改过哪些设置；探需片段，00:00–06:00。
+- [screen-black-spots-4441](screen-black-spots/screen-black-spots-4441.json)：17 Pro两侧整齐灰点一直不动，重启无效，关闭提示后消失；探需片段，00:00–16:01。
+- [screen-black-spots-4463](screen-black-spots/screen-black-spots-4463.json)：14 Pro两侧一直有黑点，近期没有磕碰；探需片段，00:00–06:00。
+- [screen-black-spots-4593](screen-black-spots/screen-black-spots-4593.json)：两台手机同时使用，新机偶发黑点，旧机没有；探需片段，00:00–06:00。
+- [screen-black-spots-4687](screen-black-spots/screen-black-spots-4687.json)：14 Pro更新后偶发圆点，当前没有，乘地铁时见过；探需片段，00:00–06:00。
+- [screen-black-spots-4842](screen-black-spots/screen-black-spots-4842.json)：14 Pro升级26后通勤见黑点，重启仍复现；探需片段，00:00–06:00。
+- [screen-black-spots-4897](screen-black-spots/screen-black-spots-4897.json)：14 Pro用了三年多，不晕车，关闭后需乘车再观察；探需片段，00:00–16:01。
+- [screen-black-spots-4902](screen-black-spots/screen-black-spots-4902.json)：左右规则圆点偶发，乘车或截图时有，控制中心未找到入口；探需片段，00:00–06:00。
+- [screen-black-spots-5028](screen-black-spots/screen-black-spots-5028.json)：17标准款三个月遇四五次，关闭后仍需观察；探需片段，00:00–16:01。
+- [screen-black-spots-5029](screen-black-spots/screen-black-spots-5029.json)：17设备一个多月四五次，公交通勤时多个黑点都在变化；探需片段，00:00–16:01。
+- [screen-black-spots-5039](screen-black-spots/screen-black-spots-5039.json)：17升级26.5后偶发黑点，重启后三四小时再出现；探需片段，00:00–16:01。
+- [screen-black-spots-5058](screen-black-spots/screen-black-spots-5058.json)：17系统26.5，公交通勤时出现，截图中圆点大小排列不一；探需片段，00:00–13:41。
+- [screen-black-spots-5093](screen-black-spots/screen-black-spots-5093.json)：17使用半年间歇黑点，重启后暂时消失又复现；探需片段，00:00–06:01。
+- [screen-black-spots-5222](screen-black-spots/screen-black-spots-5222.json)：14 Pro近几天频繁出现多个黑点，担心烧屏且看不到演示；探需片段，00:00–06:00。
+- [screen-black-spots-5238](screen-black-spots/screen-black-spots-5238.json)：iPhone 16约七八个黑点，重启仍在，演示观看方向不清；探需片段，00:00–06:00。

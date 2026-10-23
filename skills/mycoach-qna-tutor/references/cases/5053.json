@@ -1,0 +1,13 @@
+{
+  "id": "5053",
+  "topicKey": "apple-charge",
+  "question": "Apple 账户收到扣费通知",
+  "date": "2026-06-16 09:30:00",
+  "score": 81,
+  "result": "通过",
+  "comment": "内容准确：1.内容：问题定位准确，但排查不够深入，提供的方案不够方便快捷，如：讲师排查App Store购买记录后，未排查订阅信息，而是带客户进入reportaproblem.apple.com查询Apple购买内容，查到Apple Music的订阅后，再回到App Store-订阅中取消订阅，步骤略繁琐，建议优先提供便利好操作的方案。\n\n答疑服务技巧：2.服务技巧：1）安抚及时，安抚话术合理；2）探需有一定思路，但探需不够深入，如扣费的时长，账单详情等。\n\n流程完整：3.流程：流程完整。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

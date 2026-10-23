@@ -1,0 +1,78 @@
+# 9. iPad 提示输入验证密码：人设索引
+
+共74份可练真实来源人设。标题可能揭示原因，作为顾客对练时不要向学员展示。各JSON保存原背景、条件披露、未知信息、依据时间码及历史审阅范围，不混合不同场次。
+
+- [ipad-verification-password-5949](ipad-verification-password/ipad-verification-password-5949.json)：账户密码输对仍反复弹窗，怀疑平板是二手机；探需片段，00:20–10:00。
+- [ipad-verification-password-5367](ipad-verification-password/ipad-verification-password-5367.json)：自己的账号仍反复要求验证，担心买到二手机；探需片段，00:00–10:00。
+- [ipad-verification-password-5383](ipad-verification-password/ipad-verification-password-5383.json)：11英寸iPad Pro输入正确密码后仍反复弹验证；探需片段，00:00–06:01。
+- [ipad-verification-password-5669](ipad-verification-password/ipad-verification-password-5669.json)：去年买的iPad，重启后仍弹自己账户的密码验证；探需片段，00:00–06:01。
+- [ipad-verification-password-5652](ipad-verification-password/ipad-verification-password-5652.json)：M4 iPad Pro用快一年，一直只用自己ID却反复验证；探需片段，00:00–06:01。
+- [ipad-verification-password-5707](ipad-verification-password/ipad-verification-password-5707.json)：iPad用一年，密码正确仍弹验证，数据迁移记不清；探需片段，00:00–06:00。
+- [ipad-verification-password-5906](ipad-verification-password/ipad-verification-password-5906.json)：平板用两三年，下载应用后反复弹自己账户的密码验证；探需片段，00:00–06:00。
+- [ipad-verification-password-5991](ipad-verification-password/ipad-verification-password-5991.json)：按全新价买的iPad反复验证密码，担心拿到二手机；探需片段，00:00–15:00。
+- [ipad-verification-password-5347](ipad-verification-password/ipad-verification-password-5347.json)：周一下载软件失败后反复验证本人ID，换热点也没改善；探需片段，00:00–16:01。
+- [ipad-verification-password-5309](ipad-verification-password/ipad-verification-password-5309.json)：自己的iPad账户反复验证，一周前下载转圈后开始；探需片段，00:00–06:00。
+- [ipad-verification-password-530](ipad-verification-password/ipad-verification-password-530.json)：新iPad反复验证密码，还原后需要重连Wi-Fi；探需片段，00:00–31:01。
+- [ipad-verification-password-563](ipad-verification-password/ipad-verification-password-563.json)：新iPad迁移后下载游戏，自己的密码反复被要求验证；探需片段，00:00–06:01。
+- [ipad-verification-password-755](ipad-verification-password/ipad-verification-password-755.json)：iPad买一月余反复验证本人账户，怀疑二手或远程操纵；探需片段，00:00–06:01。
+- [ipad-verification-password-608](ipad-verification-password/ipad-verification-password-608.json)：新iPad Pro下载游戏后反复验证，无报错且公司Wi-Fi时好时坏；探需片段，00:00–16:01。
+- [ipad-verification-password-697](ipad-verification-password/ipad-verification-password-697.json)：换新iPad后反复双重验证但从未报错，改密码无效且同ID手机能下载；探需片段，00:00–16:01。
+- [ipad-verification-password-1066](ipad-verification-password/ipad-verification-password-1066.json)：办公iPad换热点仍验证，单独重登App Store后下载成功；探需片段，00:00–16:01。
+- [ipad-verification-password-605](ipad-verification-password/ipad-verification-password-605.json)：新iPad两周反复验证未报错，担心退号后登不上且重登后暂时正常；探需片段，00:00–26:01。
+- [ipad-verification-password-651](ipad-verification-password/ipad-verification-password-651.json)：办公iPad下载应用后反复验证，公司网络不稳且换网方案留待尝试；探需片段，00:00–26:01。
+- [ipad-verification-password-788](ipad-verification-password/ipad-verification-password-788.json)：办公iPad Pro本人账户在手机可下载，换热点后可用但Wi-Fi仍显示满格；探需片段，00:00–16:01。
+- [ipad-verification-password-803](ipad-verification-password/ipad-verification-password-803.json)：首台唯一Apple设备在公司反复验证，换网后正常但仍担心复发；探需片段，00:00–15:45。
+- [ipad-verification-password-806](ipad-verification-password/ipad-verification-password-806.json)：iPad验证下不来应用，4G不能上网而Wi-Fi可浏览但账号详情仍不可用；探需片段，00:00–16:01。
+- [ipad-verification-password-828](ipad-verification-password/ipad-verification-password-828.json)：Wi-Fi版办公iPad上周下载后反复验证，短信认证后当前不弹但原因未查清；探需片段，00:00–25:47。
+- [ipad-verification-password-829](ipad-verification-password/ipad-verification-password-829.json)：公司Wi-Fi版新iPad Pro反复验证，在线课程中换网会断指导；探需片段，00:00–26:01。
+- [ipad-verification-password-933](ipad-verification-password/ipad-verification-password-933.json)：办公iPad退号转圈后重登仍转圈，换热点才登录成功；探需片段，00:00–16:01。
+- [ipad-verification-password-940](ipad-verification-password/ipad-verification-password-940.json)：iPad应用根本没下载成功，改本人密码后仍反复验证；探需片段，00:00–26:01。
+- [ipad-verification-password-1229](ipad-verification-password/ipad-verification-password-1229.json)：主商店同号却被推定借号，顾客担心付费安全并选择官方协助；探需片段，00:00–16:01。
+- [ipad-verification-password-1307](ipad-verification-password/ipad-verification-password-1307.json)：iPad Pro公司网络下反复验证，账号详情转圈且网络权限解释未验证；探需片段，00:00–24:20。
+- [ipad-verification-password-1366](ipad-verification-password/ipad-verification-password-1366.json)：媒体购买转圈而商店可进入，重登商店仍无效后整机退号尚未验证；探需片段，00:00–16:01。
+- [ipad-verification-password-1433](ipad-verification-password/ipad-verification-password-1433.json)：常用iPad Pro同ID手机正常，获取应用反复验证但换热点后下载成功；探需片段，00:00–06:00。
+- [ipad-verification-password-1493](ipad-verification-password/ipad-verification-password-1493.json)：iPad热点后仍反复验证且退出受阻，窗口震动后拟改密及还原网络待试；探需片段，00:00–26:01。
+- [ipad-verification-password-1496](ipad-verification-password/ipad-verification-password-1496.json)：首部自用iPad下载后反复验证，改密转圈失败且末尾才提供公司网络线索；探需片段，00:00–26:01。
+- [ipad-verification-password-1529](ipad-verification-password/ipad-verification-password-1529.json)：首部iPad Pro新阅读应用后反复验证，还原所有设置后下载成功；探需片段，00:00–16:01。
+- [ipad-verification-password-1625](ipad-verification-password/ipad-verification-password-1625.json)：公司Wi-Fi版新iPad Pro无其他网络，改iPhone热点后验证并开始下载；探需片段，00:00–14:44。
+- [ipad-verification-password-1718](ipad-verification-password/ipad-verification-password-1718.json)：长期自用iPad被误当新机，反复验证下载不了且退登方案后仍未解决；探需片段，00:00–24:22。
+- [ipad-verification-password-1597](ipad-verification-password/ipad-verification-password-1597.json)：公司iPad下载粉笔反复验证，不能方便带回家且还原网络待试；探需片段，00:00–20:39。
+- [ipad-verification-password-1768](ipad-verification-password/ipad-verification-password-1768.json)：全面屏iPad Pro商店重登仍反复验证，改热点后应用开始下载；探需片段，00:00–26:01。
+- [ipad-verification-password-1855](ipad-verification-password/ipad-verification-password-1855.json)：11英寸Pro改密退号均转圈，手机蜂窝改密及平板热点后下载成功；探需片段，00:00–22:04。
+- [ipad-verification-password-1950](ipad-verification-password/ipad-verification-password-1950.json)：Wi-Fi版11英寸Pro四代反复双重验证，取码输入位置不清且退出灰色；探需片段，00:00–26:01。
+- [ipad-verification-password-1969](ipad-verification-password/ipad-verification-password-1969.json)：迁移过的自用iPad Pro改密码并重启仍循环验证，选择官方协助；探需片段，00:00–26:01。
+- [ipad-verification-password-2443](ipad-verification-password/ipad-verification-password-2443.json)：iPad Pro家中可下载公司转圈，更新密码无效后店网恢复；探需片段，00:00–15:31。
+- [ipad-verification-password-2455](ipad-verification-password/ipad-verification-password-2455.json)：iPad Pro唯一本人账号被推定借号，重装建议无效且改密仍回密码页；探需片段，00:00–26:01。
+- [ipad-verification-password-2478](ipad-verification-password/ipad-verification-password-2478.json)：用一年11英寸Pro今天首次反复验证，线上换热点后下载恢复；探需片段，00:00–24:48。
+- [ipad-verification-password-2519](ipad-verification-password/ipad-verification-password-2519.json)：用多年iPad Pro应用均下载完却反复验证，计划共同预约官方支持；探需片段，00:00–18:57。
+- [ipad-verification-password-2538](ipad-verification-password/ipad-verification-password-2538.json)：首台新iPad改密后仍下载不了，还原所有设置后当前恢复；探需片段，00:00–17:47。
+- [ipad-verification-password-2799](ipad-verification-password/ipad-verification-password-2799.json)：本人同号无借号却被反复问数据传输，口头还原方案未执行；探需片段，00:00–23:43。
+- [ipad-verification-password-2801](ipad-verification-password/ipad-verification-password-2801.json)：本人同号且可重登，今天下载仍失败，顾客追问除ID之外条件；探需片段，00:00–21:07。
+- [ipad-verification-password-2877](ipad-verification-password/ipad-verification-password-2877.json)：电网应用后随机验证，退登无效，还原网络后暂时不再弹；探需片段，00:00–26:01。
+- [ipad-verification-password-2894](ipad-verification-password/ipad-verification-password-2894.json)：长期用Wi-Fi版iPad Pro今天反复验证，自行换网后恢复；探需片段，00:00–21:13。
+- [ipad-verification-password-2922](ipad-verification-password/ipad-verification-password-2922.json)：9代iPad近两天下载失败，媒体账号重登一度受阻后恢复；探需片段，00:00–15:55。
+- [ipad-verification-password-3429](ipad-verification-password/ipad-verification-password-3429.json)：家用iPad新下载与账号页转圈，旧App更新正常，同密码手机可登录；探需片段，00:00–20:56。
+- [ipad-verification-password-3436](ipad-verification-password/ipad-verification-password-3436.json)：A16迁移数月后下载验证转圈，还原与退出遇到安全延迟表述；探需片段，00:00–21:03。
+- [ipad-verification-password-3469](ipad-verification-password/ipad-verification-password-3469.json)：办公室Wi-Fi反复验证且退号转圈，换热点重登后暂未再弹；探需片段，00:00–19:06。
+- [ipad-verification-password-3470](ipad-verification-password/ipad-verification-password-3470.json)：办公首台iPad反复验证，热点试下暂未弹但顾客仍追问原因；探需片段，00:00–22:39。
+- [ipad-verification-password-3534](ipad-verification-password/ipad-verification-password-3534.json)：M2新应用获取受阻，改密与热点无效，还原所有设置后说可以了；探需片段，00:00–23:56。
+- [ipad-verification-password-3250](ipad-verification-password/ipad-verification-password-3250.json)：电网应用原可下载，删除后装不回，办公Wi-Fi换热点后恢复；探需片段，00:00–36:01。
+- [ipad-verification-password-3684](ipad-verification-password/ipad-verification-password-3684.json)：公司账号不能随意改密，办公室Wi-Fi不稳，换热点可下载；探需片段，00:00–21:55。
+- [ipad-verification-password-3689](ipad-verification-password/ipad-verification-password-3689.json)：长期单一ID可网页登录，办公Wi-Fi加载账号页受阻，换网可下；探需片段，00:00–22:41。
+- [ipad-verification-password-3972](ipad-verification-password/ipad-verification-password-3972.json)：手机同号正常而平板今日反复验证，换网无效且拒绝无解释改密；探需片段，00:00–16:06。
+- [ipad-verification-password-4024](ipad-verification-password/ipad-verification-password-4024.json)：长期单一账号下载反复验证，商店退登无效而网络尚未核对；探需片段，00:00–26:01。
+- [ipad-verification-password-4079](ipad-verification-password/ipad-verification-password-4079.json)：旧iPad获取反复验证，改密重登流程后仍不行，网络还原待试；探需片段，00:00–25:34。
+- [ipad-verification-password-4253](ipad-verification-password/ipad-verification-password-4253.json)：平板改密和手动网页登录转圈，手机改密可行，弹窗仍需观察；探需片段，00:00–36:01。
+- [ipad-verification-password-4269](ipad-verification-password/ipad-verification-password-4269.json)：微信云朵下载反复验证，三处本人账号，改密后仍未解决；探需片段，00:00–26:01。
+- [ipad-verification-password-4321](ipad-verification-password/ipad-verification-password-4321.json)：iPad主账号退登无效，自动下载被误作网络开关，网络还原待自行试；探需片段，00:00–26:01。
+- [ipad-verification-password-4357](ipad-verification-password/ipad-verification-password-4357.json)：办公室Wi-Fi不稳且担心中毒，只接受排查办法尚未实际换网；探需片段，00:00–26:01。
+- [ipad-verification-password-4395](ipad-verification-password/ipad-verification-password-4395.json)：iCloud备份与云朵误判后转向网络，门店Wi-Fi下开始下载；探需片段，00:00–23:33。
+- [ipad-verification-password-4562](ipad-verification-password/ipad-verification-password-4562.json)：办公下载反复验证但官网手输可登，连手机热点后开始下载；探需片段，00:00–15:30。
+- [ipad-verification-password-4646](ipad-verification-password/ipad-verification-password-4646.json)：两三年前的11英寸Pro反复验证，同号手机正常线索未继续排查；探需片段，00:00–13:11。
+- [ipad-verification-password-4754](ipad-verification-password/ipad-verification-password-4754.json)：基础款半年间歇验证，家中Wi-Fi与热点都试过，重启更新未执行；探需片段，00:00–20:36。
+- [ipad-verification-password-4789](ipad-verification-password/ipad-verification-password-4789.json)：首台iPad11验证转圈，同号手机正常，媒体重登后选择观察；探需片段，00:00–26:01。
+- [ipad-verification-password-4814](ipad-verification-password/ipad-verification-password-4814.json)：办公新应用后间歇验证，商店可重登但复现下载仍反复，其他办法待试；探需片段，00:00–23:23。
+- [ipad-verification-password-4827](ipad-verification-password/ipad-verification-password-4827.json)：每日办公iPad获取转圈退回，官网手输和手机下载正常，重启待试；探需片段，00:00–22:21。
+- [ipad-verification-password-5046](ipad-verification-password/ipad-verification-password-5046.json)：iPad11近一周验证和下载受阻，多网热点与重启无效，主号退不出；探需片段，00:00–24:33。
+- [ipad-verification-password-5144](ipad-verification-password/ipad-verification-password-5144.json)：Wi-Fi偶尔卡顿与查看账户白屏，本人账号却被反复猜测他人下载；探需片段，00:00–18:30。
+- [ipad-verification-password-5293](ipad-verification-password/ipad-verification-password-5293.json)：首台Air间隔一两小时验证，原有ID与媒体同号，网络还原后暂未遇到；探需片段，00:00–15:57。

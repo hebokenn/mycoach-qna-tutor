@@ -1,0 +1,13 @@
+{
+  "id": "922",
+  "topicKey": "storage-full",
+  "question": "手机提示内存不够",
+  "date": "2024-04-26 15:00:00",
+  "score": 81,
+  "result": "通过",
+  "comment": "考题：手机提示内存不够\n1、实施过程不够有说服力（如：告诉客户重启手机会清理缓存）\n2、问题定位不够准确（如：告诉客户是没有定期关机导致缓存累计导致）",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

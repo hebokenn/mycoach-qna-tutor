@@ -1,0 +1,42 @@
+# 13. 接不到陌生人电话：人设索引
+
+共38份可练真实来源人设。标题可能揭示原因，作为顾客对练时不要向学员展示。各JSON保存原背景、条件披露、未知信息、依据时间码及历史审阅范围，不混合不同场次。
+
+- [unknown-call-6097](unknown-call/unknown-call-6097.json)：部分陌生来电不响铃，只有未接记录；探需片段，02:57–10:00。
+- [unknown-call-5567](unknown-call/unknown-call-5567.json)：快递外卖电话有时接不到，通讯录联系人正常；探需片段，00:00–15:00。
+- [unknown-call-5658](unknown-call/unknown-call-5658.json)：17 Pro买半个月，拨出正常但陌生来电接不到；探需片段，00:00–06:00。
+- [unknown-call-5719](unknown-call/unknown-call-5719.json)：未接来电里才看到快递外卖记录，换手机后SIM可接听；探需片段，00:00–06:01。
+- [unknown-call-5688](unknown-call/unknown-call-5688.json)：换17后接不到未存号码，来电设置为询问来电原因；探需片段，00:00–06:00。
+- [unknown-call-5742](unknown-call/unknown-call-5742.json)：陌生来电时好时坏一个月，未开静音或飞行模式；探需片段，00:00–06:00。
+- [unknown-call-5730](unknown-call/unknown-call-5730.json)：新iPhone陌生来电时有时无，其他通知和熟人电话正常；探需片段，00:00–06:00。
+- [unknown-call-5785](unknown-call/unknown-call-5785.json)：点外卖后发现陌生来电常漏接，不太懂专注模式；探需片段，00:00–06:00。
+- [unknown-call-5781](unknown-call/unknown-call-5781.json)：响铃模式仍常漏接外卖电话，只能在未接来电看记录；探需片段，00:00–06:00。
+- [unknown-call-5832](unknown-call/unknown-call-5832.json)：联系人和App通知正常，陌生来电只能偶尔接到；探需片段，00:00–06:00。
+- [unknown-call-5387](unknown-call/unknown-call-5387.json)：外卖早已送到却无来电提示，只看到未接记录；探需片段，00:00–06:00。
+- [unknown-call-5426](unknown-call/unknown-call-5426.json)：17 Pro陌生来电不响铃，换手机测试SIM则正常；探需片段，00:00–16:01。
+- [unknown-call-5147](unknown-call/unknown-call-5147.json)：未存客户和快递外卖来电时有时无，亲友电话正常，重新插卡无效；探需片段，00:00–16:00。
+- [unknown-call-5049](unknown-call/unknown-call-5049.json)：16用了约一年半，几个月来各地点都漏接陌生电话，睡眠专注曾设置；探需片段，00:00–13:44。
+- [unknown-call-3259](unknown-call/unknown-call-3259.json)：熟人来电也很快转语音信箱，影响接听；探需片段，00:00–06:00。
+- [unknown-call-3269](unknown-call/unknown-call-3269.json)：14Pro更新后响几声转留言，走去接听来不及，想知道留言在哪；探需片段，00:00–16:24。
+- [unknown-call-3347](unknown-call/unknown-call-3347.json)：换16后响几声转留言，开关已见但未现场测试接听；探需片段，00:00–13:10。
+- [unknown-call-3472](unknown-call/unknown-call-3472.json)：部分已存联系人也转留言，两个开关都开，讲解堆叠后只约回去试；探需片段，00:00–15:19。
+- [unknown-call-3474](unknown-call/unknown-call-3474.json)：16Pro转留言，顾客追问页面资费提示，关闭建议尚未测试；探需片段，00:00–09:59。
+- [unknown-call-3493](unknown-call/unknown-call-3493.json)：14Pro两年多，升级18后转留言，现场关闭但未试来电；探需片段，00:00–13:59。
+- [unknown-call-3590](unknown-call/unknown-call-3590.json)：16Pro使用时能接、放包里常错过，留言无声音，未核开关结果；探需片段，00:00–13:52。
+- [unknown-call-3685](unknown-call/unknown-call-3685.json)：16三个月响铃转留言又听不见录音，追问安卓来电和费用；探需片段，00:00–25:30。
+- [unknown-call-3728](unknown-call/unknown-call-3728.json)：13换16后响铃转信箱，追问为什么关及功能用途，未测试；探需片段，00:00–15:27。
+- [unknown-call-3813](unknown-call/unknown-call-3813.json)：15专注未开而实时留言开，部分留言无声且无文本，想了解何时有用；探需片段，00:00–20:17。
+- [unknown-call-3958](unknown-call/unknown-call-3958.json)：15近一周来电转信箱且留言无声，专注状态被误当实际拦截；探需片段，00:00–20:45。
+- [unknown-call-3984](unknown-call/unknown-call-3984.json)：15来不及接才转留言，已有记录却无声，理解场景后未明确关；探需片段，00:00–17:34。
+- [unknown-call-4091](unknown-call/unknown-call-4091.json)：14Pro升级18后彩铃响一会转留言，专注未开却被先入归因；探需片段，00:00–17:55。
+- [unknown-call-4144](unknown-call/unknown-call-4144.json)：14Pro更新后转留言，关闭并询问即时来电，顾客报告不再出现；探需片段，00:00–09:09。
+- [unknown-call-4153](unknown-call/unknown-call-4153.json)：16来电被朋友当已接，留言无声，误讲收费后纠正但未确认选择；探需片段，00:00–16:06。
+- [unknown-call-4331](unknown-call/unknown-call-4331.json)：16更新后转留言，电话页只有号码无声，需实测关闭是否恢复；探需片段，00:00–11:59。
+- [unknown-call-4370](unknown-call/unknown-call-4370.json)：14Pro三年26.2，近身能接远处来不及，已关仍追问凭什么认定解决；探需片段，00:00–26:01。
+- [unknown-call-4407](unknown-call/unknown-call-4407.json)：间歇来电转留言且记录无声，讲师未问机型版本或核操作进度；探需片段，00:00–19:13。
+- [unknown-call-4443](unknown-call/unknown-call-4443.json)：17Pro26.2响铃转留言，重启还原后仍有，遗漏实时留言开关；探需片段，00:00–23:55。
+- [unknown-call-4453](unknown-call/unknown-call-4453.json)：15Pro更新后转信箱，已关但仍待测试，顾客要求解释排查关联；探需片段，00:00–17:52。
+- [unknown-call-4869](unknown-call/unknown-call-4869.json)：17Pro新机一月询问来电原因，现场能接但静音测试需恢复核实；探需片段，00:00–12:43。
+- [unknown-call-4611](unknown-call/unknown-call-4611.json)：14Pro两年多仅一友反馈，留言无声无文本，开关未核关闭；探需片段，00:00–30:39。
+- [unknown-call-4755](unknown-call/unknown-call-4755.json)：16Pro26.4家人可接而快递无铃，询问来电原因已改永不待观察；探需片段，00:00–30:13。
+- [unknown-call-4873](unknown-call/unknown-call-4873.json)：17上周发现陌生来电无铃，筛选为静音但整机非静音，想看截图；探需片段，00:00–20:40。

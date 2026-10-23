@@ -1,0 +1,13 @@
+{
+  "id": "5309",
+  "topicKey": "ipad-verification-password",
+  "question": "iPad 提示输入验证密码",
+  "date": "2026-07-17 15:30:00",
+  "score": 83,
+  "result": "通过",
+  "comment": "内容准确：1.内容：问题定位准确，排查有一定方向但部分知识掌握不足，如：想要带客户排查iPad- App Store是否开启蜂窝与无线局域网，实际iPad无此选项；提供方案合理但不够完整，仅让客户退出App Store ID登录，也可建议客户还原网络/设置/退出设置ID登录等操作，提供多样化方案让客户选择。\n\n答疑服务技巧：2.服务技巧：1）安抚及时、话术合理；2）提问思路清晰，对客户问题出现的情况及表现了解清楚。\n\n流程完整：3.流程：流程完整。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

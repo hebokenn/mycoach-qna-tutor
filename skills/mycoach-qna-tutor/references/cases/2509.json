@@ -1,0 +1,13 @@
+{
+  "id": "2509",
+  "topicKey": "contacts-deleted",
+  "question": "手机通讯录被删",
+  "date": "2024-11-27 15:00:00",
+  "score": 80,
+  "result": "通过",
+  "comment": "手机通讯录被删\n1.内容：问题定位准确，但提供方案的信服力不强（如：讲师告知客户手机端只能通过开启和关闭通讯录iCloud同步开关才能恢复通讯录或者通过Mac端iCloud网页恢复）。\n2.服务技巧：探询不全面，仅询问客户是否使用iCloud，未询问整个通讯录还是个别联系人删除了。\n3.流程：提问缺乏征求顾客同意。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

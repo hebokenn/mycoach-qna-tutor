@@ -1,0 +1,151 @@
+# 18. 手机提示内存不够：人设索引
+
+共137份可练真实来源人设。标题可能揭示原因，作为顾客对练时不要向学员展示。各JSON保存原背景、条件披露、未知信息、依据时间码及历史审阅范围，不混合不同场次。
+
+- [storage-full-5945](storage-full/storage-full-5945.json)：128GB 旧机频繁空间不足，重启和删照片仍没改善；探需片段，03:46–10:00。
+- [storage-full-5934](storage-full/storage-full-5934.json)：128GB手机提示存储不足，删应用和照片后改善不大；探需片段，00:00–14:00。
+- [storage-full-5458](storage-full/storage-full-5458.json)：128G手机常提示不足，没删软件因全是常用应用；探需片段，00:00–15:00。
+- [storage-full-5484](storage-full/storage-full-5484.json)：手机空间不足，同时iCloud的5GB空间也满了；探需片段，00:00–06:00。
+- [storage-full-5469](storage-full/storage-full-5469.json)：14 Pro用了两年多，128G已用120G；探需片段，00:00–06:00。
+- [storage-full-5637](storage-full/storage-full-5637.json)：删照片只暂时缓解，两周后仍反复提示空间不足；探需片段，00:00–06:00。
+- [storage-full-5695](storage-full/storage-full-5695.json)：拍照及打开微信抖音都提示空间不足，重启删照片作用小；探需片段，00:00–06:00。
+- [storage-full-5737](storage-full/storage-full-5737.json)：最近一周提示不足，提示前没有留意存储变化；探需片段，00:00–06:00。
+- [storage-full-5817](storage-full/storage-full-5817.json)：用相机微信抖音时频繁提示空间不足，手机也卡；探需片段，00:00–05:58。
+- [storage-full-5833](storage-full/storage-full-5833.json)：删照片仍提示不足，重新查看的系统数据与最初描述不同；探需片段，00:00–06:00。
+- [storage-full-5904](storage-full/storage-full-5904.json)：上月起手机空间不足，前几天更新系统后仍未改善；探需片段，00:00–05:59。
+- [storage-full-5378](storage-full/storage-full-5378.json)：照片微信占用较大，顾客不愿付费开iCloud；探需片段，00:00–16:00。
+- [storage-full-5313](storage-full/storage-full-5313.json)：128GB旧14 Pro系统数据近100GB，分不清自动更新和重装系统；探需片段，00:00–16:00。
+- [storage-full-5302](storage-full/storage-full-5302.json)：128GB旧机反复空间不足，自述系统数据100GB，删照片作用不大；探需片段，00:00–06:00。
+- [storage-full-515](storage-full/storage-full-515.json)：256GB手机还有百余GB，云端4.9GB将满，没理解两种空间的差别；探需片段，00:00–18:53。
+- [storage-full-518](storage-full/storage-full-518.json)：不愿付费，照片同步关着但云端仍有占用，准备回家网页核对；探需片段，00:00–26:01。
+- [storage-full-650](storage-full/storage-full-650.json)：128GB中系统数据近百GB，追问备份为何有用，尚未执行恢复；探需片段，00:00–36:01。
+- [storage-full-664](storage-full/storage-full-664.json)：不易辨认容量颜色，云备份本机关着，准备回家查孩子的iPad；探需片段，00:00–24:51。
+- [storage-full-700](storage-full/storage-full-700.json)：系统数据口述近百GB，关机再开未改善，等待Coach咨询同事；探需片段，00:00–17:00。
+- [storage-full-703](storage-full/storage-full-703.json)：只想停止空间提醒，云端5GB满，却被建议关闭全部功能；探需片段，00:00–16:01。
+- [storage-full-728](storage-full/storage-full-728.json)：换大容量后仍提醒，不知何时弹出，云端接近满但没有处理结果；探需片段，00:00–16:01。
+- [storage-full-745](storage-full/storage-full-745.json)：本机还剩约140GB，不想付费，听懂清理方向但未确认释放空间；探需片段，00:00–26:01。
+- [storage-full-756](storage-full/storage-full-756.json)：新机两三天，想删云备份却只获关闭指导，暂不领六个月试用；探需片段，00:00–16:01。
+- [storage-full-761](storage-full/storage-full-761.json)：关同步后仍满，反复确认保留还是移除，删除备份后才见该部分消失；探需片段，00:00–28:31。
+- [storage-full-868](storage-full/storage-full-868.json)：系统数据近百GB但设备可用，正在上课不便重启还原，要求其他方案；探需片段，00:00–26:01。
+- [storage-full-882](storage-full/storage-full-882.json)：起初怀疑系统占百GB，实查微信38GB照片近30GB，选择回家慢慢清理；探需片段，00:00–22:46。
+- [storage-full-1001](storage-full/storage-full-1001.json)：照片2GB、备份358.4MB，想看具体照片并确认删除会否影响本机；探需片段，00:00–26:01。
+- [storage-full-1026](storage-full/storage-full-1026.json)：只从App Store下载，质疑未经核实的系统归因，希望讲师带着做；探需片段，00:00–26:01。
+- [storage-full-1132](storage-full/storage-full-1132.json)：头像下提示云空间，4.87GB将满，已关同步但提醒效果未核；探需片段，00:00–18:22。
+- [storage-full-1243](storage-full/storage-full-1243.json)：昨晚发现系统数据近百GB，关机再开后明确说问题已解决；探需片段，00:00–13:08。
+- [storage-full-847](storage-full/storage-full-847.json)：新机没迁旧资料，只想停止提醒，拒绝付费后完成云照片关闭删除；探需片段，00:00–46:01。
+- [storage-full-876](storage-full/storage-full-876.json)：系统数据近百GB，无电脑无法跟做，不懂备份再恢复的因果；探需片段，00:00–36:01。
+- [storage-full-920](storage-full/storage-full-920.json)：本机只用38GB，云端5GB满，关照片会不会删2.49GB旧图；探需片段，00:00–17:05。
+- [storage-full-922](storage-full/storage-full-922.json)：机型说顺口后更正，系统数据近百GB，清微信后有所减少；探需片段，00:00–20:59。
+- [storage-full-961](storage-full/storage-full-961.json)：同账户三台设备，担心系统垃圾，追问删本机照片和临时扩容；探需片段，00:00–22:59。
+- [storage-full-964](storage-full/storage-full-964.json)：想先学关闭，再考虑云服务，询问半年后试用资格与家人共享；探需片段，00:00–24:04。
+- [storage-full-965](storage-full/storage-full-965.json)：隔两三天提醒但使用未受阻，希望关云端并保留照片原件；探需片段，00:00–20:15。
+- [storage-full-968](storage-full/storage-full-968.json)：系统数据近百GB，当前不能还原，要求一次说清其他方案；探需片段，00:00–24:27。
+- [storage-full-1084](storage-full/storage-full-1084.json)：资料都重要，云空间有余量，但备份与还原的完整步骤没讲明；探需片段，00:00–36:01。
+- [storage-full-1092](storage-full/storage-full-1092.json)：资料重要，要求确认还原与重启的次序，现场尚未操作；探需片段，00:00–46:01。
+- [storage-full-1255](storage-full/storage-full-1255.json)：可用约2GB，微信二十多GB与系统百GB看似矛盾，清理后有所下降；探需片段，00:00–14:07。
+- [storage-full-1261](storage-full/storage-full-1261.json)：不愿按月付费，云端4.8GB将满，删除后明确说不再提示；探需片段，00:00–16:01。
+- [storage-full-1268](storage-full/storage-full-1268.json)：当前不能重启，讲师转到还原，顾客要求逐项讲清验证顺序；探需片段，00:00–16:01。
+- [storage-full-1281](storage-full/storage-full-1281.json)：本机254.8GB近满，怕删App后下不回，清理还牵涉草稿与重要聊天；探需片段，00:00–32:44。
+- [storage-full-1290](storage-full/storage-full-1290.json)：本机只用57.88GB，云照片占多，不付费后准备观察是否再提示；探需片段，00:00–26:01。
+- [storage-full-1337](storage-full/storage-full-1337.json)：本机余168GB云端5GB满，点照片优化暂没弹窗，但不愿买云空间；探需片段，00:00–16:01。
+- [storage-full-1356](storage-full/storage-full-1356.json)：应用和照片不多，微信清理后腾出空间，后续确认系统数据降了很多；探需片段，00:00–15:09。
+- [storage-full-1371](storage-full/storage-full-1371.json)：不懂系统日志缓存，现场没解决，准备等其他同事协助；探需片段，00:00–16:01。
+- [storage-full-1374](storage-full/storage-full-1374.json)：没有电脑，系统数据近百GB，想确认还原与抹掉的区别，准备课后试；探需片段，00:00–16:01。
+- [storage-full-1459](storage-full/storage-full-1459.json)：常用软件都重要，要求先验证删除与系统数据关系，想自己按完整步骤处理；探需片段，00:00–19:57。
+- [storage-full-1461](storage-full/storage-full-1461.json)：怀疑新机变二手，云端5GB满，想先弄懂同步删除和停止上传；探需片段，00:00–22:34。
+- [storage-full-1578](storage-full/storage-full-1578.json)：迁移已一年多，仍不懂近百GB原因，恢复与硬件说法使顾客更疑惑；探需片段，00:00–15:21。
+- [storage-full-1646](storage-full/storage-full-1646.json)：想先清理系统数据，不理解为何直接要求抹掉设备；探需片段，00:00–26:01。
+- [storage-full-1708](storage-full/storage-full-1708.json)：新256GB仍提示不足，追问关闭同步能否清掉云端及保住照片；探需片段，00:00–26:01。
+- [storage-full-1775](storage-full/storage-full-1775.json)：本机仍有空间，5GB云端近满，不清楚两种空间和备份开关；探需片段，00:00–16:01。
+- [storage-full-1854](storage-full/storage-full-1854.json)：系统数据近百GB，希望先用便捷办法，准备回去逐项验证；探需片段，00:00–15:27。
+- [storage-full-1936](storage-full/storage-full-1936.json)：云端删除后仍显示5GB，顾客提出需要等加载再验证；探需片段，00:00–21:03。
+- [storage-full-1945](storage-full/storage-full-1945.json)：认为容量没给够，关闭及删除后仍满，追问开关真正作用；探需片段，00:00–16:01。
+- [storage-full-1985](storage-full/storage-full-1985.json)：清微信无效，按指导关机再开后明确看到空间释放；探需片段，00:00–12:30。
+- [storage-full-2091](storage-full/storage-full-2091.json)：本机剩很多仍提示，担心二手机，追问关同步和清旧数据的区别；探需片段，00:00–26:01。
+- [storage-full-2135](storage-full/storage-full-2135.json)：本机只用80GB却被建议检测，顾客赶时间约微信后续；探需片段，00:00–16:01。
+- [storage-full-2166](storage-full/storage-full-2166.json)：本机充足云端5GB满，拒绝试用后续收费，选择关闭备份方案；探需片段，00:00–10:10。
+- [storage-full-2216](storage-full/storage-full-2216.json)：不愿卸载偶尔会用的App，重要微信记录要保留，清理后好一些；探需片段，00:00–16:01。
+- [storage-full-2227](storage-full/storage-full-2227.json)：担心删掉重要照片，开关一会开一会关，请老师从头梳理；探需片段，00:00–26:01。
+- [storage-full-2234](storage-full/storage-full-2234.json)：重启无效，听不懂算法和缓存术语，要求说明真正原因；探需片段，00:00–19:44。
+- [storage-full-2237](storage-full/storage-full-2237.json)：工作照片不能删，微信和最近删除清理有限，更新待回去做；探需片段，00:00–16:41。
+- [storage-full-2249](storage-full/storage-full-2249.json)：已清理已重启且自述最新，不接受只能等下次系统更新；探需片段，00:00–16:01。
+- [storage-full-2293](storage-full/storage-full-2293.json)：256GB本机确实用满，多个常用App占大，清理后明确下降；探需片段，00:00–15:06。
+- [storage-full-2390](storage-full/storage-full-2390.json)：本机余百GB云端满，不懂自己何时使用，尚未实际清理；探需片段，00:00–15:33。
+- [storage-full-2391](storage-full/storage-full-2391.json)：购机两天本机30多GB，云端4.9GB，想看照片再决定删；探需片段，00:00–16:01。
+- [storage-full-2490](storage-full/storage-full-2490.json)：本机余百GB仍被教清缓存，顾客明确说问题没有解决；探需片段，00:00–19:01。
+- [storage-full-2545](storage-full/storage-full-2545.json)：云照片占三多GB，最近删除已清，想先了解选择再考虑升级；探需片段，00:00–15:05。
+- [storage-full-2546](storage-full/storage-full-2546.json)：照片同步已关但云端仍满，追问下载原片和多设备删除的影响；探需片段，00:00–26:01。
+- [storage-full-2549](storage-full/storage-full-2549.json)：不想订阅，问清理能保多久、删云照片后本机是否仍在；探需片段，00:00–20:33。
+- [storage-full-2551](storage-full/storage-full-2551.json)：新机一周云照片占多，网页登录看删除路径，未实际核释放量；探需片段，00:00–16:01。
+- [storage-full-2562](storage-full/storage-full-2562.json)：旧11停用，本机余百GB云端已满，升级先了解不立即购买；探需片段，00:00–09:25。
+- [storage-full-2571](storage-full/storage-full-2571.json)：顾客要求先听完：旧机六十多GB迁到256也应够，问何为无用备份；探需片段，00:00–16:01。
+- [storage-full-2577](storage-full/storage-full-2577.json)：倾向清理又不想再上传，照片已优化，追问如何确认原片全下载；探需片段，00:00–17:46。
+- [storage-full-2588](storage-full/storage-full-2588.json)：先说二百多GB后主动更正128GB，系统近百GB，未接受安装支持App；探需片段，00:00–26:01。
+- [storage-full-2600](storage-full/storage-full-2600.json)：缓存只少一点，不愿云订阅也没电脑，要求别反复推同一方案；探需片段，00:00–33:59。
+- [storage-full-2601](storage-full/storage-full-2601.json)：云备份占多却只被教关照片，页面不同，追问每步到底要干嘛；探需片段，00:00–26:01。
+- [storage-full-2679](storage-full/storage-full-2679.json)：改日期重启无效，不想付费备份且赶时间，不接受抹除必好保证；探需片段，00:00–16:01。
+- [storage-full-2746](storage-full/storage-full-2746.json)：听到刷机误以为越狱，要求直接归纳可用办法，未当场验证；探需片段，00:00–26:01。
+- [storage-full-2868](storage-full/storage-full-2868.json)：改日期普通重启无效，询问其他重启方式后称强制重启已解决；探需片段，00:00–25:03。
+- [storage-full-2893](storage-full/storage-full-2893.json)：重启改善不多，当前来不及，准备回家验证更新与恢复方案；探需片段，00:00–14:14。
+- [storage-full-2923](storage-full/storage-full-2923.json)：偶发提示当时不见，重启后云端显示满，下载原片后找不到删除入口；探需片段，00:00–26:01。
+- [storage-full-2943](storage-full/storage-full-2943.json)：常用App不想删，系统近百GB主诉需核，只有口述清理未上手；探需片段，00:00–23:11。
+- [storage-full-2913](storage-full/storage-full-2913.json)：清过微信仍提示，本机100/256GB云端满，要求明确到底哪边不足；探需片段，00:00–33:57。
+- [storage-full-2959](storage-full/storage-full-2959.json)：怕重装丢数据且耗时，抖音清后改善小，资料多当场清不完；探需片段，00:00–16:01。
+- [storage-full-2995](storage-full/storage-full-2995.json)：不愿云订阅没电脑，卸载建议未见效果，继续问微信游戏如何清；探需片段，00:00–16:01。
+- [storage-full-3012](storage-full/storage-full-3012.json)：认为128GB宣传不符，强制重启后空间恢复并当场清微信；探需片段，00:00–15:25。
+- [storage-full-3062](storage-full/storage-full-3062.json)：承认自己照片占用，但不认系统占百GB，清缓存后重启称解决；探需片段，00:00–20:46。
+- [storage-full-3076](storage-full/storage-full-3076.json)：总用百GB怀疑二手，微信缓存释放后仍只改善一点，不愿付费；探需片段，00:00–25:59。
+- [storage-full-3086](storage-full/storage-full-3086.json)：微信照片抖音占前列，多轮清理只少一点，担心删App资料；探需片段，00:00–21:55。
+- [storage-full-3095](storage-full/storage-full-3095.json)：重启要时间先问其他法，还原所有设置后称恢复，再学习微信缓存；探需片段，00:00–20:26。
+- [storage-full-3125](storage-full/storage-full-3125.json)：视频中不能代操作，关机重启说明反复，客户重启后系统约8GB；探需片段，00:00–19:30。
+- [storage-full-3301](storage-full/storage-full-3301.json)：已关iCloud仍被问云端，想知道线上怎么还原及有没有更便捷方案；探需片段，00:00–16:01。
+- [storage-full-3306](storage-full/storage-full-3306.json)：本机110/128GB且卡，怕微信重装丢记录，最终只有口述清理；探需片段，00:00–22:09。
+- [storage-full-3426](storage-full/storage-full-3426.json)：主诉系统100GB后实读50多GB，强制重启加两App缓存清理释放数十GB；探需片段，00:00–16:01。
+- [storage-full-3452](storage-full/storage-full-3452.json)：系统与App占用未分清，云端已满，听不懂为何升级后再还原；探需片段，00:00–36:01。
+- [storage-full-3458](storage-full/storage-full-3458.json)：微信清后少一点，不愿付费，追问云照片上传后本地是否保留；探需片段，00:00–16:01。
+- [storage-full-3532](storage-full/storage-full-3532.json)：首次iPhone用不到一年，App资料确实占多，误把清后台当清缓存；探需片段，00:00–22:20。
+- [storage-full-3544](storage-full/storage-full-3544.json)：微信清出七多GB，云照片已开且云满，准备回去保照片再清；探需片段，00:00–16:01。
+- [storage-full-3589](storage-full/storage-full-3589.json)：系统灰条近100GB，微信清成功但其他App和系统最终结果未验证；探需片段，00:00–23:51。
+- [storage-full-3637](storage-full/storage-full-3637.json)：退后台重启都无效，怕无证漏洞影响资金，问抹除送修如何实际协助；探需片段，00:00–34:08。
+- [storage-full-3713](storage-full/storage-full-3713.json)：常用微信不能直接删，重启无效，不愿等系统或加企微，打官方电话；探需片段，00:00–16:01。
+- [storage-full-3735](storage-full/storage-full-3735.json)：边通话不能还原且网络卡，要求理清方案，不愿立刻送修；探需片段，00:00–20:08。
+- [storage-full-3804](storage-full/storage-full-3804.json)：从系统百GB核出App占大，常用微信游戏要留，没电脑方案需澄清；探需片段，00:00–16:01。
+- [storage-full-3806](storage-full/storage-full-3806.json)：已最新却被推系统漏洞硬件检测，顾客拒绝送检，已有支持App；探需片段，00:00–26:01。
+- [storage-full-3900](storage-full/storage-full-3900.json)：微信抖音清完只少一点，系统后来读20GB，问手机还是设置的问题；探需片段，00:00–16:01。
+- [storage-full-3909](storage-full/storage-full-3909.json)：反复追问重启为何对应存储，已18.6.1，不懂是否必须定期还原；探需片段，00:00–16:01。
+- [storage-full-3974](storage-full/storage-full-3974.json)：系统实读20多GB、App照片较多，不愿付费，问卸载和还原究竟作用；探需片段，00:00–16:01。
+- [storage-full-4039](storage-full/storage-full-4039.json)：余量为零系统98.7GB，重启没好，微信清理后客户称有减少；探需片段，00:00–16:01。
+- [storage-full-4058](storage-full/storage-full-4058.json)：两次重启只略减仍多，电脑更新无效，顾客选择自己联系官方支持；探需片段，00:00–16:01。
+- [storage-full-4082](storage-full/storage-full-4082.json)：强调最底部系统数据，跟清微信后只说可能有帮助，缺客户复查数值；探需片段，00:00–13:12。
+- [storage-full-4083](storage-full/storage-full-4083.json)：不常更新也不熟操作，要求慢一点，重启微信清后只少一些；探需片段，00:00–24:09。
+- [storage-full-4084](storage-full/storage-full-4084.json)：微信清理仍不够，问其他软件照片怎么办，还没选好删哪些App；探需片段，00:00–26:01。
+- [storage-full-4118](storage-full/storage-full-4118.json)：系统101GB但无可删安装包入口，会备份，要回去试后才确认结果；探需片段，00:00–16:01。
+- [storage-full-4126](storage-full/storage-full-4126.json)：系统近100GB强制重启降到80多，已18.7，想有更便捷办法；探需片段，00:00–14:46。
+- [storage-full-4128](storage-full/storage-full-4128.json)：128GB报系统近100GB，不买云空间且不能删微信记录，要求逐个App教清理；探需片段，00:00–26:01。
+- [storage-full-4242](storage-full/storage-full-4242.json)：14Pro系统近100GB，反复解释沙盒却未带操作，顾客想自己回去做；探需片段，00:00–26:01。
+- [storage-full-4300](storage-full/storage-full-4300.json)：系统100.06GB且无电脑，不想付费扩容也无法到店，拒绝加微信等回复；探需片段，00:00–26:01。
+- [storage-full-4430](storage-full/storage-full-4430.json)：新手机迁移后系统近100GB，不懂模糊提问，最后只被告知等咨询回复；探需片段，00:00–16:07。
+- [storage-full-4467](storage-full/storage-full-4467.json)：总用量与系统混淆，微信照片四五十GB，不付费也不换机，听乱备份恢复方案；探需片段，00:00–36:01。
+- [storage-full-4558](storage-full/storage-full-4558.json)：14Pro更新26仍系统近100GB，重启无效，Windows用户希望更简单办法；探需片段，00:00–16:01。
+- [storage-full-4601](storage-full/storage-full-4601.json)：把总用量误认为系统100GB，清三类App和重启释放30多GB，回家观察；探需片段，00:00–24:54。
+- [storage-full-4708](storage-full/storage-full-4708.json)：iPhone14近两年提示不足且卡，系统实际25GB，照片20多GB但未完成清理；探需片段，00:00–16:01。
+- [storage-full-4733](storage-full/storage-full-4733.json)：系统实际13.06GB，微信照片抖音大，想保留已发视频并主动要求教操作；探需片段，00:00–24:10。
+- [storage-full-4995](storage-full/storage-full-4995.json)：生活照片要慢慢挑，不买云空间，追问优化会否搬空本地，清微信5GB后自行继续；探需片段，00:00–20:42。
+- [storage-full-5005](storage-full/storage-full-5005.json)：看网络方法把系统误读100GB，微信54.44GB不能删，重启29.09降28.21；探需片段，00:00–24:33。
+- [storage-full-5050](storage-full/storage-full-5050.json)：iPhone15日常拍照微信会卡，少有闲置App，想知道云照片是否不占本机；探需片段，00:00–16:01。
+- [storage-full-5095](storage-full/storage-full-5095.json)：15基础款近月提示且卡，怕丢聊天不清微信，系统26GB重启少约2GB；探需片段，00:00–15:11。
+- [storage-full-5113](storage-full/storage-full-5113.json)：首台15爱拍照P图，删闲置App无用，微信重要要回去筛，未现场清理；探需片段，00:00–22:06。
+- [storage-full-5120](storage-full/storage-full-5120.json)：iPhone15留在17不想升级，删照片仍卡，清微信与最近删除约12GB后重启再降；探需片段，00:00–26:01。
+- [storage-full-5224](storage-full/storage-full-5224.json)：只用手机不想云盘，微信12GB缓存清后还嫌少，反复问照片怎样真正释放；探需片段，00:00–26:01。
+- [storage-full-5245](storage-full/storage-full-5245.json)：14Pro18系统近月提示且卡，重启删照片无效，担心升级更卡并想先试别法；探需片段，00:00–20:51。
+- [storage-full-5261](storage-full/storage-full-5261.json)：担心二手机，14Pro记不清年限和迁移，强制重启未改善后担心备份抹除丢数据；探需片段，00:00–13:13。
+
+## 不生成可练人设的来源
+
+这些是审阅过的来源说明，可能无有效对话、无回放或题目不符。不得补造顾客。
+
+- 来源477：原考官评语：“学员上线无画面和声音，线上多次提醒检查考试链接和浏览器权限均无果，无法判断是否为系统原因，请审核酌情考量是否算作一次考试成绩”。本轮检查多段音轨未取得可确认的顾客答疑对话，保留来源说明，不补造顾客人设；不改变本场成绩或是否计考的原始记录。
+- 来源4374：当前回放清单没有提供录像文件，无法核对顾客原话、机型及完整设定。此状态不表示考试未开展，也不改变原成绩与计考次数；该来源不进入顾客人设或随机池。以下仅为原考官评语，不作为标准答案或顾客事实：
+1、内容 ：问题定位准确，提供的方案可行 ，也可提供更多的解决方案（如：清理占用空间较多的app缓存）
+2、服务：安抚顾客不足，没有用语言保证尽责服务，探询不全面（如：没有了解顾客设备的使用习惯，常用app占用空间情况）
+3、流程：流程完整

@@ -1,0 +1,13 @@
+{
+  "id": "664",
+  "topicKey": "storage-full",
+  "question": "手机提示空间不足",
+  "date": "2024-03-15 15:00:00",
+  "score": 80,
+  "result": "通过",
+  "comment": "考题：手机提示空间不足\n1、探寻问题思路稍有欠缺，提问问题让客户比较难以回答（如：问客户 iCloud 进度分布条来判断使用情况）\n2、实施过程缺乏说服力（如：向客户推荐了 iCloud+ 服务，但却不能有效表达出 iCloud 的优势，无法让客户有共鸣）",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

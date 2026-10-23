@@ -1,0 +1,12 @@
+{
+  "command": [
+    "python3",
+    "scripts/score_record.py",
+    "--input",
+    "evidence-B2-score-input.json"
+  ],
+  "executionContext": "installed skill directory; absolute local path omitted",
+  "exitCode": 0,
+  "stderr": "",
+  "reviewScope": "qna-13 evidence sufficiency only; other item judgments unchanged"
+}

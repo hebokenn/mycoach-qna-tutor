@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.playwright-cli/
+output/
+releases/**/*.zip
+releases/**/SHA256SUMS

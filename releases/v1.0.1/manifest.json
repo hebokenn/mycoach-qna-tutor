@@ -1,0 +1,17 @@
+{
+  "version": "1.0.1",
+  "packages": [
+    {
+      "file": "mycoach-qna-tutor-v1.0.1.zip",
+      "sha256": "1adb28232948a50fad9b4447cc5a47231fca2f463b4f79a680e94ad1c87cbe0d",
+      "bytes": 5866212,
+      "files": 2647
+    },
+    {
+      "file": "mycoach-qna-tutor-workbuddy-v1.0.1.zip",
+      "sha256": "49acff48dd7ff046de4172bb2da8950c46d1457db3faef6d561779baed14733d",
+      "bytes": 5866370,
+      "files": 2647
+    }
+  ]
+}

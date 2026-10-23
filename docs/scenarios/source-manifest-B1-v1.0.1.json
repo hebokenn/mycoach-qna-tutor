@@ -1,0 +1,18 @@
+{
+  "verifiedAt": "2026-10-23T01:19:38.013817+00:00",
+  "skillVersion": "1.0.1",
+  "sourceFiles": [
+    {
+      "path": "SKILL.md",
+      "sha256": "f64cf23c9001ca9d451bb091d7dc03de3e4eccdb0dbfd0d6c887d98a62fa951c"
+    },
+    {
+      "path": "references/roleplay.md",
+      "sha256": "01deced15f2b36651ce3b9b452243f3796c035e6ddeadeb2318f7c02832b60d4"
+    },
+    {
+      "path": "references/personas/battery-quality/battery-quality-5887.json",
+      "sha256": "076100f12bbf7d04f5441fec9ad1281beaa6d395df743ebb00763097244aa74f"
+    }
+  ]
+}

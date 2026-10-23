@@ -1,0 +1,13 @@
+{
+  "id": "5808",
+  "topicKey": "black-screen-sound",
+  "question": "手机屏幕是黑的，会发出声音",
+  "date": "2026-08-28 11:00:00",
+  "score": 81,
+  "result": "通过",
+  "comment": "内容准确：问题定位准确，提供方案合理，但在投屏演示操作时，观看效果不佳，讲师使用 iPhone 镜像演示关闭幕帘屏和旁白的过程，但是 iPhone 镜像并不能展示出使用手势关闭旁白的操作步骤，最终只能通过 Mac 镜头展示，观看效果不佳，建议根据考题或即将要讲解的功能选择性使用 iPhone 镜像/ QuickTime /屏幕镜像三种方式之一进行演示。\n\n答疑服务技巧：及时安抚客户。探询不全面，建议了解顾客设备型号和系统版本/屏幕外观是否有明显裂痕。\n\n流程完整：流程完整。",
+  "replayAvailable": true,
+  "recordKind": "historical_exam_comment",
+  "snapshotAt": "2026-10-21T04:07:53.228Z",
+  "evidenceLimit": "历史原分数和考官评语；本包不含视频，不代表本次完整视频复审。"
+}

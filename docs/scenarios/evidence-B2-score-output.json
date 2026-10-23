@@ -1,0 +1,270 @@
+{
+  "kind": "practice_evaluation_only",
+  "recordScope": "complete",
+  "medium": "text",
+  "scoredItems": 10,
+  "totalItems": 16,
+  "observedPoints": 55.2,
+  "observedMaximum": 67.0,
+  "observedOnlyPercent": 82.39,
+  "fullScoreInterval": [
+    55.2,
+    88.2
+  ],
+  "completeTotal": null,
+  "simulationThreshold": 80,
+  "simulationResult": null,
+  "note": "仅完整且16项都有足够证据时给模拟总分/判定。局部归一化值不能当整场分数；80来自MyCoach模拟口径。",
+  "dimensions": {
+    "dim1": {
+      "observedPoints": 24.0,
+      "observedMaximum": 30.0,
+      "fullMaximum": 30.0
+    },
+    "dim2": {
+      "observedPoints": 11.2,
+      "observedMaximum": 14.0,
+      "fullMaximum": 35.0
+    },
+    "dim3": {
+      "observedPoints": 12.0,
+      "observedMaximum": 15.0,
+      "fullMaximum": 25.0
+    },
+    "dim4": {
+      "observedPoints": 8.0,
+      "observedMaximum": 8.0,
+      "fullMaximum": 10.0
+    }
+  },
+  "items": [
+    {
+      "key": "qna-01",
+      "number": 1,
+      "checkpoint": "建立私教身份、展现私教温度",
+      "dimension": "dim4",
+      "status": "missing",
+      "rawScore": null,
+      "maximumContribution": 0.5,
+      "contribution": null,
+      "evidence": [
+        "T001（记录摘要）：A自我介绍Coach并承接顾虑。"
+      ],
+      "reason": "摘要明确有Coach身份及自我介绍，但未提供礼貌问候原话；无法完整核对本流程项的三个必要要素。"
+    },
+    {
+      "key": "qna-02",
+      "number": 2,
+      "checkpoint": "建立私教身份、展现私教温度",
+      "dimension": "dim3",
+      "status": "unobservable",
+      "rawScore": null,
+      "maximumContribution": 2.5,
+      "contribution": null,
+      "evidence": [
+        "T001、T014：有身份介绍和礼貌收尾的行为描述。"
+      ],
+      "reason": "记录没有声音和画面，且是行为摘要；不能据此认定自信大方、语态和整体教练温度。"
+    },
+    {
+      "key": "qna-03",
+      "number": 3,
+      "checkpoint": "情绪承接技能",
+      "dimension": "dim4",
+      "status": "unobservable",
+      "rawScore": null,
+      "maximumContribution": 1.5,
+      "contribution": null,
+      "evidence": [
+        "T001（记录摘要）：A承接顾虑。"
+      ],
+      "reason": "有承接顾虑的摘要，但文字顺序无法证明没有打断、没有不耐烦或实际情绪降温效果。"
+    },
+    {
+      "key": "qna-04",
+      "number": 4,
+      "checkpoint": "表达感同身受",
+      "dimension": "dim3",
+      "status": "unobservable",
+      "rawScore": null,
+      "maximumContribution": 7.5,
+      "contribution": null,
+      "evidence": [
+        "T001（记录摘要）：A承接顾虑。"
+      ],
+      "reason": "仅提供承接顾虑的行为概述，没有具体缓冲用语、声音或反应，无法确定共情自然度档位。"
+    },
+    {
+      "key": "qna-05",
+      "number": 5,
+      "checkpoint": "结构化探询",
+      "dimension": "dim4",
+      "status": "observed",
+      "rawScore": 10.0,
+      "maximumContribution": 1.5,
+      "contribution": 1.5,
+      "evidence": [
+        "T002（记录摘要）：A说明要先确认现象。"
+      ],
+      "reason": "在探索前说明要先确认现象，有提问意图管理。"
+    },
+    {
+      "key": "qna-06",
+      "number": 6,
+      "checkpoint": "结构化探询",
+      "dimension": "dim3",
+      "status": "observed",
+      "rawScore": 8.0,
+      "maximumContribution": 10.0,
+      "contribution": 8.0,
+      "evidence": [
+        "T002—T009：确认现象、等待顾客回答、问机型、请顾客读充电设置。"
+      ],
+      "reason": "先确认充电表现，再询问机型并核对设置，按文字轮次逐步收窄；未根据文字推断语速。"
+    },
+    {
+      "key": "qna-07",
+      "number": 7,
+      "checkpoint": "确认核心痛点",
+      "dimension": "dim4",
+      "status": "observed",
+      "rawScore": 10.0,
+      "maximumContribution": 2.0,
+      "contribution": 2.0,
+      "evidence": [
+        "T004（记录摘要）：A复述确认是充不满非续航。",
+        "T005（记录摘要）：B确认。"
+      ],
+      "reason": "明确复述充不满而非续航短，并取得顾客确认。"
+    },
+    {
+      "key": "qna-08",
+      "number": 8,
+      "checkpoint": "确认核心痛点",
+      "dimension": "dim3",
+      "status": "observed",
+      "rawScore": 8.0,
+      "maximumContribution": 5.0,
+      "contribution": 4.0,
+      "evidence": [
+        "T003—T005：充到80%停止、复述是充不满、顾客确认。"
+      ],
+      "reason": "复述焦点与顾客实际主诉一致，有确认回应，定位清晰。"
+    },
+    {
+      "key": "qna-09",
+      "number": 9,
+      "checkpoint": "预期管理与排障逻辑",
+      "dimension": "dim4",
+      "status": "observed",
+      "rawScore": 10.0,
+      "maximumContribution": 1.5,
+      "contribution": 1.5,
+      "evidence": [
+        "T008（记录摘要）：请本人操作、密码不用告诉别人。",
+        "T010—T011：说明两种选择并由B选择临时。"
+      ],
+      "reason": "明确提醒密码不用告诉别人，并先解释上限和临时选择的区别再由本人选择。没有涉及删除数据或全面重置。"
+    },
+    {
+      "key": "qna-10",
+      "number": 10,
+      "checkpoint": "提供解决方案",
+      "dimension": "dim1",
+      "status": "observed",
+      "rawScore": 8.0,
+      "maximumContribution": 12.0,
+      "contribution": 9.6,
+      "evidence": [
+        "T010—T014：本人选择、按实机弹窗操作、继续观察和未继续时的反馈/官方支持路径。"
+      ],
+      "reason": "结合今天急用给临时充电与保留上限的选择，交代操作和未继续充电时的后续路径；未把待观察说成已解决。"
+    },
+    {
+      "key": "qna-11",
+      "number": 11,
+      "checkpoint": "提供解决方案",
+      "dimension": "dim1",
+      "status": "observed",
+      "rawScore": 8.0,
+      "maximumContribution": 18.0,
+      "contribution": 14.4,
+      "evidence": [
+        "T003—T014：80%停止→iPhone15→充电上限80%→选择临时→尚未观察→后续验证。"
+      ],
+      "reason": "由症状、机型、设置证据推进到解释与自主选择，操作后取得状态反馈，明确仍需验证并交代失败路径。此分评价可见排障逻辑，不代表问题已解决。"
+    },
+    {
+      "key": "qna-12",
+      "number": 12,
+      "checkpoint": "知识与概念",
+      "dimension": "dim2",
+      "status": "observed",
+      "rawScore": 8.0,
+      "maximumContribution": 14.0,
+      "contribution": 11.2,
+      "evidence": [
+        "T007：iPhone15。",
+        "T009—T010：上限80%，与最大容量不同，解释取舍。"
+      ],
+      "reason": "上限与最大容量区分正确；iPhone15支持充电上限。临时忽略方式按实机选项核对，不补造顾客系统版本或菜单。"
+    },
+    {
+      "key": "qna-13",
+      "number": 13,
+      "checkpoint": "知识与概念",
+      "dimension": "dim2",
+      "status": "missing",
+      "rawScore": null,
+      "maximumContribution": 14.0,
+      "contribution": null,
+      "evidence": [
+        "T010（记录摘要）：A解释了上限、最大容量区别与当日急用选择。"
+      ],
+      "reason": "摘要只证明有解释行为及所涉内容，没有实际讲解原话，不能确定其是否通俗、偏说明书或使用贴切比喻；缺少的表达证据足以影响档位，整项暂不定分。不能把未提供讲解原话当成已观察到的低档表现。"
+    },
+    {
+      "key": "qna-14",
+      "number": 14,
+      "checkpoint": "操作与反馈",
+      "dimension": "dim4",
+      "status": "observed",
+      "rawScore": 10.0,
+      "maximumContribution": 1.5,
+      "contribution": 1.5,
+      "evidence": [
+        "T008：请本人打开并读选项。",
+        "T012—T014：等待反馈、B报告尚未观察、A给后续观察步骤。"
+      ],
+      "reason": "有本人操作引导、等待反馈，并接住“已选但未观察”的实际进度。"
+    },
+    {
+      "key": "qna-15",
+      "number": 15,
+      "checkpoint": "操作与反馈",
+      "dimension": "dim2",
+      "status": "unobservable",
+      "rawScore": null,
+      "maximumContribution": 7.0,
+      "contribution": null,
+      "evidence": [
+        "T013：B仅自述已选，没有后续充电观察结果。"
+      ],
+      "reason": "无画面和音轨，不能判断实机演示是否清晰准确或与顾客实际节奏同频。"
+    },
+    {
+      "key": "qna-16",
+      "number": 16,
+      "checkpoint": "推荐资源，结束服务",
+      "dimension": "dim4",
+      "status": "observed",
+      "rawScore": 10.0,
+      "maximumContribution": 1.5,
+      "contribution": 1.5,
+      "evidence": [
+        "T013—T014：明确未观察后续充电，交代继续观察、异常反馈、支持路径、回顾、邀请评价和道别。"
+      ],
+      "reason": "已确认当前仍待验证，并给成功/失败观察方向、后续支持、自查预防、评价邀请与道别；这是待验证收尾，没有认定问题已彻底解决。"
+    }
+  ]
+}

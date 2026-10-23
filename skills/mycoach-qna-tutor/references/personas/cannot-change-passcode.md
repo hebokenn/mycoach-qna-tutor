@@ -1,0 +1,46 @@
+# 20. 不能修改手机密码的疑问：人设索引
+
+共42份可练真实来源人设。标题可能揭示原因，作为顾客对练时不要向学员展示。各JSON保存原背景、条件披露、未知信息、依据时间码及历史审阅范围，不混合不同场次。
+
+- [cannot-change-passcode-6138](cannot-change-passcode/cannot-change-passcode-6138.json)：修改自己的锁屏密码，却反复被要求等待一小时；探需片段，06:22–10:00。
+- [cannot-change-passcode-5441](cannot-change-passcode/cannot-change-passcode-5441.json)：改锁屏密码要等一小时，没有印象开过设备保护；探需片段，00:00–06:01。
+- [cannot-change-passcode-5486](cannot-change-passcode/cannot-change-passcode-5486.json)：iPhone 16 Pro这两三天改锁屏密码要等一小时；探需片段，00:00–06:01。
+- [cannot-change-passcode-5542](cannot-change-passcode/cannot-change-passcode-5542.json)：17 Pro改自己的密码要等待，认为多此一举；探需片段，00:00–06:00。
+- [cannot-change-passcode-5619](cannot-change-passcode/cannot-change-passcode-5619.json)：设置里设备保护显示打开，关闭也提示安全延迟；探需片段，00:00–06:00。
+- [cannot-change-passcode-5717](cannot-change-passcode/cannot-change-passcode-5717.json)：想改的是锁屏密码，看到倒计时却不理解；探需片段，00:00–06:00。
+- [cannot-change-passcode-5967](cannot-change-passcode/cannot-change-passcode-5967.json)：提示等待后退回主屏幕，每次再改仍需一小时；探需片段，00:00–06:00。
+- [cannot-change-passcode-6124](cannot-change-passcode/cannot-change-passcode-6124.json)：美容院让人输入过锁屏密码，回家修改也要等一小时；探需片段，00:00–06:00。
+- [cannot-change-passcode-5400](cannot-change-passcode/cannot-change-passcode-5400.json)：17用半年多，想定期改锁屏密码，别人已经知道密码；探需片段，00:00–16:00。
+- [cannot-change-passcode-5749](cannot-change-passcode/cannot-change-passcode-5749.json)：锁屏密码等过一小时再改还要等，旧14以前直接能改；探需片段，00:00–16:01。
+- [cannot-change-passcode-5964](cannot-change-passcode/cannot-change-passcode-5964.json)：17 Pro昨天改锁屏密码反复等待，重启和等一小时都没解决；探需片段，00:00–16:01。
+- [cannot-change-passcode-6037](cannot-change-passcode/cannot-change-passcode-6037.json)：17改解锁密码反复看到同一等待页面，记不清是否点过按钮；探需片段，00:00–16:01。
+- [cannot-change-passcode-5296](cannot-change-passcode/cannot-change-passcode-5296.json)：美容院服务员知道锁屏密码，想修改却要等一小时，在家也如此；探需片段，00:00–06:00。
+- [cannot-change-passcode-5299](cannot-change-passcode/cannot-change-passcode-5299.json)：旧14 Pro在外想改锁屏密码需等一小时，失窃保护按离开熟悉位置延迟；探需片段，00:00–16:01。
+- [cannot-change-passcode-3314](cannot-change-passcode/cannot-change-passcode-3314.json)：想修改泄露过的锁屏密码，出现一小时等待；探需片段，00:00–16:01。
+- [cannot-change-passcode-3421](cannot-change-passcode/cannot-change-passcode-3421.json)：把锁屏密码告知他人后想更改，却提示等待一小时；探需片段，00:00–16:01。
+- [cannot-change-passcode-3675](cannot-change-passcode/cannot-change-passcode-3675.json)：美容时别人代输锁屏密码，16想立即改却要等1小时，担心错过时点再等；探需片段，00:00–16:01。
+- [cannot-change-passcode-3757](cannot-change-passcode/cannot-change-passcode-3757.json)：护理后锁屏密码被别人知道，问为何等1小时，讲师反复混称账号密码且对话断音；探需片段，00:00–23:10。
+- [cannot-change-passcode-3839](cannot-change-passcode/cannot-change-passcode-3839.json)：护理后想立即改锁屏密码，不愿把手机留店，接受随身等待和后续联系；探需片段，00:00–26:01。
+- [cannot-change-passcode-3950](cannot-change-passcode/cannot-change-passcode-3950.json)：不懂重要地点与改密关系，误以为关定位能立即改，准备等通知后再试；探需片段，00:00–17:00。
+- [cannot-change-passcode-4007](cannot-change-passcode/cannot-change-passcode-4007.json)：常去美容院代输锁屏密码，离开熟悉位置模式，关闭时才发现仍倒计时59分钟；探需片段，00:00–16:01。
+- [cannot-change-passcode-4027](cannot-change-passcode/cannot-change-passcode-4027.json)：16正常可解锁，护理后想换锁屏密码，保护设始终却只被建议等后关闭；探需片段，00:00–16:59。
+- [cannot-change-passcode-4034](cannot-change-passcode/cannot-change-passcode-4034.json)：锁屏密码改要等1小时，听保护解释仍认为多余，未实际操作或验证；探需片段，00:00–06:00。
+- [cannot-change-passcode-4211](cannot-change-passcode/cannot-change-passcode-4211.json)：17Pro急要改锁屏密码，账户限制允许，没听懂排查意义，拒绝企微打算自己处理；探需片段，00:00–16:01。
+- [cannot-change-passcode-4348](cannot-change-passcode/cannot-change-passcode-4348.json)：14Pro担心二手机，护理后密码被知且剩50多分钟，愿留店等协助改密；探需片段，00:00–15:41。
+- [cannot-change-passcode-4400](cannot-change-passcode/cannot-change-passcode-4400.json)：17Pro原密码正确想快速改，未实际核保护选项，只获回家或等待方案；探需片段，00:00–26:01。
+- [cannot-change-passcode-4445](cannot-change-passcode/cannot-change-passcode-4445.json)：首次去美容院透露锁屏密码，网络正常内容限制没开，关闭失窃保护也需等；探需片段，00:00–19:50。
+- [cannot-change-passcode-4676](cannot-change-passcode/cannot-change-passcode-4676.json)：16Pro26.3要改锁屏，纠正讲师账号路径，未有新密码或倒计时界面且关闭也延迟；探需片段，00:00–26:01。
+- [cannot-change-passcode-4697](cannot-change-passcode/cannot-change-passcode-4697.json)：14Pro始终模式在公司也等待，切模式仍需延迟，启动后剩50多分钟，担心错过；探需片段，00:00–20:56。
+- [cannot-change-passcode-4813](cannot-change-passcode/cannot-change-passcode-4813.json)：15忙忘后再次等1小时，未改ID却被带账号路径，重新启动剩59分56秒；探需片段，00:00–21:40。
+- [cannot-change-passcode-4833](cannot-change-passcode/cannot-change-passcode-4833.json)：新17与旧14比较，昨天两点开四点又等，不愿盯倒计时，仍需回去试；探需片段，00:00–16:01。
+- [cannot-change-passcode-4836](cannot-change-passcode/cannot-change-passcode-4836.json)：14Pro26美容院和门店都不能改，昨日2点开4点又等，质疑回家是否一定有效；探需片段，00:00–24:57。
+- [cannot-change-passcode-4908](cannot-change-passcode/cannot-change-passcode-4908.json)：理发店代输锁屏密码，17ProMax两次等待没继续，能复述原理后问模式如何选；探需片段，00:00–15:18。
+- [cannot-change-passcode-4909](cannot-change-passcode/cannot-change-passcode-4909.json)：用过华为小米三星而比较改密，17ProMax理发后想换锁屏，追问熟悉地点待企微答复；探需片段，00:00–17:11。
+- [cannot-change-passcode-4935](cannot-change-passcode/cannot-change-passcode-4935.json)：理发店代输后想改锁屏，离开熟悉位置模式，地图没加地址且不愿盯计时；探需片段，00:00–11:16。
+- [cannot-change-passcode-5002](cannot-change-passcode/cannot-change-passcode-5002.json)：14Pro四年多，在公司关闭保护仍延迟，已多次重启，追问为何要关好功能和结束提醒；探需片段，00:00–16:01。
+- [cannot-change-passcode-5024](cannot-change-passcode/cannot-change-passcode-5024.json)：17在家也有延迟，昨天3点开5点又等，问先改还是先关，讲师前后说法冲突；探需片段，00:00–17:49。
+- [cannot-change-passcode-5105](cannot-change-passcode/cannot-change-passcode-5105.json)：17基础款26.2始终模式，昨日美容告知密码，关闭倒计时已57分钟并设提醒；探需片段，00:00–19:01。
+- [cannot-change-passcode-5108](cannot-change-passcode/cannot-change-passcode-5108.json)：17始终模式，昨日已等仍重复，关闭也延迟，密码拟保持六位且有交通卡；探需片段，00:00–15:46。
+- [cannot-change-passcode-5109](cannot-change-passcode/cannot-change-passcode-5109.json)：17昨晚在家改也延迟，六位锁屏没输错，讲师未找到保护项而中止考试；探需片段，00:00–14:15。
+- [cannot-change-passcode-5170](cannot-change-passcode/cannot-change-passcode-5170.json)：别人知道锁屏密码想立刻换，离开熟悉位置模式，没确认开始便一直被叫等待；探需片段，00:00–18:06。
+- [cannot-change-passcode-5314](cannot-change-passcode/cannot-change-passcode-5314.json)：17在家反复等，始终改离开熟悉位置仍延迟，模拟后续确认切换和改密完成；探需片段，00:00–16:01。

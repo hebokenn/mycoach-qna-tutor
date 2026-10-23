@@ -1,0 +1,64 @@
+{
+  "captureDate": "2026-10-23",
+  "method": "Playwright real-browser full-page PNG capture of saved actual AI text trial records; report viewer, not Codex or WorkBuddy native UI",
+  "viewport": {
+    "width": 1440,
+    "height": 1080
+  },
+  "images": [
+    {
+      "scenario": "A1",
+      "file": "A1.png",
+      "width": 1425,
+      "height": 1118,
+      "sha256": "b785491962207f980e873763aacff4c8bb307907416defe484f2b97edd693ce4",
+      "sourceRecord": "../scenarios/scenario-A1.json",
+      "sourceRecordSha256": "8f5198369ec858aae65400ff7947bfc882734869012e43ee4ff0fc76c1106fc0"
+    },
+    {
+      "scenario": "A2",
+      "file": "A2.png",
+      "width": 1425,
+      "height": 1208,
+      "sha256": "2ec66deb056a0f1b664dfbbd9b8478467d5e1b71e4496645d115090058e00b2a",
+      "sourceRecord": "../scenarios/scenario-A2.json",
+      "sourceRecordSha256": "527f08c43dfbad072a68f0298101043f7abd97a23b14bab40e3cd4e4427fee65"
+    },
+    {
+      "scenario": "B1",
+      "file": "B1.png",
+      "width": 1425,
+      "height": 1294,
+      "sha256": "d426c6b705fa887b7969ab0153f301663858fede3a52f90ce172e0ae96a32a65",
+      "sourceRecord": "../scenarios/scenario-B1.json",
+      "sourceRecordSha256": "764a878a8c5a07321733b9063fa6e267f38000db56ce1191989323f841a2c848"
+    },
+    {
+      "scenario": "B2",
+      "file": "B2.png",
+      "width": 1425,
+      "height": 2888,
+      "sha256": "1235ec438333059a714d5dbc4022ac7e749285e37759da2c19a702dde89adb41",
+      "sourceRecord": "../scenarios/scenario-B2.json",
+      "sourceRecordSha256": "97c7eac02c9f491af34ca7abb034a9b71f95aba6731bc0e65ee9179b0dfc22fc"
+    },
+    {
+      "scenario": "B3",
+      "file": "B3.png",
+      "width": 1425,
+      "height": 2062,
+      "sha256": "44c4c6629b8b477007fc72742dc54a173ecfa4281cf9ba423717936c8a2fe953",
+      "sourceRecord": "../scenarios/scenario-B3.json",
+      "sourceRecordSha256": "082fe905d2496a0e6e5aa2bf2190ee313e02857d08d2befccd02fcf9578b18fc"
+    },
+    {
+      "scenario": "A3",
+      "file": "A3.png",
+      "width": 1425,
+      "height": 1101,
+      "sha256": "d3e8cd0a93c5b5766f0b427d4d4c421e9f0f16d771c470285419de9fb51ced72",
+      "sourceRecord": "../scenarios/scenario-A3.json",
+      "sourceRecordSha256": "b8ccce305aa9fdd7ebb2fe2d679fcde338159dea8d6f1c338fc4b82678ad8f62"
+    }
+  ]
+}
