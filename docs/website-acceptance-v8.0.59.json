@@ -1,0 +1,30 @@
+{
+  "website": "https://www.kgxc.cloud/dashboard/qna-guide",
+  "version": "8.0.59",
+  "runtimeRevision": "a6d27f0d542f6d08362b2bcda3a647d7835bf8f3",
+  "deployedAt": "2026-10-23T11:10:05+0800",
+  "topicsVerified": 20,
+  "readOnlyRequests": 59,
+  "apiAssertions": 14423,
+  "oldPrototypeRemoved": true,
+  "oldLinksKeepTopic": true,
+  "mobileWidths": [
+    320,
+    390
+  ],
+  "pdf": {
+    "actualDownload": true,
+    "visualRenderCheck": "passed",
+    "content": [
+      "full five-route map",
+      "current viewer watermark",
+      "KGXC logo",
+      "both closing outcomes",
+      "six-stage complete service flow"
+    ]
+  },
+  "businessDataUnchanged": true,
+  "technicalAcceptance": true,
+  "userFinalAcceptance": false,
+  "screenshots": "Published website images use isolated fake learner identities."
+}
