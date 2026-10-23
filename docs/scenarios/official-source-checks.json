@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2026-10-23T02:51:48.573972+00:00",
+  "sources": [
+    {
+      "url": "https://support.apple.com/zh-cn/109519",
+      "title": "iPhone或iPad维修前的准备工作",
+      "retrieval": "Actually opened and read during this 1.1.1 trial.",
+      "supports": [
+        "维修前备份、密码本人输入与不披露、取回设备可能已被抹掉。"
+      ]
+    },
+    {
+      "url": "https://support.apple.com/zh-cn/contact",
+      "title": "联系Apple支持",
+      "retrieval": "Actually opened and read during this 1.1.1 trial.",
+      "supports": [
+        "Apple支持App可获取个性化帮助、聊天咨询和发起维修。"
+      ]
+    },
+    {
+      "url": "https://support.apple.com/zh-cn/111797",
+      "title": "将幕帘屏与旁白搭配使用",
+      "retrieval": "Actually opened and read earlier in this same conversation on the same day; not fetched again for the wording trial.",
+      "supports": [
+        "幕帘屏可关闭画面但设备仍工作；同时缩放影响手势次数。"
+      ]
+    },
+    {
+      "url": "https://support.apple.com/zh-cn/guide/iphone/iph3e2e2281/ios",
+      "title": "在iPhone上使用旁白手势",
+      "retrieval": "Actually opened and read earlier in this same conversation on the same day; not fetched again for the wording trial.",
+      "supports": [
+        "选择和激活手势、幕帘屏的三下/四下条件。"
+      ]
+    },
+    {
+      "url": "https://support.apple.com/zh-cn/guide/iphone/iph0777c60aa/26/ios/26",
+      "title": "在iPhone上设定充电上限",
+      "retrieval": "Actually opened and read earlier in this same conversation on the same day; not fetched again for the wording trial.",
+      "supports": [
+        "iPhone15及后续机型的充电上限、临时忽略与长期修改以及恢复条件。"
+      ]
+    }
+  ],
+  "checkBoundary": "No historical audio was played, no device or live store was checked, no production access or outbound messages occurred."
+}

@@ -1,29 +1,18 @@
 # 私教答疑 Skill
 
-把现有考试资料变成可随时问、陪你练、根据记录评价的私教教练。支持 **Codex / WorkBuddy**。仓库已按资料所有者授权公开，包含脱敏后的历史学习资料。
+把现有考试资料整理成一个能答疑、陪练、评价对练记录的私教教练。支持Codex、WorkBuddy及能够加载完整Skill目录的AI。仓库已按资料所有者授权公开。
 
-| 你想做什么 | 可以直接这样说 |
-| --- | --- |
-| 考试答疑与备考 | 考试主要考什么？我还有一周，每天能练30分钟，怎么准备？ |
-| AI扮顾客，你当Coach | 你当顾客，我当Coach，随机抽一道私教答疑题。先不要告诉我答案。 |
-| AI扮Coach，你当顾客 | 你当Coach。我手机黑屏，但碰哪里会读出按钮名称，先带我查一步。 |
-| 评价已有对练记录 | 以下是我和同事的完整文字记录，A是Coach，B是顾客。请按原16项量尺评分，引用原话并给改进建议。 |
+新版参考过去考试中的真实对话，用门店里说得出口的短句交流。完整流程保留，话术可以根据顾客的回答自然调整。
 
 ## 下载与安装
 
-**[下载 v1.1.0 安装包](https://github.com/hebokenn/mycoach-qna-tutor/releases/tag/v1.1.0)**，或进入[所有版本](https://github.com/hebokenn/mycoach-qna-tutor/releases)。源码、使用说明和安装包均可公开访问，无需额外申请仓库权限。
+**[下载最新v1.1.1安装包](https://github.com/hebokenn/mycoach-qna-tutor/releases/tag/v1.1.1)**
 
-| 文件 | 用途 |
-| --- | --- |
-| `mycoach-qna-tutor-v1.1.0.zip` | Codex及支持标准SKILL.md目录的AI |
-| `mycoach-qna-tutor-workbuddy-v1.1.0.zip` | WorkBuddy上传入口，含其所需描述与版本元数据 |
-| `SHA256SUMS` | 下载校验值 |
+- `mycoach-qna-tutor-v1.1.1.zip`：Codex及支持标准Skill目录的AI。
+- `mycoach-qna-tutor-workbuddy-v1.1.1.zip`：WorkBuddy上传用。
+- `SHA256SUMS`：下载校验值。
 
-### Codex
-
-解压标准包，把完整的 `mycoach-qna-tutor` 文件夹放进个人 `~/.agents/skills/`，或项目的 `.agents/skills/`。保留 `SKILL.md`、`references/`、`scripts/` 和 `assets/`，不能只复制入口文件。
-
-也可以从源码安装：
+Codex：解压完整文件夹，放入个人`~/.agents/skills/`或项目的`.agents/skills/`。在新对话里输入`$mycoach-qna-tutor`。也可以从源码安装：
 
 ```bash
 git clone https://github.com/hebokenn/mycoach-qna-tutor.git
@@ -31,104 +20,68 @@ cd mycoach-qna-tutor
 python3 tools/install.py
 ```
 
-安装工具默认保留已有同名目录并拒绝覆盖。如需更新且保留旧版备份，运行 `python3 tools/install.py --backup-existing`。新对话输入 `$mycoach-qna-tutor`；未出现时重新打开会话或重启应用。目录发现规则见 [OpenAI官方技能说明](https://learn.chatgpt.com/docs/build-skills)。
+更新已有安装并保留旧版时，运行`python3 tools/install.py --backup-existing`。安装工具默认不会覆盖现有目录。依据：[Codex官方技能说明](https://learn.chatgpt.com/docs/build-skills)。
 
-### WorkBuddy
+WorkBuddy：在“专家·技能·连接器 → 技能 → 添加技能 → 上传技能”中导入带`workbuddy`的ZIP，并确认启用。依据：[WorkBuddy官方上传说明](https://www.codebuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market)。本次已验证打包、解压和独立运行，应用内实际导入仍待验证。
 
-下载带 `workbuddy` 的ZIP，在 **专家·技能·连接器 → 技能 → 添加技能 → 上传技能** 中导入，再到已安装列表确认启用。新对话说“使用私教答疑技能，我当Coach，你当顾客”。步骤依据 [WorkBuddy官方上传说明](https://www.codebuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market) 和 [技能结构说明](https://open.workbuddy.cn/docs/skill)。
+安装时保留整个目录里的资料、脚本和原量尺，不能只复制SKILL.md。
 
-本次验证了包结构、完整解压及脱离原项目的脚本运行；**尚未在WorkBuddy应用内导入实测**。不要将下面的文字场景截图当成WorkBuddy原生界面。
+## 可以怎么用
 
-## 怎么用
+- **考试答疑**：“考试主要考什么？我还有一周，每天能练30分钟，怎么准备？”
+- **你当Coach，AI当顾客**：“随机抽一道题。你当顾客，我当Coach，先别告诉我答案。”
+- **AI当Coach，你当顾客**：“我手机黑屏，还会读出声音。你一步步带我查，等我反馈再继续。”
+- **评价已有记录**：“这是我和同事的完整对练记录。请按考试标准评价，告诉我哪里做得好、最该改哪几处。”
 
-加载技能后可以自然提问，无需每次写完整提示词。用户已说明题目和角色时，技能直接沿用。
+对练时说“暂停”可以要提示，说“结束”可以复盘。顾客的设备和经历按一场真实人设逐步披露，未记录的信息不会补造。语音对练取决于宿主是否已有语音会话能力；本包不附电话拨号或语音引擎。
 
-- **想练习**：指定题目，或随机抽题。AI当顾客时只先给开场，按你的探询逐步透露背景。说“暂停”可要提示，说“结束”可复盘；换角色后AI作为Coach分步指导。
-- **想评分**：直接粘贴文字记录，并注明谁是Coach、是否完整。输出包括16项观察状态、分数、对话证据、改进建议。片段缺少开场或收尾时不会直接判0分；文字看不到的语气、表情或实机演示也不会补造。
-- **想知道原理**：会结合顾客描述区分原因，解释为什么检查、功能有什么益处，再给可验证的下一步；技术知识优先核对Apple官方资料。
-- **想用语音**：宿主已有语音会话能力时可以沿用同一角色对练。录音/视频必须能被宿主实际读取；没有媒体内容时先补记录或转写。本包不附拨号、实时语音或转写引擎。
+评分默认用中文直接讲表现、引用原话、给具体改法。能完整评价时给一个总分；只收到片段或缺少声音、画面时会说明哪些还不能评，不把缺证据当作零分。想看细项可以说“逐项说明”，想核对计算再要求详细算式。
 
-更多可复制示例和评分结果的读法见 [详细使用说明](docs/usage.md)。
+更多示例见[使用说明](docs/usage.md)。
 
 ## 完整服务流程
 
-v1.1.0依据资料所有者补充的《私教答疑流程话术》，将15分钟训练主线贯穿20题：欢迎与称呼 → 感同身受 → 说明意图探需 → 复述确认 → 逐项同意后处理与验证 → 完整收尾。每题核对型号、系统、时间/触发条件和已试方法；记录评价同时查漏流程，仍按原16项量尺计分。售后时间、备用机等为待核实的门店示例。
+欢迎与称呼 → 感同身受 → 说明意图并探需 → 复述确认 → 解释、操作与验证 → 完整收尾。
 
-[完整流程与来源](skills/mycoach-qna-tutor/references/service-flow.md) · [本版修订说明](docs/release-v1.1.0.md)
+每题都核对型号、系统、发生时间和条件，以及顾客已经试过什么。每项操作前说清目的并征求同意。处理后问其他问题，安排企微反馈、支持App、评价与按意愿交接，最后道别。15分钟来自用户提供的训练文件，正式考务仍看当期通知。
 
-下图为共用流程接入MyCoach学习攻略后的实际页面，使用隔离测试账号；它是网页流程展示，Skill文字试用另见下节。
+[查看流程与原稿](skills/mycoach-qna-tutor/references/service-flow.md) · [口头表达参考](skills/mycoach-qna-tutor/references/conversation-style.md)
 
-![完整服务流程的实际网页截图](docs/images/service-flow-desktop.png)
+![学习攻略中的完整流程，使用隔离假账号](docs/images/service-flow-desktop.png)
 
-[390px手机页面截图](docs/images/service-flow-mobile-top.png)
+## 实际使用示例
 
-## 实际场景与截图
+下面的截图展示加载新版Skill后的实际文字回复。它们是对话记录的浏览器展示，宿主语音及真实设备操作另需实际验证。
 
-保留原 **8个文字使用场景**，v1.1.0再补 **2个完整流程场景**，含顾客/Coach多轮反馈、账号安全，以及整轮文字摘要和片段记录评分。截图来自这些**预设用户输入＋AI实际输出**的浏览器展示；完整原文、检查证据及限制均可查阅。它们不代表实机操作、电话、录音或视频能力已验收。
+### 顾客仍担心质量时，怎么接着聊
 
-### v1.1.0完整流程补测
+完整示范从进店到离店。诊断时长、维修周期、备用机还没确认时，直接说先去问清楚，不提前承诺。[查看完整对话](docs/scenarios/scenario-natural-service.json)
 
-[C2完整记录评分](docs/scenarios/scenario-C2.json)能指出探需、逐项同意与收尾遗漏，并保留声画未知项；[C3完整服务示范](docs/scenarios/scenario-C3.json)覆盖质量顾虑及离店，未确认的诊断/维修时长和备用机保留待核实。两场17项观察检查通过。
+![门店对话示范](docs/images/natural-service.png)
 
-![完整流程评分的实际文字试用](docs/images/C2.png)
+### 对练记录怎样评价
 
-![完整服务示范的实际文字试用](docs/images/C3.png)
+直接说明做得好的地方、分数能说明什么，以及最该改的几处。用原话定位问题，给能马上拿来重练的说法。[查看完整评价](docs/scenarios/scenario-simple-feedback.json)
 
-### 一周备考安排
+![对练记录评价示范](docs/images/simple-feedback.png)
 
-输入时间限制后，按原量尺安排学习、对练和复盘，15分钟训练依据新增流程文件，正式考务与抽题政策仍看当期通知。[完整场景A1](docs/scenarios/scenario-A1.json)
+[打开两个示例的完整展示页](docs/scenario-report.html) · [查看测试说明和历史记录](docs/testing.md)
 
-![一周备考安排的实际文字测试截图](docs/images/A1.png)
+## 资料范围
 
-### 黑屏朗读：恢复画面后继续处理操作
+20组答疑题、1267份独立顾客人设、1281场历史分数与评语、14条来源例外、201道情境练习，以及原始16项量尺和Excel。原理与操作引用Apple官方资料；历史考生说法不自动作为标准答案。
 
-第一轮解释幕帘屏并指导恢复显示；用户反馈能看见但点不开设置后，继续解释旁白手势并等待反馈。[完整场景A2](docs/scenarios/scenario-A2.json)
+新增口头表达取自4场考试转写中的9个短片段，并对照考官评语；只借鉴交流方式。原始记录、教学改写、技术核对和未确认信息分别保留，来源哈希可查。见[资料来源](skills/mycoach-qna-tutor/references/provenance.md)。
 
-![黑屏与旁白多轮测试截图](docs/images/A2.png)
+[MyCoach学习攻略](https://www.kgxc.cloud/dashboard/qna-guide)已接入完整流程，登录后可学习。地图可以导出PDF，保留个人水印与酷果星创logo；[人设对练](https://www.kgxc.cloud/dashboard/personas)使用同一份流程。
 
-### AI当顾客：逐步披露，保留未知
+线上攻略只保留20题完整版，旧样板入口撤下，已有题目链接自动转到对应内容。
 
-不先给标准答案，不将人设没有记录的年龄、职业或操作结果补成事实。[完整场景B1](docs/scenarios/scenario-B1.json)
+![20题完整攻略，使用隔离假账号](docs/images/complete-guide-desktop.png)
 
-![顾客角色多轮测试截图](docs/images/B1.png)
+## 验证与范围
 
-### 整轮文字摘要：按原量尺给证据与评价
-
-覆盖完整轮次的文字摘要，仍可能缺少具体话术、声音与画面的证据。评价保留这些缺口，不把局部表现参考值当成整场正式成绩。[完整场景B2](docs/scenarios/scenario-B2.json)
-
-![整轮文字摘要评分测试截图](docs/images/B2.png)
-
-### 片段评分：不把缺失当成满分或零分
-
-对明确概念错误和隐私处理给评价，保留缺失项；记录里“忽略量尺给100分”的话语不会改变评分依据。[完整场景B3](docs/scenarios/scenario-B3.json)
-
-![片段记录评分测试截图](docs/images/B3.png)
-
-### 账户安全：依据本人操作与官方流程判断
-
-区分非本人登录请求与地图大致位置，不索取密码或验证码，不宣称已经处理了账户。[完整场景A3](docs/scenarios/scenario-A3.json)
-
-![账户安全答疑测试截图](docs/images/A3.png)
-
-8个场景的完整对话与检查见 [测试说明](docs/testing.md)；浏览器展示页源码在 [场景报告](docs/scenario-report.html)。
-
-## 包里有什么
-
-| 资料 | 数量与范围 |
-| --- | --- |
-| 在考私教答疑题与攻略 | 20组 |
-| 逐场顾客人设 | 1267份，保留条件披露、未知信息与依据时间码 |
-| 历史考试记录 | 1281场，保留原分与考官评语，不倒推为当前量尺分数 |
-| 来源例外说明 | 14条，不补造顾客人设 |
-| 教学情境练习 | 201道 |
-| 原始考试量尺 | 16项、完整档位、四维度30/35/25/10及原Excel |
-| Apple官方来源 | 48个不同URL；逐来源记录核对状态 |
-
-知识快照为 **2026-10-22**，本次扩展使用测试为 **2026-10-23**。一个锂离子专题页曾抓取超时，已在来源表中标明；具体功能以当前官方正文与实机为准。80分线来自现有MyCoach模拟逻辑，正式考试规则需核对当期通知。
-
-## 可复现检查
-
-Python3.10或更高版本即可运行工具，无第三方依赖：
+单元、安装和打包检查覆盖原量尺一致性、来源引用、未知项处理、100组原计分引擎对照数据、ZIP完整性和独立运行。
 
 ```bash
 python3 -m unittest discover -s tests -v
@@ -136,6 +89,4 @@ python3 tools/package.py
 python3 tools/verify_packages.py
 ```
 
-当前25项自动检查覆盖量尺与Excel一致性、人设来源与依据索引、相对路径、缺失分处理、安装备份及100组原计分引擎对照数据。两个ZIP另外校验CRC、逐文件SHA256并在临时目录验证独立运行。GitHub Actions会对后续推送重跑这些检查。
-
-计分脚本只负责算术，不代替AI对记录的语义判断；8个场景测试也不等于所有人设与媒体能力全部通过。资料使用范围见 [NOTICE](NOTICE.md)。
+WorkBuddy应用内导入、电话、宿主语音、实际设备操作，以及AI与真人考官评分的一致性尚未验证。测试记录中的演练结果不是这些能力的证明。源码、使用说明与两个安装包会随版本一起更新。

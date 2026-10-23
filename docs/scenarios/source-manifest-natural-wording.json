@@ -1,0 +1,55 @@
+{
+  "verifiedAt": "2026-10-23T02:49:53.427810+00:00",
+  "skillVersion": "1.1.1",
+  "sourceFiles": [
+    {
+      "path": "SKILL.md",
+      "sha256": "5e41f15c398d442e0833d155054458e850aaee1b1e646601a616859ce3fa0d60"
+    },
+    {
+      "path": "references/conversation-style.md",
+      "sha256": "f51aef2640f87086f13e21230e5cd1182c979080f1b38cac871702b0df8d89ab"
+    },
+    {
+      "path": "references/conversation-style.json",
+      "sha256": "53f45ea52fc3ab5634708e8f3c6942bb8812935cf2af634b5c26417bab1fb01b"
+    },
+    {
+      "path": "references/service-flow.md",
+      "sha256": "f2f834a95370ae5c1db2f95e829ea94fc747d66b162a9c9d004cf9a26c32bd98"
+    },
+    {
+      "path": "references/scoring.md",
+      "sha256": "9caf0fba028165244a9b5da7214b6f805585e2d9e048572fea76818f10298a3b"
+    },
+    {
+      "path": "references/exam-standard.md",
+      "sha256": "8f3f5398be968915251e50c9d96a0ba212352aae0294edaf365a7fbc954b847c"
+    },
+    {
+      "path": "references/exam-standard.json",
+      "sha256": "7e1691b0f3075c0f7dd6ad88b67fc16d17a162c1773392456c4038b26e648b78"
+    },
+    {
+      "path": "references/roleplay.md",
+      "sha256": "8d3dd660f816266044943e31f0d948bb8c3e6c710eef2bc91273647167932142"
+    },
+    {
+      "path": "references/topics/black-screen-sound.md",
+      "sha256": "9960ae06900f2101f8fee434d860d7ae84e96c8efc64284ff58b36b459ccb408"
+    },
+    {
+      "path": "references/topics/battery-quality.md",
+      "sha256": "e20ee6f9da9c177334ddfa68d966091e471d44dd240d4d8e82d8e1611d2d93a9"
+    },
+    {
+      "path": "scripts/score_record.py",
+      "sha256": "f0e782abc35d34945135646282842403e115f5881d1cdeaa59b229ceb8892106"
+    }
+  ],
+  "historyOutputHashes": {
+    "scenario-C2.json": "5c052df9fe6fc74165c6b1acd67d854264ae5c9e137f5b0a3d42b48a9cc681e8",
+    "scenario-C3.json": "d4a780740fa2b55b3d4866caba6c0389bbfe661bc2590b6dd3e2fb1bdac7e3ba",
+    "summary.json": "865c18beed330d5dde790f0110ed5bff51ed03c361f69f9a6c3c981eb5401dcc"
+  }
+}

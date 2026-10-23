@@ -1,0 +1,83 @@
+{
+  "id": "simple-feedback",
+  "title": "这段黑屏答疑怎么改",
+  "mode": "文字对练评价",
+  "sourceFiles": [
+    "SKILL.md",
+    "references/conversation-style.md",
+    "references/conversation-style.json",
+    "references/scoring.md",
+    "references/exam-standard.md",
+    "references/exam-standard.json",
+    "references/service-flow.md",
+    "references/topics/black-screen-sound.md",
+    "scripts/score_record.py"
+  ],
+  "turns": [
+    {
+      "role": "user",
+      "content": "下面是完整对练文字记录，A是Coach，B是顾客，请按原标准打分并提出改进。\nA：您好，我是今天的私教Coach。\nB：我手机黑屏但点哪里都读出来，碰一下也打不开。\nA：这是旁白，三指轻点三下把幕帘屏关掉。\nB：亮了，但一点还是只读。\nA：点一下选中，再连点两下打开。我先说明，这是为了确认普通触控是否恢复，关旁白会停止朗读。我带您按实际设置关闭旁白，可以吗？\nB：可以。\nA：请您打开设置里的辅助功能，找到旁白，按屏幕状态操作关闭后再试。\nB：现在普通点按也能用了。\nA：那就好了，谢谢，再见。"
+    },
+    {
+      "role": "assistant",
+      "content": "这次做得好的，是顾客说“亮了，但一点还是只读”后，你接着帮他处理，没有只把屏幕弄亮就结束。关闭旁白前，你也讲了会停止朗读，并问了“可以吗”，这两点值得保留。\n\n**能评的部分，表现参考约57分。** 语气和实机演示只凭文字还评不了，这不是完整考试总分。主要问题是前面问得太少，后面收得太快。\n\n下次先改三处：\n\n1. **先问清楚，再带操作。** 你直接说“这是旁白”，前面少了称呼、回应困扰和了解情况。可以先接：“屏幕看不见，又点不开，确实不方便，咱们一步步看。”再分轮问机型、系统、何时开始、试过什么，最后请顾客确认你理解得对不对。\n2. **手势前补一句为什么。** “三指轻点三下”前，可以先说：“可能是幕帘屏把画面遮住了，手机还在工作。我们先看看这个，可以吗？”还要确认有没有同时开缩放，这会影响手势次数。相关说明见[Apple幕帘屏](https://support.apple.com/zh-cn/111797)和[旁白手势](https://support.apple.com/zh-cn/guide/iphone/iph3e2e2281/ios)。\n3. **“那就好了，谢谢，再见”收得太快。** 先请顾客自己试一次，再教他下次怎么处理，问问还有没有别的问题。可以接：“回去要是还有问题，您在企业微信上给我留言，好了也跟我说一声。”再补支持App的用途、评价邀请，按意愿问其他产品，最后道别。\n\n建议从“亮了，但一点还是只读”这句重练，一直练到离店，把已经做好的操作说明留下来。"
+    }
+  ],
+  "checks": [
+    {
+      "name": "只展示一个清楚标注的参考分",
+      "passed": true,
+      "evidence": "学员只看到“能评的部分，表现参考约57分”，没有第二套分数、区间或公式。"
+    },
+    {
+      "name": "内部代号没有进入学员回复",
+      "passed": true,
+      "evidence": "回复中没有内部行号、英文状态或量尺机器键。"
+    },
+    {
+      "name": "说明文字证据的限制",
+      "passed": true,
+      "evidence": "明确语气和实机演示不能评，参考分不是完整考试总分。"
+    },
+    {
+      "name": "用原话定位具体改进",
+      "passed": true,
+      "evidence": "直接引用“亮了，但一点还是只读”“这是旁白”“那就好了，谢谢，再见”，不要求学员查编号。"
+    },
+    {
+      "name": "既肯定已做动作也给重练方法",
+      "passed": true,
+      "evidence": "保留继续处理旁白、操作影响和同意；给三处改法及从原话开始的重练建议。"
+    },
+    {
+      "name": "原计分口径未改动",
+      "passed": true,
+      "evidence": "内部仍按原16项运行脚本；开场和操作意图计入，未知项不计0，流程不另加扣分。"
+    },
+    {
+      "name": "使用真实转写的交流方式",
+      "passed": true,
+      "evidence": "读取了9个短片段和教学改写，借鉴短句、接话和直接问结果；没有声称听过原录音。"
+    }
+  ],
+  "issues": [],
+  "limitations": [
+    "只有文字，没有听过这场录音或看过实机画面。",
+    "57分是可评部分的约数；完整考试总分仍不能确定。",
+    "自然度由本次文字试用自查，尚未获得用户试读确认。"
+  ],
+  "evidenceFiles": [
+    "internal-simple-feedback-score-input.json",
+    "internal-simple-feedback-score-output.json",
+    "internal-simple-feedback-score-run.json",
+    "read-evidence.json",
+    "source-manifest-natural-wording.json",
+    "official-source-checks.json"
+  ],
+  "skillVersion": "1.1.1",
+  "displayNotes": [
+    "先肯定做得好的地方",
+    "用原话指出最该改的几处",
+    "说明这次分数能评到哪里"
+  ]
+}

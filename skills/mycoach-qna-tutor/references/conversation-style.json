@@ -1,0 +1,120 @@
+{
+  "updatedOn": "2026-10-23",
+  "method": "Read selected turns in existing exam transcripts and examiner comments. Examples are teaching rewrites, not verbatim quotes or new facts. Preserve useful turn-taking and remove repetition, ASR errors and unsupported promises.",
+  "examples": [
+    {
+      "key": "confirm-question",
+      "caseId": "2647",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "transcriptFilename": "battery-quality-2647-r0-s360.json",
+      "transcriptSha256": "df541caeb64237943c9f906103c0bd33ace24a6603fd8841b7116712ccab33de",
+      "startSeconds": 382.88,
+      "endSeconds": 390.2,
+      "transcriptText": "陈女士 您指的是您买了一个新的iPhone手机 然后这个电池的续航 还不如您之前用的那些旧设备 是这样子吗",
+      "lesson": "先把顾客的话接住",
+      "rewrittenExample": "您是说，新手机反而没有以前的旧手机耐用，对吗？"
+    },
+    {
+      "key": "empathy",
+      "caseId": "1487",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "transcriptFilename": "battery-quality-1487-r0-s360.json",
+      "transcriptSha256": "eb9c6f4246e9cb9dc8bd8f2bc3a1465a6d02df205800328ba81abc1ea5f0fe89",
+      "startSeconds": 362.65,
+      "endSeconds": 371.43,
+      "transcriptText": "如果是我遇到这种情况 我也会担心是手机是有质量问题的 不过你可以放心 我会尽力的帮助你",
+      "lesson": "用顾客听得懂的话回应担心",
+      "rewrittenExample": "刚买的手机就充不到满，您担心电池有问题，这个我能理解。咱们先一起看看，我尽力帮您处理，好吗？"
+    },
+    {
+      "key": "permission",
+      "caseId": "2647",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "transcriptFilename": "battery-quality-2647-r0-s360.json",
+      "transcriptSha256": "df541caeb64237943c9f906103c0bd33ace24a6603fd8841b7116712ccab33de",
+      "startSeconds": 434.15,
+      "endSeconds": 439.3,
+      "transcriptText": "为了更好的帮助到您 我这边的话 需要和您确认一些细节 您看方便吗",
+      "lesson": "说清为什么问，再自然征求配合",
+      "rewrittenExample": "我先问您几个问题，方便帮您找原因，您看可以吗？"
+    },
+    {
+      "key": "next-step",
+      "caseId": "2647",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "transcriptFilename": "battery-quality-2647-r0-s360.json",
+      "transcriptSha256": "df541caeb64237943c9f906103c0bd33ace24a6603fd8841b7116712ccab33de",
+      "startSeconds": 623.35,
+      "endSeconds": 642.8199999999999,
+      "transcriptText": "陈女士他是不一定的 咱们先看一看在设置方面是否有问题 如果说设置方面都看完之后 还是不能解决您的问题 我这边的话可以帮您 就是预约一个检修服务 是这样子的 嗯 好的 现在的话 就是我把我的手机屏幕 和您共享一下 我带着您一起来操作一下 咱们先从这个设置上来排除一下 您看可以吗",
+      "lesson": "先看设置，需要时再安排检测",
+      "rewrittenExample": "咱们先看看设置。要是还没解决，我再帮您问一下检测怎么安排。"
+    },
+    {
+      "key": "screen-feedback",
+      "caseId": "4812",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "transcriptFilename": "black-screen-sound-4812-r0-s360.json",
+      "transcriptSha256": "d22c0c1c4bb8a76bfae084f1b6fee71350a87eb66bdb075822223be39c6700c0",
+      "startSeconds": 362.36,
+      "endSeconds": 365.84,
+      "transcriptText": "您看您的这个屏幕 现在有进行一个亮起吗",
+      "lesson": "一句话只确认一个结果",
+      "rewrittenExample": "屏幕现在亮了吗？"
+    },
+    {
+      "key": "find-control",
+      "caseId": "2647",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "transcriptFilename": "battery-quality-2647-r0-s360.json",
+      "transcriptSha256": "df541caeb64237943c9f906103c0bd33ace24a6603fd8841b7116712ccab33de",
+      "startSeconds": 651.28,
+      "endSeconds": 659.36,
+      "transcriptText": "寻找一款叫做设置的APP 它是一个齿轮状的 这些齿轮状 这边您有看到吗 看到了 我们一起来打开一下吧",
+      "lesson": "给出顾客能辨认的外观，等回答",
+      "rewrittenExample": "找到那个齿轮图标了吗？对，就是“设置”。咱们点进去。"
+    },
+    {
+      "key": "other-help",
+      "caseId": "2562",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "transcriptFilename": "storage-full-2562-r0-s360.json",
+      "transcriptSha256": "028ffab384d1485fab7b5f578c169c51a7212496b3c3b8ecd0f3f47ddf4c4a45",
+      "startSeconds": 434.85,
+      "endSeconds": 445.28,
+      "transcriptText": "那这边还有什么疑问吗 没有了 那针对说您的那个手机空间不足的问题 今天已经给您解决了 那还有其他设备的疑问吗 总理是",
+      "lesson": "处理后再问还有没有别的问题",
+      "rewrittenExample": "这个问题咱们先这样处理。您还有别的问题想问吗？"
+    },
+    {
+      "key": "follow-up",
+      "caseId": "2562",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "transcriptFilename": "storage-full-2562-r0-s360.json",
+      "transcriptSha256": "028ffab384d1485fab7b5f578c169c51a7212496b3c3b8ecd0f3f47ddf4c4a45",
+      "startSeconds": 446.85,
+      "endSeconds": 456.0,
+      "transcriptText": "然后后期的话 您可以说添加我的一个企业微信 然后有什么问题的话 您可以写微信上面咨询我 我看到的话 我都会递时间回复您",
+      "lesson": "后续联系说成日常留言",
+      "rewrittenExample": "回去要是还有问题，您在企业微信上给我留言就行。好了也跟我说一声。"
+    },
+    {
+      "key": "review",
+      "caseId": "4812",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "transcriptFilename": "black-screen-sound-4812-r0-s960.json",
+      "transcriptSha256": "751e33805f0ad06a24cbec0f7819f43e2310757717f535f5de98a9777cc55898",
+      "startSeconds": 960.03,
+      "endSeconds": 967.05,
+      "transcriptText": "麻烦您对我的服务做一个评价 这边呢就不耽误您的时间了 祝您收回愉快 再见胡女士",
+      "lesson": "评价和离店简短自然",
+      "rewrittenExample": "对今天的服务满意的话，也欢迎给我个评价。那就不耽误您了，路上注意安全，慢走。"
+    }
+  ],
+  "caseReview": {
+    "2647": "考官肯定开场热情、及时安抚和流程完整，同时指出探需及技术解释不足；只借鉴交谈方式。",
+    "1487": "考官认为开场自然，但安抚单一、探询及技术判断不足；假设式共情可参考，整场不是标准答案。",
+    "4812": "考官肯定安抚、操作确认和服务意识；录后反馈仍建议调整排障顺序。",
+    "2562": "考官肯定亲和力、感同身受和流程；转写中的iCloud同步/备份说法及即时回复承诺不照搬。"
+  }
+}

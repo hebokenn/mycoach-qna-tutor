@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "frozenOn": "2026-10-22",
   "timezone": "Asia/Shanghai",
   "historicalSnapshotAt": "2026-10-21T04:07:53.228Z",
@@ -71,7 +71,7 @@
   "redaction": "Removed participant names present in source roster, email addresses, phone numbers and original links; no source videos, signed playback URLs, credentials, databases or user IDs are included.",
   "reviewLimit": "Reuses the existing reviewed personas and historical examiner comments. No new complete video review was conducted for this package.",
   "releasePreparedOn": "2026-10-23",
-  "revisionNote": "补入用户提供的15分钟完整服务流程，同步备考、双向对练、记录评价与20题攻略。原量尺、题库、人设及历史分数不改。",
+  "revisionNote": "按真实考试转写改入口头措辞；评分默认用中文、原话与简洁结果，内部计算保持原量尺。",
   "serviceFlowSource": {
     "filename": "私教答疑流程话术.docx",
     "sha256": "34277fc58091de40bcc396fa8eaed80bd9233731a9c8e45b298392fa13fe5498",
@@ -100,5 +100,16 @@
       "supports": "该页说明Apple Store服务，预估处理时间与费用依诊断和保障情况；不能直接代表授权专营店的全部安排。",
       "checkedOn": "2026-10-23"
     }
-  ]
+  ],
+  "conversationStyleSources": {
+    "file": "conversation-style.json",
+    "caseIds": [
+      "2647",
+      "1487",
+      "4812",
+      "2562"
+    ],
+    "excerpts": 9,
+    "reviewLimit": "读取已有转写和考官评语，未重新全程听审。"
+  }
 }

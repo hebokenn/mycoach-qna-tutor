@@ -1,0 +1,11 @@
+{
+  "command": [
+    "python3",
+    "scripts/score_record.py",
+    "--input",
+    "internal-simple-feedback-score-input.json"
+  ],
+  "executionContext": "skill directory; absolute local path omitted",
+  "exitCode": 0,
+  "stderr": ""
+}

@@ -1,0 +1,70 @@
+{
+  "styleSource": "references/conversation-style.json",
+  "actuallyRead": "All nine selected transcript excerpts and their teaching rewrites were read as text. No source audio was played or reviewed.",
+  "examples": [
+    {
+      "lesson": "先把顾客的话接住",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "sourceSha256": "df541caeb64237943c9f906103c0bd33ace24a6603fd8841b7116712ccab33de",
+      "teachingRewrite": "您是说，新手机反而没有以前的旧手机耐用，对吗？"
+    },
+    {
+      "lesson": "用顾客听得懂的话回应担心",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "sourceSha256": "eb9c6f4246e9cb9dc8bd8f2bc3a1465a6d02df205800328ba81abc1ea5f0fe89",
+      "teachingRewrite": "刚买的手机就充不到满，您担心电池有问题，这个我能理解。咱们先一起看看，我尽力帮您处理，好吗？"
+    },
+    {
+      "lesson": "说清为什么问，再自然征求配合",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "sourceSha256": "df541caeb64237943c9f906103c0bd33ace24a6603fd8841b7116712ccab33de",
+      "teachingRewrite": "我先问您几个问题，方便帮您找原因，您看可以吗？"
+    },
+    {
+      "lesson": "先看设置，需要时再安排检测",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "sourceSha256": "df541caeb64237943c9f906103c0bd33ace24a6603fd8841b7116712ccab33de",
+      "teachingRewrite": "咱们先看看设置。要是还没解决，我再帮您问一下检测怎么安排。"
+    },
+    {
+      "lesson": "一句话只确认一个结果",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "sourceSha256": "d22c0c1c4bb8a76bfae084f1b6fee71350a87eb66bdb075822223be39c6700c0",
+      "teachingRewrite": "屏幕现在亮了吗？"
+    },
+    {
+      "lesson": "给出顾客能辨认的外观，等回答",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "sourceSha256": "df541caeb64237943c9f906103c0bd33ace24a6603fd8841b7116712ccab33de",
+      "teachingRewrite": "找到那个齿轮图标了吗？对，就是“设置”。咱们点进去。"
+    },
+    {
+      "lesson": "处理后再问还有没有别的问题",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "sourceSha256": "028ffab384d1485fab7b5f578c169c51a7212496b3c3b8ecd0f3f47ddf4c4a45",
+      "teachingRewrite": "这个问题咱们先这样处理。您还有别的问题想问吗？"
+    },
+    {
+      "lesson": "后续联系说成日常留言",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "sourceSha256": "028ffab384d1485fab7b5f578c169c51a7212496b3c3b8ecd0f3f47ddf4c4a45",
+      "teachingRewrite": "回去要是还有问题，您在企业微信上给我留言就行。好了也跟我说一声。"
+    },
+    {
+      "lesson": "评价和离店简短自然",
+      "sourceKind": "已有考试转写，当前未重新全程听审",
+      "sourceSha256": "751e33805f0ad06a24cbec0f7819f43e2310757717f535f5de98a9777cc55898",
+      "teachingRewrite": "对今天的服务满意的话，也欢迎给我个评价。那就不耽误您了，路上注意安全，慢走。"
+    }
+  ],
+  "gradingSources": [
+    "references/exam-standard.md",
+    "references/exam-standard.json",
+    "references/scoring.md"
+  ],
+  "flowSources": [
+    "references/service-flow.md",
+    "references/roleplay.md"
+  ],
+  "dataHandling": "Raw historical names and transcript text are not copied into these trial artifacts."
+}

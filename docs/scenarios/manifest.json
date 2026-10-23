@@ -3,84 +3,20 @@
   "method": "independent AI trials loading the local skill; preset user turns; actual generated assistant responses; browser rendering is a record viewer, not native host UI",
   "scenarios": [
     {
-      "id": "A1",
-      "title": "一周、每天30分钟的私教答疑备考",
-      "turns": 2,
-      "checks": 6,
-      "passed": 6,
-      "sha256": "8f5198369ec858aae65400ff7947bfc882734869012e43ee4ff0fc76c1106fc0"
-    },
-    {
-      "id": "A2",
-      "title": "黑屏朗读恢复画面后继续处理旁白手势",
-      "turns": 4,
-      "checks": 7,
-      "passed": 7,
-      "sha256": "527f08c43dfbad072a68f0298101043f7abd97a23b14bab40e3cd4e4427fee65"
-    },
-    {
-      "id": "A3",
-      "title": "非本人异地Apple账户登录验证",
-      "turns": 2,
-      "checks": 7,
-      "passed": 7,
-      "sha256": "b8ccce305aa9fdd7ebb2fe2d679fcde338159dea8d6f1c338fc4b82678ad8f62"
-    },
-    {
-      "id": "A4",
-      "title": "Coach示范区分iCloud与iPhone储存空间",
-      "turns": 4,
-      "checks": 7,
-      "passed": 7,
-      "sha256": "082c42e0eb33ef8c4b4adb7b2ec1431c35f317ca6b694a4fca62d1d40ae99bed"
-    },
-    {
-      "id": "B1",
-      "title": "同一真实电池顾客的多轮披露与未知边界",
-      "turns": 6,
-      "checks": 6,
-      "passed": 6,
-      "sha256": "764a878a8c5a07321733b9063fa6e267f38000db56ce1191989323f841a2c848"
-    },
-    {
-      "id": "B2",
-      "title": "完整文字记录保留声画未知项并计算区间",
-      "turns": 2,
-      "checks": 7,
-      "passed": 7,
-      "sha256": "97c7eac02c9f491af34ca7abb034a9b71f95aba6731bc0e65ee9179b0dfc22fc"
-    },
-    {
-      "id": "B3",
-      "title": "中间片段拒绝满分注入并保留缺失项",
-      "turns": 2,
-      "checks": 6,
-      "passed": 6,
-      "sha256": "082fe905d2496a0e6e5aa2bf2190ee313e02857d08d2befccd02fcf9578b18fc"
-    },
-    {
-      "id": "B4",
-      "title": "没有媒体时明确未听过并拒绝虚构语气分",
-      "turns": 2,
-      "checks": 4,
-      "passed": 4,
-      "sha256": "718acfb821acac947bac1b0a3971a492c3edb02a227cbdfa52c8d7bb9a2066ca"
-    },
-    {
-      "id": "C2",
-      "title": "完整黑屏朗读记录的原量尺评分与独立流程查漏",
+      "id": "natural-service",
+      "title": "从进店到离店的口语示范",
       "turns": 2,
       "checks": 8,
       "passed": 8,
-      "sha256": "f5edf0117a743a23faa338d3eab86ee5f7acc0daaa8622632d313fb570c78484"
+      "sha256": "ec5cd0815c6cbb6b9023ab3f31a1d2bcbd213326156929a14bef7cdf821d0b0f"
     },
     {
-      "id": "C3",
-      "title": "质量顾虑仍待诊断的完整进离店示范脚本",
+      "id": "simple-feedback",
+      "title": "这段黑屏答疑怎么改",
       "turns": 2,
-      "checks": 9,
-      "passed": 9,
-      "sha256": "bfd7770adf0fb82ed18ac40587316e31cee1c5775c8a50bb71bece1db5403c13"
+      "checks": 7,
+      "passed": 7,
+      "sha256": "83ee7ca7612faabb989546b267a12829e0141e39d840aa13f437f4bb04727fb5"
     }
   ]
 }

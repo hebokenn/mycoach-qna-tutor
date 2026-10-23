@@ -12,7 +12,7 @@
     }
   },
   "sha256": {
-    "service-flow-desktop.png": "2c4d5fde18f3bb1c92ac85b4aabc24f2d6a2f7a75bbe87b2b26111495b3ea4d1",
+    "service-flow-desktop.png": "d89c7e1ebb5b4939bafeb2b60ba5c84b0a3bff44432144c07155ed765dfbc0c5",
     "service-flow-mobile-top.png": "9452146b1e6790abd821e41becbbb464c7ff3c313d1fd8cc26bd9c272d4c89ce"
   },
   "scenarioImages": {
@@ -27,6 +27,25 @@
       "imageSha256": "48afaeb5e1cbf184f265848e1c64d49415973c1fb26d8e3732cf2190a0c1cb39",
       "scenarioSha256": "bfd7770adf0fb82ed18ac40587316e31cee1c5775c8a50bb71bece1db5403c13",
       "surface": "rendered actual text trial; not native host UI"
+    }
+  },
+  "skillVersion": "1.1.1",
+  "currentScenarios": {
+    "natural-service": {
+      "imageSha256": "2a64603523460f809d7d7b7182dc78856c1ce29929bb18ba0c5eb7bc90504225",
+      "scenarioSha256": "ec5cd0815c6cbb6b9023ab3f31a1d2bcbd213326156929a14bef7cdf821d0b0f"
+    },
+    "simple-feedback": {
+      "imageSha256": "61d0d16d817119dfc2dffdb95abf158820f98a1c15dff03f2d75b4559fac8268",
+      "scenarioSha256": "83ee7ca7612faabb989546b267a12829e0141e39d840aa13f437f4bb04727fb5"
+    }
+  },
+  "canonicalGuide": {
+    "route": "/dashboard/qna-guide",
+    "surface": "isolated preview, fake learner; complete 20-topic version, no prototype entry",
+    "sha256": {
+      "complete-guide-desktop.png": "546f56f732b2546bca7b72b79cb9dbef33b92bf691d1ac4664d588f5380653e3",
+      "complete-guide-mobile.png": "d8f170dc10bb769edb1f302c10f62fa29945f3a88e7b0130f4220da356b86052"
     }
   }
 }
