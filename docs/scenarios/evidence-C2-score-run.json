@@ -1,0 +1,11 @@
+{
+  "command": [
+    "python3",
+    "scripts/score_record.py",
+    "--input",
+    "evidence-C2-score-input.json"
+  ],
+  "executionContext": "skill directory supplied for this test; absolute local path omitted",
+  "exitCode": 0,
+  "stderr": ""
+}

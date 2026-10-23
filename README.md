@@ -11,12 +11,12 @@
 
 ## 下载与安装
 
-**[下载 v1.0.2 安装包](https://github.com/hebokenn/mycoach-qna-tutor/releases/tag/v1.0.2)**，或进入[所有版本](https://github.com/hebokenn/mycoach-qna-tutor/releases)。源码、使用说明和安装包均可公开访问，无需额外申请仓库权限。
+**[下载 v1.1.0 安装包](https://github.com/hebokenn/mycoach-qna-tutor/releases/tag/v1.1.0)**，或进入[所有版本](https://github.com/hebokenn/mycoach-qna-tutor/releases)。源码、使用说明和安装包均可公开访问，无需额外申请仓库权限。
 
 | 文件 | 用途 |
 | --- | --- |
-| `mycoach-qna-tutor-v1.0.2.zip` | Codex及支持标准SKILL.md目录的AI |
-| `mycoach-qna-tutor-workbuddy-v1.0.2.zip` | WorkBuddy上传入口，含其所需描述与版本元数据 |
+| `mycoach-qna-tutor-v1.1.0.zip` | Codex及支持标准SKILL.md目录的AI |
+| `mycoach-qna-tutor-workbuddy-v1.1.0.zip` | WorkBuddy上传入口，含其所需描述与版本元数据 |
 | `SHA256SUMS` | 下载校验值 |
 
 ### Codex
@@ -50,13 +50,33 @@ python3 tools/install.py
 
 更多可复制示例和评分结果的读法见 [详细使用说明](docs/usage.md)。
 
+## 完整服务流程
+
+v1.1.0依据资料所有者补充的《私教答疑流程话术》，将15分钟训练主线贯穿20题：欢迎与称呼 → 感同身受 → 说明意图探需 → 复述确认 → 逐项同意后处理与验证 → 完整收尾。每题核对型号、系统、时间/触发条件和已试方法；记录评价同时查漏流程，仍按原16项量尺计分。售后时间、备用机等为待核实的门店示例。
+
+[完整流程与来源](skills/mycoach-qna-tutor/references/service-flow.md) · [本版修订说明](docs/release-v1.1.0.md)
+
+下图为共用流程接入MyCoach学习攻略后的实际页面，使用隔离测试账号；它是网页流程展示，Skill文字试用另见下节。
+
+![完整服务流程的实际网页截图](docs/images/service-flow-desktop.png)
+
+[390px手机页面截图](docs/images/service-flow-mobile-top.png)
+
 ## 实际场景与截图
 
-新增 **8个文字使用场景**，含顾客/Coach多轮反馈、账号安全，以及整轮文字摘要和片段记录评分。截图来自这些**预设用户输入＋AI实际输出**的浏览器展示；完整原文、检查证据及限制均可查阅。它们不代表实机操作、电话、录音或视频能力已验收。
+保留原 **8个文字使用场景**，v1.1.0再补 **2个完整流程场景**，含顾客/Coach多轮反馈、账号安全，以及整轮文字摘要和片段记录评分。截图来自这些**预设用户输入＋AI实际输出**的浏览器展示；完整原文、检查证据及限制均可查阅。它们不代表实机操作、电话、录音或视频能力已验收。
+
+### v1.1.0完整流程补测
+
+[C2完整记录评分](docs/scenarios/scenario-C2.json)能指出探需、逐项同意与收尾遗漏，并保留声画未知项；[C3完整服务示范](docs/scenarios/scenario-C3.json)覆盖质量顾虑及离店，未确认的诊断/维修时长和备用机保留待核实。两场17项观察检查通过。
+
+![完整流程评分的实际文字试用](docs/images/C2.png)
+
+![完整服务示范的实际文字试用](docs/images/C3.png)
 
 ### 一周备考安排
 
-输入时间限制后，按原量尺安排学习、对练和复盘，不编造正式考试时长或抽题政策。[完整场景A1](docs/scenarios/scenario-A1.json)
+输入时间限制后，按原量尺安排学习、对练和复盘，15分钟训练依据新增流程文件，正式考务与抽题政策仍看当期通知。[完整场景A1](docs/scenarios/scenario-A1.json)
 
 ![一周备考安排的实际文字测试截图](docs/images/A1.png)
 
@@ -116,6 +136,6 @@ python3 tools/package.py
 python3 tools/verify_packages.py
 ```
 
-当前23项自动检查覆盖量尺与Excel一致性、人设来源与依据索引、相对路径、缺失分处理、安装备份及100组原计分引擎对照数据。两个ZIP另外校验CRC、逐文件SHA256并在临时目录验证独立运行。GitHub Actions会对后续推送重跑这些检查。
+当前25项自动检查覆盖量尺与Excel一致性、人设来源与依据索引、相对路径、缺失分处理、安装备份及100组原计分引擎对照数据。两个ZIP另外校验CRC、逐文件SHA256并在临时目录验证独立运行。GitHub Actions会对后续推送重跑这些检查。
 
 计分脚本只负责算术，不代替AI对记录的语义判断；8个场景测试也不等于所有人设与媒体能力全部通过。资料使用范围见 [NOTICE](NOTICE.md)。

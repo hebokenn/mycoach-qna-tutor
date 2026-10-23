@@ -1,0 +1,50 @@
+{
+  "testedAt": "2026-10-23T02:24:46.310472+00:00",
+  "skillVersion": "1.1.0",
+  "sourceFiles": [
+    {
+      "path": "SKILL.md",
+      "sha256": "9ad8c7fb3e4d8200a25493e7ef2d356fd04d9eb1928a98d62818fdae6e996f57"
+    },
+    {
+      "path": "references/service-flow.md",
+      "sha256": "8b222a1c8346993d8c9a3bb5c3628e8e513132344ef09e9f3aa3b4760c4ee883"
+    },
+    {
+      "path": "references/scoring.md",
+      "sha256": "2fd9b0c5e6bd888fafaf9b7d68e8bd1474737c2f2114fe86ef56de9cac71b35f"
+    },
+    {
+      "path": "references/exam-standard.md",
+      "sha256": "8f3f5398be968915251e50c9d96a0ba212352aae0294edaf365a7fbc954b847c"
+    },
+    {
+      "path": "references/exam-standard.json",
+      "sha256": "7e1691b0f3075c0f7dd6ad88b67fc16d17a162c1773392456c4038b26e648b78"
+    },
+    {
+      "path": "references/topics/black-screen-sound.md",
+      "sha256": "9960ae06900f2101f8fee434d860d7ae84e96c8efc64284ff58b36b459ccb408"
+    },
+    {
+      "path": "references/topics/battery-quality.md",
+      "sha256": "e20ee6f9da9c177334ddfa68d966091e471d44dd240d4d8e82d8e1611d2d93a9"
+    },
+    {
+      "path": "references/roleplay.md",
+      "sha256": "8a511bfc892182c563a592407fddac671e8052175f2f51eb89d8f967eb881b83"
+    },
+    {
+      "path": "references/apple-sources.md",
+      "sha256": "a858f219eaca8932066700849c5f7fbdbde70fd8fe9ae883ed036e6681745cfb"
+    },
+    {
+      "path": "references/source-documents/service-flow-original.json",
+      "sha256": "baae6abc27b3e3eeae3e8f8f5de2d31d9ba3b92e4dad47873d81b11348835ef1"
+    },
+    {
+      "path": "scripts/score_record.py",
+      "sha256": "f0e782abc35d34945135646282842403e115f5881d1cdeaa59b229ceb8892106"
+    }
+  ]
+}

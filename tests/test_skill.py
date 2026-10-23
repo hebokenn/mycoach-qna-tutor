@@ -84,6 +84,25 @@ class SkillTests(unittest.TestCase):
         self.assertEqual(hashlib.sha256((BASE/'assets/private-qna-standard.xlsx').read_bytes()).hexdigest(),expected)
         cells=original_cells()
         for item in standard['items']:self.assertIn(item['standard'],cells)
+    def test_flow_source_and_transcript_preserve_original(self):
+        import zipfile
+        flow=json.loads((BASE/'references/service-flow.json').read_text())
+        source=BASE/'references'/flow['source']['original']
+        self.assertEqual(hashlib.sha256(source.read_bytes()).hexdigest(),flow['source']['sha256'])
+        transcript=json.loads((BASE/'references'/flow['source']['transcript']).read_text())
+        with zipfile.ZipFile(source) as z:
+            doc=ET.fromstring(z.read('word/document.xml'))
+        ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
+        rows=[{'paragraph':i,'text':''.join(t.text or '' for t in p.findall('.//w:t',ns))} for i,p in enumerate(doc.findall('.//w:body/w:p',ns),1)]
+        self.assertEqual(transcript['paragraphs'],rows)
+        self.assertIn({'paragraph':16,'text':'4、'},rows)
+        self.assertEqual(transcript['sourceSha256'],flow['source']['sha256'])
+    def test_flow_lookup_and_rubric_mapping(self):
+        flow=json.loads(subprocess.check_output([sys.executable,str(BASE/'scripts/tutor.py'),'flow']))
+        self.assertEqual(flow['source']['trainingMinutes'],15)
+        mapped={n for stage in flow['stages'] for n in stage['itemNumbers']}
+        self.assertEqual(mapped,{i['number'] for i in standard['items']})
+        self.assertTrue({n for n in flow['qualityBranch']['itemNumbers']}.issubset(mapped))
     def test_weights_are_nested_not_flat(self):
         self.assertEqual(sum(d['weight'] for d in standard['dimensions']),100)
         for d in standard['dimensions']:self.assertEqual(sum(i['weight'] for i in standard['items'] if i['itemColumn']==d['key']),100)

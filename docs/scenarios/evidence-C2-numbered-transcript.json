@@ -1,0 +1,50 @@
+{
+  "inputNature": "User-declared complete verbatim text; no media supplied.",
+  "turns": [
+    {
+      "id": "T001",
+      "speaker": "A",
+      "content": "您好，我是今天的私教Coach。"
+    },
+    {
+      "id": "T002",
+      "speaker": "B",
+      "content": "我手机黑屏但点哪里都读出来，碰一下也打不开。"
+    },
+    {
+      "id": "T003",
+      "speaker": "A",
+      "content": "这是旁白，三指轻点三下把幕帘屏关掉。"
+    },
+    {
+      "id": "T004",
+      "speaker": "B",
+      "content": "亮了，但一点还是只读。"
+    },
+    {
+      "id": "T005",
+      "speaker": "A",
+      "content": "点一下选中，再连点两下打开。我先说明，这是为了确认普通触控是否恢复，关旁白会停止朗读。我带您按实际设置关闭旁白，可以吗？"
+    },
+    {
+      "id": "T006",
+      "speaker": "B",
+      "content": "可以。"
+    },
+    {
+      "id": "T007",
+      "speaker": "A",
+      "content": "请您打开设置里的辅助功能，找到旁白，按屏幕状态操作关闭后再试。"
+    },
+    {
+      "id": "T008",
+      "speaker": "B",
+      "content": "现在普通点按也能用了。"
+    },
+    {
+      "id": "T009",
+      "speaker": "A",
+      "content": "那就好了，谢谢，再见。"
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 # 第19题：手机上无法退出 Apple ID
 
+完整对练先按[六环节服务流程](../service-flow.md)完成欢迎、共情、探需和复述；本题技术路线展开处理环节，验证后仍须完整收尾。
+
 本文件为教学整理。历史事实见[人设索引](../personas/cannot-sign-out-apple-id.md)，考官评语见[案例索引](../cases/cannot-sign-out-apple-id.md)，自测见[情境练习](../exercises/cannot-sign-out-apple-id.md)。量尺仍用[16项原文](../exam-standard.md)。不要把教学路线当成已诊断事实。
 
 ## 主诉与学习目标

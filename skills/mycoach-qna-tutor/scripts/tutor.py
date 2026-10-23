@@ -12,6 +12,8 @@ def read(path):
     return json.loads((BASE / path).read_text(encoding='utf-8'))
 
 def lookup(args):
+    if args.command == 'flow':
+        return read('references/service-flow.json')
     catalog = read('references/catalog.json')
     if args.command == 'topics':
         return [{k: t[k] for k in ('number', 'key', 'title', 'guide', 'exerciseCount')} | {
@@ -53,6 +55,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     commands = parser.add_subparsers(dest='command', required=True)
     commands.add_parser('topics')
+    commands.add_parser('flow', help='读取六环节完整服务流程和来源范围')
     persona = commands.add_parser('persona', help='抽取一份独立的真实顾客人设，或指定ID')
     persona.add_argument('--topic')
     persona.add_argument('--id')

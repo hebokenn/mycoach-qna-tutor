@@ -65,6 +65,22 @@
       "checks": 4,
       "passed": 4,
       "sha256": "718acfb821acac947bac1b0a3971a492c3edb02a227cbdfa52c8d7bb9a2066ca"
+    },
+    {
+      "id": "C2",
+      "title": "完整黑屏朗读记录的原量尺评分与独立流程查漏",
+      "turns": 2,
+      "checks": 8,
+      "passed": 8,
+      "sha256": "f5edf0117a743a23faa338d3eab86ee5f7acc0daaa8622632d313fb570c78484"
+    },
+    {
+      "id": "C3",
+      "title": "质量顾虑仍待诊断的完整进离店示范脚本",
+      "turns": 2,
+      "checks": 9,
+      "passed": 9,
+      "sha256": "bfd7770adf0fb82ed18ac40587316e31cee1c5775c8a50bb71bece1db5403c13"
     }
   ]
 }

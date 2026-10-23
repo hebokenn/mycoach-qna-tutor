@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-23T02:32:52.299466+00:00",
+  "sources": [
+    {
+      "url": "https://support.apple.com/zh-cn/111797",
+      "title": "将幕帘屏与旁白搭配使用",
+      "toolsUsed": [
+        "web.open"
+      ],
+      "checkedFacts": [
+        "幕帘屏关闭视觉显示但设备和旁白仍工作；iPhone三指轻点三下，同时缩放时为四下。"
+      ],
+      "scenarios": [
+        "C2"
+      ]
+    },
+    {
+      "url": "https://support.apple.com/zh-cn/guide/iphone/iph3e2e2281/ios",
+      "title": "在iPhone上使用旁白手势",
+      "toolsUsed": [
+        "web.open"
+      ],
+      "checkedFacts": [
+        "单点选择、双点激活，以及三指三下/四下的条件。"
+      ],
+      "scenarios": [
+        "C2"
+      ]
+    },
+    {
+      "url": "https://support.apple.com/zh-cn/108055",
+      "title": "关于iPhone的充电上限和优化电池充电",
+      "toolsUsed": [
+        "web.open"
+      ],
+      "checkedFacts": [
+        "iPhone15及更新机型支持充电上限，降低上限与充电优化有各自作用和条件。"
+      ],
+      "scenarios": [
+        "C3"
+      ]
+    },
+    {
+      "url": "https://support.apple.com/zh-cn/guide/iphone/iph0777c60aa/26/ios/26",
+      "title": "在iPhone上设定充电上限",
+      "toolsUsed": [
+        "web.open"
+      ],
+      "checkedFacts": [
+        "iOS26手册区分临时忽略与长期修改，暂时选项有恢复设定的时间；实机文案应读取确认。"
+      ],
+      "scenarios": [
+        "C3"
+      ]
+    },
+    {
+      "url": "https://support.apple.com/zh-cn/guide/business/axme884379fa/web",
+      "title": "在Apple商务中获取Apple支持App",
+      "toolsUsed": [
+        "web.search",
+        "web.open"
+      ],
+      "checkedFacts": [
+        "页面介绍Apple支持App可给个性化解决方案、分步指导、查找服务地点并预约。未采用其组织部署登录流程。"
+      ],
+      "scenarios": [
+        "C3"
+      ]
+    }
+  ],
+  "checkBoundary": "Only public official pages were read. No media, device or store operations were performed. No login or outbound messages."
+}

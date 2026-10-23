@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.1.0",
   "frozenOn": "2026-10-22",
   "timezone": "Asia/Shanghai",
   "historicalSnapshotAt": "2026-10-21T04:07:53.228Z",
@@ -71,5 +71,34 @@
   "redaction": "Removed participant names present in source roster, email addresses, phone numbers and original links; no source videos, signed playback URLs, credentials, databases or user IDs are included.",
   "reviewLimit": "Reuses the existing reviewed personas and historical examiner comments. No new complete video review was conducted for this package.",
   "releasePreparedOn": "2026-10-23",
-  "revisionNote": "公开发布：更新仓库访问与安装说明；教学行为、人设和量尺保持v1.0.1。"
+  "revisionNote": "补入用户提供的15分钟完整服务流程，同步备考、双向对练、记录评价与20题攻略。原量尺、题库、人设及历史分数不改。",
+  "serviceFlowSource": {
+    "filename": "私教答疑流程话术.docx",
+    "sha256": "34277fc58091de40bcc396fa8eaed80bd9233731a9c8e45b298392fa13fe5498",
+    "addedOn": "2026-10-23",
+    "trainingMinutes": 15,
+    "scope": "用户提供的私教答疑训练流程；15分钟来自本文件，不代替当期正式考务通知。",
+    "original": "source-documents/service-flow-original.docx",
+    "transcript": "source-documents/service-flow-original.json"
+  },
+  "serviceFlowOfficialReferences": [
+    {
+      "title": "Apple支持App与联系入口",
+      "url": "https://support.apple.com/zh-cn/contact",
+      "supports": "App可获取个性化帮助、咨询与发起维修。",
+      "checkedOn": "2026-10-23"
+    },
+    {
+      "title": "iPhone或iPad维修前的准备工作",
+      "url": "https://support.apple.com/zh-cn/109519",
+      "supports": "提前备份；密码由本人输入，不向他人披露；送修后的设备可能已抹掉。",
+      "checkedOn": "2026-10-23"
+    },
+    {
+      "title": "Genius Bar预约与支持选项",
+      "url": "https://www.apple.com.cn/retail/geniusbar/",
+      "supports": "该页说明Apple Store服务，预估处理时间与费用依诊断和保障情况；不能直接代表授权专营店的全部安排。",
+      "checkedOn": "2026-10-23"
+    }
+  ]
 }

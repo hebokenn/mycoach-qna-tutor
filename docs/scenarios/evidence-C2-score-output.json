@@ -1,0 +1,272 @@
+{
+  "kind": "practice_evaluation_only",
+  "recordScope": "complete",
+  "medium": "text",
+  "scoredItems": 12,
+  "totalItems": 16,
+  "observedPoints": 46.5,
+  "observedMaximum": 81.5,
+  "observedOnlyPercent": 57.06,
+  "fullScoreInterval": [
+    46.5,
+    65.0
+  ],
+  "completeTotal": null,
+  "simulationThreshold": 80,
+  "simulationResult": null,
+  "note": "仅完整且16项都有足够证据时给模拟总分/判定。局部归一化值不能当整场分数；80来自MyCoach模拟口径。",
+  "dimensions": {
+    "dim1": {
+      "observedPoints": 20.4,
+      "observedMaximum": 30.0,
+      "fullMaximum": 30.0
+    },
+    "dim2": {
+      "observedPoints": 19.6,
+      "observedMaximum": 28.0,
+      "fullMaximum": 35.0
+    },
+    "dim3": {
+      "observedPoints": 3.0,
+      "observedMaximum": 15.0,
+      "fullMaximum": 25.0
+    },
+    "dim4": {
+      "observedPoints": 3.5,
+      "observedMaximum": 8.5,
+      "fullMaximum": 10.0
+    }
+  },
+  "items": [
+    {
+      "key": "qna-01",
+      "number": 1,
+      "checkpoint": "建立私教身份、展现私教温度",
+      "dimension": "dim4",
+      "status": "observed",
+      "rawScore": 10.0,
+      "maximumContribution": 0.5,
+      "contribution": 0.5,
+      "evidence": [
+        "T001：您好，我是今天的私教Coach。"
+      ],
+      "reason": "礼貌问候、自我介绍与私教身份齐全。未问称呼另作流程查漏，不据此改判无。"
+    },
+    {
+      "key": "qna-02",
+      "number": 2,
+      "checkpoint": "建立私教身份、展现私教温度",
+      "dimension": "dim3",
+      "status": "unobservable",
+      "rawScore": null,
+      "maximumContribution": 2.5,
+      "contribution": null,
+      "evidence": [
+        "T001、T009：有礼貌用语。"
+      ],
+      "reason": "可以看见文字礼貌用语，但无声音和画面，不能据此确定自信大方、实际语态与整体教练温度，整项暂不定分。"
+    },
+    {
+      "key": "qna-03",
+      "number": 3,
+      "checkpoint": "情绪承接技能",
+      "dimension": "dim4",
+      "status": "unobservable",
+      "rawScore": null,
+      "maximumContribution": 1.5,
+      "contribution": null,
+      "evidence": [
+        "T002—T009：顾客描述问题、反馈结果。"
+      ],
+      "reason": "只有文字轮次，不能证明实时未打断、未表现不耐烦或真实情绪降温过程。"
+    },
+    {
+      "key": "qna-04",
+      "number": 4,
+      "checkpoint": "表达感同身受",
+      "dimension": "dim3",
+      "status": "unobservable",
+      "rawScore": null,
+      "maximumContribution": 7.5,
+      "contribution": null,
+      "evidence": [
+        "T002后直接给操作指令，全文未见缓冲共情语句。"
+      ],
+      "reason": "可指出未出现共情表达；但本项陪伴感和不尴尬等感受缺乏声音及顾客情绪反馈，整项暂不定分，在流程查漏记录文字中未做的承接动作。"
+    },
+    {
+      "key": "qna-05",
+      "number": 5,
+      "checkpoint": "结构化探询",
+      "dimension": "dim4",
+      "status": "not_done",
+      "rawScore": 0.0,
+      "maximumContribution": 1.5,
+      "contribution": 0.0,
+      "evidence": [
+        "完整记录T001—T009；T002主诉后T003直接给操作指令。"
+      ],
+      "reason": "完整记录未开展探需，也未在排查提问前说明提问目的。T005是关闭旁白的操作说明，不能替代探需提问意图。"
+    },
+    {
+      "key": "qna-06",
+      "number": 6,
+      "checkpoint": "结构化探询",
+      "dimension": "dim3",
+      "status": "not_done",
+      "rawScore": 0.0,
+      "maximumContribution": 10.0,
+      "contribution": 0.0,
+      "evidence": [
+        "完整记录T001—T009；没有询问型号、系统、发生经过或已试方法。"
+      ],
+      "reason": "完整文字显示没有实际开展探询，未形成该项倾听—确认—再提问的行为，依原0—4档最低值评价未开展表现；此0来自明确未做，不是无声画所致。"
+    },
+    {
+      "key": "qna-07",
+      "number": 7,
+      "checkpoint": "确认核心痛点",
+      "dimension": "dim4",
+      "status": "not_done",
+      "rawScore": 0.0,
+      "maximumContribution": 2.0,
+      "contribution": 0.0,
+      "evidence": [
+        "完整记录T001—T009；T002主诉后没有复述并等待顾客确认。"
+      ],
+      "reason": "未通过复述与确认共同锁定核心问题，直接进入处理。"
+    },
+    {
+      "key": "qna-08",
+      "number": 8,
+      "checkpoint": "确认核心痛点",
+      "dimension": "dim3",
+      "status": "observed",
+      "rawScore": 6.0,
+      "maximumContribution": 5.0,
+      "contribution": 3.0,
+      "evidence": [
+        "T002—T005：抓住黑屏、朗读与单点不能打开的表现，继续处理；未复述对齐。"
+      ],
+      "reason": "可见焦点没有偏离，但未复述取得共识，按原5—7档确认模糊、对齐不足评价6分；不把缺少全流程形式直接等同技术误判。"
+    },
+    {
+      "key": "qna-09",
+      "number": 9,
+      "checkpoint": "预期管理与排障逻辑",
+      "dimension": "dim4",
+      "status": "observed",
+      "rawScore": 10.0,
+      "maximumContribution": 1.5,
+      "contribution": 1.5,
+      "evidence": [
+        "T005：说明确认普通触控的目的、关闭旁白会停止朗读，并询问可以吗。",
+        "T006：顾客同意。"
+      ],
+      "reason": "关闭旁白前确有操作目的、影响说明和顾客同意。首个幕帘屏动作说明不足另记流程/逻辑缺口，不抹去已发生的这项正向证据。"
+    },
+    {
+      "key": "qna-10",
+      "number": 10,
+      "checkpoint": "提供解决方案",
+      "dimension": "dim1",
+      "status": "observed",
+      "rawScore": 8.0,
+      "maximumContribution": 12.0,
+      "contribution": 9.6,
+      "evidence": [
+        "T003—T008：恢复显示、解释选择与激活手势、引导关闭旁白、顾客反馈普通点按可用。"
+      ],
+      "reason": "提供了实质可行的处理步骤，并继续处理亮屏后仍不能普通点按的困扰；顾客文字反馈支持可用，不声称已看见实机验证。"
+    },
+    {
+      "key": "qna-11",
+      "number": 11,
+      "checkpoint": "提供解决方案",
+      "dimension": "dim1",
+      "status": "observed",
+      "rawScore": 6.0,
+      "maximumContribution": 18.0,
+      "contribution": 10.8,
+      "evidence": [
+        "T003直接给首个手势，无前置核对或说明。",
+        "T005—T008：后续有目的/影响/同意及反馈；全文未做防误触预防。"
+      ],
+      "reason": "主线从显示到旁白操作基本正确，但起步跳跃，前置条件和长效预防有疏漏；按原5—7档评价6分。"
+    },
+    {
+      "key": "qna-12",
+      "number": 12,
+      "checkpoint": "知识与概念",
+      "dimension": "dim2",
+      "status": "observed",
+      "rawScore": 8.0,
+      "maximumContribution": 14.0,
+      "contribution": 11.2,
+      "evidence": [
+        "T003：三指轻点三下切换幕帘屏。",
+        "T005：单点选中、双点激活；关闭旁白停止朗读。",
+        "T004、T008：顾客分别反馈亮屏和普通点按可用。"
+      ],
+      "reason": "核心旁白与幕帘屏操作知识正确。三指四下适用于同时开启缩放的条件应补核，当前记录未出现这一条件，也未证明当前手势错误；不虚构严重技术错误。"
+    },
+    {
+      "key": "qna-13",
+      "number": 13,
+      "checkpoint": "知识与概念",
+      "dimension": "dim2",
+      "status": "observed",
+      "rawScore": 6.0,
+      "maximumContribution": 14.0,
+      "contribution": 8.4,
+      "evidence": [
+        "T003、T005：只给功能名称、手势和关闭朗读的直接影响，完整逐字记录未解释幕帘屏设计目的及场景益处。"
+      ],
+      "reason": "这是完整逐字记录而非摘要，能据实际语言评价解释偏步骤说明，缺少底层机制与场景益处；按原5—7档评价6分。本分没有宣称实机演示已清晰完成。"
+    },
+    {
+      "key": "qna-14",
+      "number": 14,
+      "checkpoint": "操作与反馈",
+      "dimension": "dim4",
+      "status": "observed",
+      "rawScore": 10.0,
+      "maximumContribution": 1.5,
+      "contribution": 1.5,
+      "evidence": [
+        "T004：顾客反馈亮了但仍只读。",
+        "T005—T008：Coach据反馈继续指导，要求关闭后再试，顾客反馈普通点按可用。"
+      ],
+      "reason": "有操作引导，并根据关键状态反馈继续处理，不是只发一串指令就结束。"
+    },
+    {
+      "key": "qna-15",
+      "number": 15,
+      "checkpoint": "操作与反馈",
+      "dimension": "dim2",
+      "status": "unobservable",
+      "rawScore": null,
+      "maximumContribution": 7.0,
+      "contribution": null,
+      "evidence": [
+        "只提供T001—T009文字，无操作画面和音轨。"
+      ],
+      "reason": "无法判断实机演示清晰准确与实际同频节奏，分数留空。"
+    },
+    {
+      "key": "qna-16",
+      "number": 16,
+      "checkpoint": "推荐资源，结束服务",
+      "dimension": "dim4",
+      "status": "not_done",
+      "rawScore": 0.0,
+      "maximumContribution": 1.5,
+      "contribution": 0.0,
+      "evidence": [
+        "T008：顾客反馈普通点按可用。",
+        "T009：那就好了，谢谢，再见。"
+      ],
+      "reason": "虽有道谢道别，但完整记录在结果反馈后草率结束，未确认满意或询问是否还有疑问；符合原无档。不是仅因未问其他产品兴趣或未加企微就判无。"
+    }
+  ]
+}
