@@ -1,0 +1,58 @@
+{
+  "method": "Actual local website with isolated fake learner; all 19 topics and 77 units checked in browser. Read-only source/DOM comparisons and 320/390px layout; no physical phone actions or real learner experiment.",
+  "topics": 19,
+  "lessons": 77,
+  "checks": 1196,
+  "mobileChecks": [
+    {
+      "width": 390,
+      "key": "charging-hot",
+      "scroll": 390,
+      "bodyFont": "16px"
+    },
+    {
+      "width": 390,
+      "key": "black-screen-sound",
+      "scroll": 390,
+      "bodyFont": "16px"
+    },
+    {
+      "width": 390,
+      "key": "cannot-change-passcode",
+      "scroll": 390,
+      "bodyFont": "16px"
+    },
+    {
+      "width": 390,
+      "key": "mail-not-received",
+      "scroll": 390,
+      "bodyFont": "16px"
+    },
+    {
+      "width": 320,
+      "key": "charging-hot",
+      "scroll": 320,
+      "bodyFont": "16px"
+    },
+    {
+      "width": 320,
+      "key": "black-screen-sound",
+      "scroll": 320,
+      "bodyFont": "16px"
+    },
+    {
+      "width": 320,
+      "key": "cannot-change-passcode",
+      "scroll": 320,
+      "bodyFont": "16px"
+    },
+    {
+      "width": 320,
+      "key": "mail-not-received",
+      "scroll": 320,
+      "bodyFont": "16px"
+    }
+  ],
+  "pageErrors": [],
+  "pass": true
+}

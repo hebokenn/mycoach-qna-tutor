@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.2.0",
   "frozenOn": "2026-10-22",
   "timezone": "Asia/Shanghai",
   "historicalSnapshotAt": "2026-10-21T04:07:53.228Z",
@@ -10,8 +10,13 @@
     "sourceExceptions": 14,
     "exercises": 201,
     "rubricItems": 16,
-    "officialReferenceEntries": 50,
-    "uniqueOfficialURLs": 48
+    "officialReferenceEntries": 92,
+    "uniqueOfficialURLs": 87,
+    "deepenedTopics": 19,
+    "teachingUnits": 77,
+    "oralSelfChecks": 77,
+    "technicalReferenceEntries": 95,
+    "foundationReferenceEntries": 3
   },
   "sourceHashes": [
     {
@@ -32,11 +37,11 @@
     },
     {
       "path": "mycoach-progress/src/lib/qna-topic-data.ts",
-      "sha256": "af6e9b6cf5cd532c47c1da389cc97e9d165943c40e5ca0d9f87433f8e7a6527d"
+      "sha256": "67b2c70e88cf8ff6c53af5e7075e04da6dfd09ecadde54b77f895094b68934a1"
     },
     {
       "path": "mycoach-progress/src/lib/qna-topic-references.ts",
-      "sha256": "79388485ee42f4f2ea746d60969ac5514c2d3f35c23d7c976753986ff88e69cf"
+      "sha256": "0b62b2838592ae905a106a362f1cf0d947389296742108fdffd2ab0e5376b39e"
     },
     {
       "path": "mycoach-progress/src/lib/qna-topic-exercises.ts",
@@ -48,7 +53,7 @@
     },
     {
       "path": "mycoach-progress/src/lib/qna-guide-standards-data.ts",
-      "sha256": "a7af71ea86c647df72a610131274e50e6fa4ebbf71d7987b89304e73ee160452"
+      "sha256": "3ab033803394fd59c3740aec203a0f69159609abc7291ba9bae3754ed5c6e3c4"
     },
     {
       "path": "mycoach-progress/src/lib/qna-guide-battery-learning.ts",
@@ -65,13 +70,17 @@
     {
       "path": "outputs/persona-full-qna-20261021/source/inventory-current20.json",
       "sha256": "e2fbbce858000fbd23583e2efebf787558857d0b6080a4d44b42bca40dfaeac0"
+    },
+    {
+      "path": "mycoach-progress/src/lib/qna-topic-knowledge.json",
+      "sha256": "cd67fc09778eb1d004ff184098eb35d72913117fe70208425312f76de943ce38"
     }
   ],
   "originalXlsxSha256": "de75eaa5ec321b795f8d1a10175c8b109f6f97410342853c6cc593bb2ecf3ba8",
   "redaction": "Removed participant names present in source roster, email addresses, phone numbers and original links; no source videos, signed playback URLs, credentials, databases or user IDs are included.",
   "reviewLimit": "Reuses the existing reviewed personas and historical examiner comments. No new complete video review was conducted for this package.",
   "releasePreparedOn": "2026-10-23",
-  "revisionNote": "按真实考试转写改入口头措辞；评分默认用中文、原话与简洁结果，内部计算保持原量尺。",
+  "revisionNote": "重写其余19题的77个讲解单元，补功能、因果过程、益处、口语解释、操作验证、追问与口头自测。首题、原量尺、历史人设与案例保持；77口头自测不计入原201道情境题。",
   "serviceFlowSource": {
     "filename": "私教答疑流程话术.docx",
     "sha256": "34277fc58091de40bcc396fa8eaed80bd9233731a9c8e45b298392fa13fe5498",
@@ -121,5 +130,31 @@
       29
     ],
     "change": "按用户指定改为资料原话，仅合并换行；其他例句不受此要求影响。"
+  },
+  "deepKnowledge": {
+    "updatedOn": "2026-10-23",
+    "data": "topic-lessons.json",
+    "sourceDate": "2026-10-23",
+    "reviewMethod": "Author semantic learner-perspective walkthrough plus actual browser inspection; not a real learner experiment or an independent AI trial.",
+    "foundations": "Apple product and operation pages; archived Apple energy fundamentals; clearly separated TI general charging-loss explanation and RFC mail-protocol definitions.",
+    "knownGap": "No new iPhone/Watch physical-device demonstration or real learner teach-back was conducted."
+  },
+  "preservedLocalRevision": {
+    "fromVersion": "1.1.3",
+    "files": [
+      "SKILL.md",
+      "references/apple-sources.md",
+      "scripts/tutor.py",
+      "references/roleplay.md",
+      "references/conversation-style.md",
+      "references/service-flow.md",
+      "references/simulation-defaults.json"
+    ],
+    "note": "Preserved pre-existing installed roleplay changes while adding teaching depth. Historical persona/case files unchanged.",
+    "stableCacheRecheckedOn": "2026-10-23",
+    "stableCacheSources": [
+      "https://support.apple.com/zh-cn/100100",
+      "https://support.apple.com/en-us/100100"
+    ]
   }
 }

@@ -1,6 +1,6 @@
 # 安装与使用
 
-当前GitHub发布版为v1.1.2：[安装包与校验值](https://github.com/hebokenn/mycoach-qna-tutor/releases/tag/v1.1.2)、[完整使用示例与实测截图](https://github.com/hebokenn/mycoach-qna-tutor)。仓库与安装包已按资料所有者授权公开，下载无需额外申请仓库权限。
+当前GitHub发布版为v1.2.0：[安装包与校验值](https://github.com/hebokenn/mycoach-qna-tutor/releases/tag/v1.2.0)、[完整使用示例与实测截图](https://github.com/hebokenn/mycoach-qna-tutor)。仓库与安装包已按资料所有者授权公开，下载无需额外申请仓库权限。
 
 解压后保留整个`mycoach-qna-tutor`文件夹，SKILL.md、references、scripts和assets一起移动。仅粘贴SKILL.md会丢失题库、人设、原量尺和案例。
 
@@ -14,7 +14,7 @@
 
 在“专家·技能·连接器”打开“技能”，选择“添加技能 → 上传技能”，上传本地ZIP包，并在已安装列表确认已启用。此处指WorkBuddy桌面本地技能导入，不是开放平台公开市场上架；公开平台有额外元数据与发布要求，本包未上架。
 
-导入后在新对话说“使用私教答疑技能，我当Coach，你当顾客，随机开始”。本包依据其官方SKILL.md＋references/scripts结构制作；本次未在你的WorkBuddy界面实际导入验收。若宿主不能读相对附件路径，须保留整个文件夹并让它读取目录，不能只上传入口文本。依据：[WorkBuddy本地上传说明](https://www.codebuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market)、[官方技能结构](https://open.workbuddy.cn/docs/skill)。
+导入后在新对话说“使用私教答疑技能，我当Coach，你当顾客，随机开始”。本包依据其官方SKILL.md＋references/scripts结构制作；v1.2.0未在WorkBuddy界面重新导入验收。若宿主不能读相对附件路径，须保留整个文件夹并让它读取目录，不能只上传入口文本。依据：[WorkBuddy本地上传说明](https://www.codebuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market)、[官方技能结构](https://open.workbuddy.cn/docs/skill)。
 
 ## 可以直接这样说
 

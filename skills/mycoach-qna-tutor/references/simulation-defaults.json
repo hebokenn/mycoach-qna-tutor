@@ -1,0 +1,18 @@
+{
+  "defaultMode": "interactive_simulation",
+  "customerStyle": "着急或不满，会催问、质疑，情绪上来可自然夹少量粗口，随实际帮助逐渐缓和",
+  "screenFeedback": "口述具体数字、选项与操作变化，不要求学员看AI的屏幕",
+  "cachedStableSystems": {
+    "iOS": "27.0.1",
+    "iPadOS": "27.0.1",
+    "watchOS": "27.0.1"
+  },
+  "verifiedOn": "2026-10-23",
+  "source": {
+    "title": "Apple安全性发布",
+    "url": "https://support.apple.com/zh-cn/100100",
+    "crossCheckUrl": "https://support.apple.com/en-us/100100"
+  },
+  "versionPolicy": "开练时优先联网核对最新正式版和机型兼容性，随后本轮固定；离线仅按此日期的核对值，不声称实时最新；用户指定旧版或严格历史回放时沿用其要求",
+  "completionPolicy": "默认模拟可补齐必要界面与可检验反馈，记为教学设定，不改历史人设；不能迎合错误诊断或未执行就报成功"
+}

@@ -84,6 +84,38 @@ class SkillTests(unittest.TestCase):
         self.assertEqual(hashlib.sha256((BASE/'assets/private-qna-standard.xlsx').read_bytes()).hexdigest(),expected)
         cells=original_cells()
         for item in standard['items']:self.assertIn(item['standard'],cells)
+    def test_deep_lessons_are_portable_and_references_resolve(self):
+        lessons=json.loads((BASE/'references/topic-lessons.json').read_text())
+        references={r['id']:r for r in json.loads((BASE/'references/apple-sources.json').read_text())}
+        self.assertEqual(set(lessons),{t['key'] for t in catalog if t['key']!='battery-quality'})
+        self.assertEqual(sum(map(len,lessons.values())),77)
+        for key,items in lessons.items():
+            guide=(BASE/next(t['guide'] for t in catalog if t['key']==key)).read_text()
+            for item in items:
+                l=item['learning']
+                for text in [item['title'],item['say'],l['feature'],l['benefit'],l['question'],l['answer'],l['selfCheck']['question'],l['selfCheck']['answer']]+l['steps']+l['demo']:
+                    self.assertTrue(text.strip());self.assertIn(text,guide)
+                self.assertGreaterEqual(len(l['steps']),3);self.assertGreaterEqual(len(l['demo']),2)
+                for id in l['referenceIds']:self.assertIn(id,references)
+        self.assertEqual(references['charging-loss']['authority'],'primary-engineering')
+    def test_single_lesson_lookup_and_invalid_topic(self):
+        command=[sys.executable,str(BASE/'scripts/tutor.py'),'lesson','--topic','charging-hot']
+        index=json.loads(subprocess.check_output(command));self.assertEqual(len(index['lessons']),4)
+        item=json.loads(subprocess.check_output(command+['--number','3']))['lesson']
+        self.assertEqual(item['title'],'边充边玩，为什么热量会叠加')
+        self.assertIn('处理器',item['learning']['feature'])
+        for invalid in ['0','5']:
+            self.assertEqual(subprocess.run(command+['--number',invalid],capture_output=True).returncode,2)
+        self.assertEqual(subprocess.run([sys.executable,str(BASE/'scripts/tutor.py'),'lesson','--topic','../../SKILL'],capture_output=True).returncode,2)
+    def test_preserved_interactive_and_historical_modes(self):
+        command=[sys.executable,str(BASE/'scripts/tutor.py'),'persona','--topic','screen-black-spots','--seed','7']
+        interactive=json.loads(subprocess.check_output(command))
+        historical=json.loads(subprocess.check_output(command+['--historical']))
+        self.assertTrue(interactive['roleplay']['runtimeCompletionAllowed'])
+        self.assertFalse(historical['roleplay']['runtimeCompletionAllowed'])
+        self.assertEqual(historical['roleplay']['mode'],'historical_replay')
+        self.assertEqual(interactive['persona'],historical['persona'])
+        self.assertTrue(interactive['roleplay']['officialRefreshAtRoundStart'])
     def test_flow_source_and_transcript_preserve_original(self):
         import zipfile
         flow=json.loads((BASE/'references/service-flow.json').read_text())

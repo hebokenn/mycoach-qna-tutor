@@ -4,304 +4,342 @@
     "title": "乘车时更舒适地使用 iPhone",
     "url": "https://support.apple.com/zh-cn/guide/iphone/iph55564cb22/ios",
     "supports": "车辆运动提示、屏幕边缘动态圆点及乘客使用场景。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "touch",
     "title": "使用辅助触控",
     "url": "https://support.apple.com/zh-cn/111794",
     "supports": "浮动按钮、手势菜单与辅助功能入口。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "pointer",
     "title": "将指针设备与辅助触控搭配使用",
     "url": "https://support.apple.com/zh-cn/111775",
     "supports": "鼠标和触控板指针与显示控制。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "zoom",
     "title": "锁定屏幕上的图标被放大",
     "url": "https://support.apple.com/zh-cn/101705",
     "supports": "缩放与三指轻点两下手势。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "temperature",
-    "title": "Apple：设备温度过高或过低",
+    "title": "设备温度过高或过低",
     "url": "https://support.apple.com/zh-cn/118431",
-    "supports": "暂停充电、温度警告与恢复正常温度的处理。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "supports": "温度保护、暂停充电、变暗黑屏与降温处理。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "signal",
     "title": "看到 SOS、无服务或正在搜索",
     "url": "https://support.apple.com/zh-cn/120000",
     "supports": "蜂窝线路、运营商、SIM、飞行模式及后续服务。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "runtime",
-    "title": "如果 iPhone 或 iPad 电池耗电太快",
+    "title": "电池耗电太快",
     "url": "https://support.apple.com/zh-cn/120745",
-    "supports": "电池用量、后台活动、弱信号，以及设置或更新期间的分析信息；入口随系统变化。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "supports": "电池用量、后台活动、信号与更新后的影响。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "download",
     "title": "无法下载或更新 App",
     "url": "https://support.apple.com/zh-cn/102632",
     "supports": "下载、付款验证与账户问题的区分。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "restrictions",
     "title": "App Store 设置和限制",
     "url": "https://support.apple.com/zh-cn/guide/iphone/iph3dfd91de/ios",
     "supports": "安装限制、内容分级与购买设置；入口随系统版本变化。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "account-recovery",
     "title": "忘记密码且无法登录 Apple 账户",
     "url": "https://support.apple.com/zh-cn/102656",
     "supports": "受信任设备、本人验证与账户恢复。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "account-lock",
     "title": "Apple 账户被锁定或停用",
     "url": "https://support.apple.com/zh-cn/102640",
     "supports": "账户锁定、请求访问及媒体购买停用。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "account-security",
     "title": "认为自己的 Apple 账户被盗",
     "url": "https://support.apple.com/zh-cn/102560",
     "supports": "识别非本人活动、设备与账户安全处理。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "deny-login",
     "title": "拒绝未知登录尝试",
     "url": "https://support.apple.com/zh-cn/guide/personal-safety/ipsf8e72746b/web",
     "supports": "非本人登录不允许；地图是网络大致位置。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "keychain",
     "title": "设置 iCloud 钥匙串",
     "url": "https://support.apple.com/zh-cn/109016",
     "supports": "设备批准、设备密码与端到端加密。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "keychain-help",
     "title": "iCloud 钥匙串无法打开或同步",
     "url": "https://support.apple.com/zh-cn/102441",
     "supports": "钥匙串同步与自动填充排查。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "icloud-login",
     "title": "无法连接或登录 iCloud",
     "url": "https://support.apple.com/zh-cn/118446",
     "supports": "重复验证、账户状态与网络服务排查。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "photos",
     "title": "访问和查看 iCloud 照片",
     "url": "https://support.apple.com/zh-cn/118447",
     "supports": "同账户照片同步以及与你共享的照片。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "shared-library",
     "title": "使用 iCloud 共享照片图库",
     "url": "https://support.apple.com/zh-cn/118229",
     "supports": "个人与共享图库、贡献者及编辑删除影响。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "location",
     "title": "通过 iPhone 共享位置",
     "url": "https://support.apple.com/zh-cn/105104",
     "supports": "单向授权、共享时长与停止共享。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "location-settings",
     "title": "在查找中共享你的位置",
     "url": "https://support.apple.com/zh-cn/guide/iphone/iph01954dc44/ios",
     "supports": "位置来源、定位服务和对方接受共享。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "charge",
     "title": "就 apple.com/bill 收费获取协助",
     "url": "https://support.apple.com/zh-cn/120164",
     "supports": "购买项目核账与家庭成员收费。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "cancel",
     "title": "取消 Apple 提供的订阅",
     "url": "https://support.apple.com/zh-cn/118428",
     "supports": "取消入口、到期状态与其他收费方。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "refund",
     "title": "针对购买项目请求退款",
     "url": "https://support.apple.com/zh-cn/118223",
     "supports": "申请入口、审批与取消订阅相互独立。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "calls",
     "title": "管理未知来电",
     "url": "https://support.apple.com/zh-cn/111106",
     "supports": "永不、询问原因、静音与记录过滤；以实际系统选项为准。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "notifications",
     "title": "iPhone 和 Apple Watch 通知",
     "url": "https://support.apple.com/zh-cn/108274",
     "supports": "通知权限、专注、手机与手表通知分流和镜像。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "curtain",
     "title": "将幕帘屏与旁白搭配使用",
     "url": "https://support.apple.com/zh-cn/111797",
     "supports": "黑屏但仍工作、三指三下或四下。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "voiceover",
     "title": "使用旁白手势",
     "url": "https://support.apple.com/zh-cn/guide/iphone/iph3e2e2281/ios",
     "supports": "单击选择、双击激活、三指滚动。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "mail",
     "title": "无法接收电子邮件",
     "url": "https://support.apple.com/zh-cn/102578",
     "supports": "网页对照、提供商授权、推送抓取及移除账户前保存邮件。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "icloud-mail",
     "title": "iCloud 邮件无法正常使用",
     "url": "https://support.apple.com/zh-cn/102562",
     "supports": "服务状态、空间、推送和收发验证。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "contacts",
     "title": "从 iCloud 意外删除了联系人",
     "url": "https://support.apple.com/zh-cn/102508",
     "supports": "恢复归档前备份与所有同步设备的影响。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "contacts-restore",
     "title": "恢复 iCloud 中的联系人",
     "url": "https://support.apple.com/zh-cn/guide/icloud/mm1d9cfdb498/icloud",
     "supports": "归档版本、恢复过程与平板电脑或电脑入口。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "storage",
     "title": "检查 iPhone 和 iPad 储存空间",
     "url": "https://support.apple.com/zh-cn/108429",
     "supports": "设备分类、卸载与删除 App 的差别。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "cloud-space",
     "title": "iCloud 与设备储存空间的区别",
     "url": "https://support.apple.com/zh-cn/102670",
     "supports": "云空间与机身空间各自独立。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "photo-space",
     "title": "管理照片和视频储存空间",
     "url": "https://support.apple.com/zh-cn/105061",
     "supports": "照片优化与本地占用。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "signout",
     "title": "无法退出登录或账户显示灰色",
     "url": "https://support.apple.com/zh-cn/101973",
     "supports": "头像灰色与退出受限的不同排查。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "signout-effects",
     "title": "退出登录 Apple 账户和 iCloud",
     "url": "https://support.apple.com/zh-cn/104958",
     "supports": "退出的服务影响、资料副本及转交设备前准备。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "protection",
     "title": "失窃设备保护",
     "url": "https://support.apple.com/zh-cn/120340",
     "supports": "生物识别、一小时安全延迟与两种生效范围。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "shortcuts",
     "title": "辅助功能快捷键",
     "url": "https://support.apple.com/zh-cn/111771",
     "supports": "防止误触再次打开及按需求保留辅助功能。",
-    "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "charging",
@@ -309,7 +347,8 @@
     "url": "https://support.apple.com/zh-cn/108055",
     "supports": "支持的机型、设置入口、两种充电策略及偶尔充至 100% 的例外。",
     "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "verification": "opened_official_page",
+    "authority": "Apple"
   },
   {
     "id": "limit-options",
@@ -317,7 +356,8 @@
     "url": "https://support.apple.com/zh-cn/guide/iphone/iph0777c60aa/26/ios/26",
     "supports": "临时充至 100% 与长期设定上限的区别，以及选项的有效期。",
     "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "verification": "opened_official_page",
+    "authority": "Apple"
   },
   {
     "id": "charging-help",
@@ -325,7 +365,8 @@
     "url": "https://support.apple.com/zh-cn/108805",
     "supports": "充电连接、线缆和适配器检查，以及继续无法充电时的服务路径。",
     "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "verification": "opened_official_page",
+    "authority": "Apple"
   },
   {
     "id": "maintenance",
@@ -333,7 +374,8 @@
     "url": "https://support.apple.com/zh-cn/105105",
     "supports": "接近充满时减小电流，高温与电池老化的关系。",
     "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "verification": "opened_official_page",
+    "authority": "Apple"
   },
   {
     "id": "health",
@@ -341,15 +383,17 @@
     "url": "https://support.apple.com/zh-cn/101575",
     "supports": "最大容量、化学老化、续航与电池寿命的区别。",
     "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "verification": "opened_official_page",
+    "authority": "Apple"
   },
   {
     "id": "lithium",
     "title": "Apple：为什么采用锂离子电池",
     "url": "https://www.apple.com.cn/batteries/why-lithium-ion/",
     "supports": "分阶段充电、按需补电及充电周期的含义。",
-    "checkedOn": "2026-10-22",
-    "verification": "fetch_failed_existing_reference_only"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   },
   {
     "id": "safety",
@@ -357,7 +401,8 @@
     "url": "https://support.apple.com/zh-cn/guide/iphone/iph301fc905/26/ios/26",
     "supports": "怀疑设备或电池受损时停止使用，联系专业服务。",
     "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "verification": "opened_official_page",
+    "authority": "Apple"
   },
   {
     "id": "health-info",
@@ -365,7 +410,8 @@
     "url": "https://support.apple.com/zh-cn/106348",
     "supports": "对应机型在理想条件下的500／1000次循环设计目标，实际容量受使用与充电影响；支持机型的健康与循环信息入口。",
     "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "verification": "opened_official_page",
+    "authority": "Apple"
   },
   {
     "id": "battery-care",
@@ -373,7 +419,8 @@
     "url": "https://support.apple.com/zh-cn/105105",
     "supports": "化学年龄、温度、充电方式和按需补电；不把保养习惯写成健康度保证。",
     "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "verification": "opened_official_page",
+    "authority": "Apple"
   },
   {
     "id": "power-modes",
@@ -381,7 +428,8 @@
     "url": "https://support.apple.com/zh-cn/101604",
     "supports": "功能作用、影响及充至80%或以上时自动关闭；按当前机型与系统查看入口。",
     "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "verification": "opened_official_page",
+    "authority": "Apple"
   },
   {
     "id": "adaptive",
@@ -389,14 +437,421 @@
     "url": "https://support.apple.com/zh-cn/123707",
     "supports": "适用机型、按用电需求进行调整和功能取舍；不推广到所有iPhone。",
     "checkedOn": "2026-10-22",
-    "verification": "opened_official_page"
+    "verification": "opened_official_page",
+    "authority": "Apple"
   },
   {
     "id": "cycles",
     "title": "了解 iPhone 电池循环次数",
     "url": "https://www.apple.com.cn/batteries/why-lithium-ion/",
     "supports": "充电循环以累计使用电量计算，并非连接充电器的次数。",
-    "checkedOn": "2026-10-22",
-    "verification": "fetch_failed_existing_reference_only"
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "wireless-charge",
+    "title": "如何为iPhone无线充电",
+    "url": "https://support.apple.com/zh-cn/108377",
+    "supports": "磁感应传能、对齐与配件、无线充电温升；不作固定效率承诺。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "battery-chemistry",
+    "title": "Apple锂离子电池",
+    "url": "https://www.apple.com.cn/batteries/why-lithium-ion/",
+    "supports": "锂离子充电、累计循环及电池使用基础。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "energy-basics",
+    "title": "Apple开发者：iOS能耗基础（归档）",
+    "url": "https://developer.apple.com/library/archive/documentation/Performance/Conceptual/EnergyGuide-iOS/FundamentalConcepts.html",
+    "supports": "计算、显示、网络及后台活动需要能量。归档基础概念，不用于当前机型的数值预测。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "charging-loss",
+    "title": "Texas Instruments：充电电源损耗与热设计（基础电源原理）",
+    "url": "https://www.ti.com/kr/lit/pdf/slyt674",
+    "supports": "通用充电电路的能量损耗与热设计。非Apple产品电路披露，不据此指定iPhone芯片或拓扑。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "primary-engineering"
+  },
+  {
+    "id": "battery-performance",
+    "title": "iPhone电池和性能",
+    "url": "https://support.apple.com/zh-cn/101575",
+    "supports": "化学老化、容量与供电能力、负载及环境的关系。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "network-reset",
+    "title": "无法连接无线局域网",
+    "url": "https://support.apple.com/zh-cn/111786",
+    "supports": "还原网络设置影响已保存无线局域网、蜂窝及VPN/APN等设置。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "reset-options",
+    "title": "将iPhone设置还原为默认值",
+    "url": "https://support.apple.com/zh-cn/guide/iphone/iphea1c2fe48/ios",
+    "supports": "还原网络与抹掉内容、eSIM选项的区分，受管理配置需另核对。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "call-failure",
+    "title": "无法拨打或接听电话",
+    "url": "https://support.apple.com/zh-cn/118427",
+    "supports": "运营商、电话设置、网络连接和对应通话测试。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "low-power",
+    "title": "使用低电量模式延长电池续航",
+    "url": "https://support.apple.com/zh-cn/101604",
+    "supports": "降低部分显示及后台活动；入口与影响按机型和系统核对。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "app-background",
+    "title": "在App之间切换",
+    "url": "https://support.apple.com/zh-cn/118408",
+    "supports": "后台App刷新、暂停状态与关闭App；切换器卡片不等于持续高负载。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "screenshot",
+    "title": "在iPhone上截屏",
+    "url": "https://support.apple.com/zh-cn/102616",
+    "supports": "截图操作及保存；跨设备对照是教学推理，非单项硬件确诊。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "purchase-auth",
+    "title": "为App Store等购买设置密码要求",
+    "url": "https://support.apple.com/zh-cn/119848",
+    "supports": "购买认证、免费获取与面容ID/触控ID用途。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "face-id-use",
+    "title": "使用面容ID",
+    "url": "https://support.apple.com/zh-cn/108411",
+    "supports": "解锁与购买等不同用途；面容ID不替代所有密码或恢复凭据。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "device-passcode",
+    "title": "在设备上使用密码",
+    "url": "https://support.apple.com/zh-cn/119586",
+    "supports": "设备访问密码与生物识别、账户密码的区别。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "account-services",
+    "title": "登录Apple账户",
+    "url": "https://support.apple.com/zh-cn/guide/iphone/iph76e54c61e/ios",
+    "supports": "账户与各项Apple服务登录、媒体购买及相关设置。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "purchase-devices",
+    "title": "查看和移除与购买项目关联的设备",
+    "url": "https://support.apple.com/zh-cn/118412",
+    "supports": "购买项目与账户的关联，不把当前持机人等同于历史购买者。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "two-factor",
+    "title": "Apple账户的双重认证",
+    "url": "https://support.apple.com/zh-cn/102660",
+    "supports": "账户密码、受信任设备/号码验证码，以及加密内容可能另需设备密码。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "keychain-security",
+    "title": "Apple平台安全：iCloud钥匙串",
+    "url": "https://support.apple.com/zh-cn/guide/security/sec1c89c6f3b/web",
+    "supports": "端到端加密与设备批准基础，不提供绕过或恢复保证。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "icloud-security",
+    "title": "iCloud数据安全概览",
+    "url": "https://support.apple.com/zh-cn/102651",
+    "supports": "不同资料的加密保护及端到端加密访问条件。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "photos-setup",
+    "title": "设置和使用iCloud照片",
+    "url": "https://support.apple.com/zh-cn/108782",
+    "supports": "同账户图库上传、同步与原件。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "photo-delete",
+    "title": "删除iPhone或iPad上的照片",
+    "url": "https://support.apple.com/zh-cn/104967",
+    "supports": "同步删除对iCloud及其他设备的影响。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "photos-disable",
+    "title": "关闭iCloud照片",
+    "url": "https://support.apple.com/zh-cn/102179",
+    "supports": "停止同步、本机原件与云端资料处理的不同选择。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "family-sharing",
+    "title": "什么是家人共享",
+    "url": "https://support.apple.com/zh-cn/105062",
+    "supports": "各自账户共享合适的服务与资源，不等于共用全部资料。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "family-privacy",
+    "title": "个人安全：家人共享",
+    "url": "https://support.apple.com/zh-cn/guide/personal-safety/ips75b3b794f/web",
+    "supports": "家庭资源共享与个人资料的隐私边界。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "shared-albums",
+    "title": "使用共享相簿",
+    "url": "https://support.apple.com/zh-cn/108314",
+    "supports": "选定内容、参与者与共享相簿的管理。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "shared-with-you",
+    "title": "个人安全：与你共享",
+    "url": "https://support.apple.com/zh-cn/guide/personal-safety/ipsc65ac8ddb/web",
+    "supports": "信息中共享内容的整理与已保存副本的区别。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "location-services",
+    "title": "定位服务与GPS",
+    "url": "https://support.apple.com/zh-cn/102647",
+    "supports": "综合GPS、无线局域网、蜂窝及蓝牙等位置线索，精度随条件变化。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "location-privacy",
+    "title": "定位服务的隐私控制",
+    "url": "https://support.apple.com/zh-cn/102515",
+    "supports": "定位权限、精确或大致位置与用户选择。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "contacts-accounts",
+    "title": "管理和删除联系人",
+    "url": "https://support.apple.com/zh-cn/111793",
+    "supports": "联系人账户、列表显示与不同账户来源。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "contacts-export",
+    "title": "导出和导入vCard",
+    "url": "https://support.apple.com/zh-cn/guide/icloud/mmfba748b2/icloud",
+    "supports": "使用平板或电脑浏览器制作联系人vCard副本。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "icloud-archive",
+    "title": "恢复iCloud中意外删除的内容",
+    "url": "https://support.apple.com/zh-cn/108306",
+    "supports": "可用联系人归档及恢复流程，不保证存在每一时点的版本。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "focus",
+    "title": "在iPhone上设置专注模式",
+    "url": "https://support.apple.com/zh-cn/guide/iphone/iphd6288a67f/ios",
+    "supports": "允许的人或App、时段与自动启用影响提醒。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "call-block",
+    "title": "屏蔽电话号码、联系人和电子邮件地址",
+    "url": "https://support.apple.com/zh-cn/111104",
+    "supports": "屏蔽状态与具体联系人的处理；入口按系统版本核对。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "iphone-notifications",
+    "title": "更改iPhone通知设置",
+    "url": "https://support.apple.com/zh-cn/108781",
+    "supports": "通知权限、呈现方式、声音及相关选项。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "watch-notifications",
+    "title": "Apple Watch上的通知",
+    "url": "https://support.apple.com/zh-cn/108369",
+    "supports": "iPhone解锁与手表锁定条件下的通知分配。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "watch-notification-settings",
+    "title": "管理Apple Watch通知",
+    "url": "https://support.apple.com/zh-cn/guide/watch/apd9b833c9f3/watchos",
+    "supports": "按App镜像、自定、内容隐私和提醒形式。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "watch-status",
+    "title": "Apple Watch状态图标",
+    "url": "https://support.apple.com/zh-cn/guide/watch/apdce21b02a0/watchos",
+    "supports": "未读红点、连接等图标各自含义。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "mail-setup",
+    "title": "在iPhone或iPad添加邮件账户",
+    "url": "https://support.apple.com/zh-cn/102619",
+    "supports": "提供商配置、自动或手动添加账户，认证与服务器参数。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "app-password",
+    "title": "使用Apple账户专用密码",
+    "url": "https://support.apple.com/zh-cn/102654",
+    "supports": "适用的第三方App访问授权；不照搬给其他邮箱提供商。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "mail-authorization",
+    "title": "关于邮件App的授权要求",
+    "url": "https://support.apple.com/zh-cn/121539",
+    "supports": "邮件客户端支持的授权要求与提供商官方流程。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "imap-protocol",
+    "title": "RFC 9051：IMAP4rev2",
+    "url": "https://www.rfc-editor.org/rfc/rfc9051.html",
+    "supports": "邮件客户端对服务器邮件与文件夹的访问和管理；技术协议基础。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "primary-engineering"
+  },
+  {
+    "id": "pop-protocol",
+    "title": "RFC 1939：POP3",
+    "url": "https://www.rfc-editor.org/rfc/rfc1939.html",
+    "supports": "邮件取回机制，副本保留须结合客户端和服务器实际设置；不教授过时认证配置。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "primary-engineering"
+  },
+  {
+    "id": "app-delete",
+    "title": "删除iPhone或iPad上的App",
+    "url": "https://support.apple.com/zh-cn/101550",
+    "supports": "删除程序及主屏幕移除的区别；取消订阅需另行处理。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "screen-time-password",
+    "title": "使用屏幕使用时间密码",
+    "url": "https://support.apple.com/zh-cn/126533",
+    "supports": "屏幕使用时间密码保护限额和访问限制，区别于设备解锁密码。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
+  },
+  {
+    "id": "screen-time-reset",
+    "title": "忘记屏幕使用时间密码",
+    "url": "https://support.apple.com/zh-cn/102677",
+    "supports": "恢复账户可能不同于当前登录账户，家庭管理需由家长按官方流程完成。",
+    "checkedOn": "2026-10-23",
+    "verification": "opened_primary_page",
+    "authority": "Apple"
   }
 ]
